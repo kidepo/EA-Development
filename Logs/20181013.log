@@ -1,0 +1,649 @@
+0	20:13:32.688	Custom indicator BBands Stop Alert GBPUSD,H1: loaded successfully
+0	20:13:32.779	Custom indicator Others\Grail Indic GBPUSD,H1: loaded successfully
+0	20:13:32.898	Custom indicator Others\Super-Point-Signal GBPUSD,H1: loaded successfully
+0	20:13:32.961	Custom indicator Others\LotSize GBPUSD,H1: loaded successfully
+0	20:13:33.022	Custom indicator Others\trend-magic GBPUSD,H1: loaded successfully
+0	20:13:33.063	Custom indicator Others\Vertical Line-moves with price GBPUSD,H1: loaded successfully
+0	20:13:33.109	Custom indicator ForexprofitsupremeClockv1 GBPUSD,H1: loaded successfully
+0	20:13:33.157	Custom indicator Snake GBPUSD,H1: loaded successfully
+0	20:13:33.191	Custom indicator HOLY GRAIL 1.6 GBPUSD,H1: loaded successfully
+0	20:13:33.266	Custom indicator Forexprofitsupreme Signal GBPUSD,H1: loaded successfully
+0	20:13:33.327	Custom indicator SEFC084 GBPUSD,H1: loaded successfully
+0	20:13:33.382	Custom indicator 1SSRC GBPUSD,H1: loaded successfully
+0	20:13:33.427	Custom indicator 1SSRC GBPUSD,H1: loaded successfully
+0	20:13:33.540	Custom indicator Dev\SoeHoe.ID_fxsecretsignal GBPUSD,H1: loaded successfully
+0	20:13:33.567	Custom indicator SEFC084 GBPUSD,H1: loaded successfully
+0	20:13:33.642	Custom indicator cracked_Mega_Fx GBPUSD,H1: loaded successfully
+0	20:13:33.676	Custom indicator Solar Winds joy GBPUSD,H1: loaded successfully
+0	20:13:33.676	BBands Stop Alert GBPUSD,H1: initialized
+0	20:13:33.676	Grail Indic GBPUSD,H1: initialized
+0	20:13:33.685	Super-Point-Signal GBPUSD,H1: initialized
+0	20:13:33.730	LotSize GBPUSD,H1: initialized
+0	20:13:33.739	trend-magic GBPUSD,H1: initialized
+0	20:13:33.739	Vertical Line-moves with price GBPUSD,H1: initialized
+0	20:13:33.748	ForexprofitsupremeClockv1 GBPUSD,H1: initialized
+0	20:13:33.776	Snake GBPUSD,H1: initialized
+0	20:13:33.776	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	20:13:33.776	Forexprofitsupreme Signal GBPUSD,H1: initialized
+0	20:13:33.776	SEFC084 GBPUSD,H1: initialized
+0	20:13:33.776	1SSRC GBPUSD,H1: initialized
+0	20:13:33.776	1SSRC GBPUSD,H1: initialized
+0	20:13:33.776	SoeHoe.ID_fxsecretsignal GBPUSD,H1: initialized
+0	20:13:33.776	SEFC084 GBPUSD,H1: initialized
+0	20:13:33.785	cracked_Mega_Fx GBPUSD,H1: initialized
+0	20:13:33.793	Solar Winds joy GBPUSD,H1: initialized
+0	20:13:34.103	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	20:13:34.203	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	20:13:34.206	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 20:13:34
+0	20:14:56.093	Custom indicator indics\xmaster-formula GBPUSD,H1: loaded successfully
+0	20:14:58.660	xmaster-formula GBPUSD,H1: initialized
+0	21:00:14.906	BBands Stop Alert GBPUSD,H1: uninit reason 3
+0	21:00:14.908	Grail Indic GBPUSD,H1: deinitialized
+0	21:00:14.908	Grail Indic GBPUSD,H1: uninit reason 3
+0	21:00:14.913	Super-Point-Signal GBPUSD,H1: uninit reason 3
+0	21:00:14.914	LotSize GBPUSD,H1: uninit reason 3
+0	21:00:14.914	trend-magic GBPUSD,H1: uninit reason 3
+0	21:00:14.915	Vertical Line-moves with price GBPUSD,H1: deinitialized
+0	21:00:14.915	Vertical Line-moves with price GBPUSD,H1: uninit reason 3
+0	21:00:14.915	ForexprofitsupremeClockv1 GBPUSD,H1: uninit reason 3
+0	21:00:14.915	Snake GBPUSD,H1: uninit reason 3
+0	21:00:14.915	HOLY GRAIL 1.6 GBPUSD,H1: deinitialized
+0	21:00:14.915	HOLY GRAIL 1.6 GBPUSD,H1: uninit reason 3
+0	21:00:14.916	Forexprofitsupreme Signal GBPUSD,H1: deinitialized
+0	21:00:14.916	Forexprofitsupreme Signal GBPUSD,H1: uninit reason 3
+0	21:00:14.916	SEFC084 GBPUSD,H1: uninit reason 3
+0	21:00:14.916	1SSRC GBPUSD,H1: deinitialized
+0	21:00:14.916	1SSRC GBPUSD,H1: uninit reason 3
+0	21:00:14.916	1SSRC GBPUSD,H1: deinitialized
+0	21:00:14.916	1SSRC GBPUSD,H1: uninit reason 3
+0	21:00:15.032	SoeHoe.ID_fxsecretsignal GBPUSD,H1: uninit reason 3
+0	21:00:15.032	SEFC084 GBPUSD,H1: uninit reason 3
+0	21:00:15.032	cracked_Mega_Fx GBPUSD,H1: uninit reason 3
+0	21:00:15.032	Solar Winds joy GBPUSD,H1: uninit reason 3
+0	21:00:15.033	xmaster-formula GBPUSD,H1: uninit reason 3
+0	21:00:15.122	BBands Stop Alert USDCAD,H1: initialized
+0	21:00:15.122	Grail Indic USDCAD,H1: initialized
+0	21:00:15.122	Super-Point-Signal USDCAD,H1: initialized
+0	21:00:15.122	LotSize USDCAD,H1: initialized
+0	21:00:15.123	trend-magic USDCAD,H1: initialized
+0	21:00:15.123	Vertical Line-moves with price USDCAD,H1: initialized
+0	21:00:15.123	ForexprofitsupremeClockv1 USDCAD,H1: initialized
+0	21:00:15.123	Snake USDCAD,H1: initialized
+0	21:00:15.123	HOLY GRAIL 1.6 USDCAD,H1: initialized
+0	21:00:15.123	Forexprofitsupreme Signal USDCAD,H1: initialized
+0	21:00:15.123	SEFC084 USDCAD,H1: initialized
+0	21:00:15.123	1SSRC USDCAD,H1: initialized
+0	21:00:15.123	1SSRC USDCAD,H1: initialized
+0	21:00:15.123	SoeHoe.ID_fxsecretsignal USDCAD,H1: initialized
+0	21:00:15.124	SEFC084 USDCAD,H1: initialized
+0	21:00:15.124	cracked_Mega_Fx USDCAD,H1: initialized
+0	21:00:15.124	Solar Winds joy USDCAD,H1: initialized
+0	21:00:15.124	xmaster-formula USDCAD,H1: initialized
+0	21:00:15.236	SEFC084 USDCAD,H1: Calculation time is 0.2 seconds
+0	21:00:15.331	SEFC084 USDCAD,H1: Calculation time is 0.2 seconds
+0	21:00:15.333	cracked_Mega_Fx USDCAD,H1: Alert: USDCAD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15626842 @ 21:00:15
+0	21:00:20.125	BBands Stop Alert GBPUSD,H4: uninit reason 3
+0	21:00:20.337	Grail Indic GBPUSD,H4: deinitialized
+0	21:00:20.337	Grail Indic GBPUSD,H4: uninit reason 3
+0	21:00:21.952	Super-Point-Signal GBPUSD,H4: uninit reason 3
+0	21:00:22.039	LotSize GBPUSD,H4: uninit reason 3
+0	21:00:22.040	trend-magic GBPUSD,H4: uninit reason 3
+0	21:00:22.108	Vertical Line-moves with price GBPUSD,H4: deinitialized
+0	21:00:22.108	Vertical Line-moves with price GBPUSD,H4: uninit reason 3
+0	21:00:22.109	ForexprofitsupremeClockv1 GBPUSD,H4: uninit reason 3
+0	21:00:22.109	Snake GBPUSD,H4: uninit reason 3
+0	21:00:22.110	HOLY GRAIL 1.6 GBPUSD,H4: deinitialized
+0	21:00:22.110	HOLY GRAIL 1.6 GBPUSD,H4: uninit reason 3
+0	21:00:22.159	Forexprofitsupreme Signal GBPUSD,H4: deinitialized
+0	21:00:22.159	Forexprofitsupreme Signal GBPUSD,H4: uninit reason 3
+0	21:00:22.200	Ashkan_Strategy_betaV7 GBPUSD,H4: uninit reason 3
+0	21:00:22.339	Ashkan_Strategy_betaV7 GBPUSD,H4: uninit reason 3
+0	21:00:22.662	SEFC084 GBPUSD,H4: uninit reason 3
+0	21:00:22.663	1SSRC GBPUSD,H4: deinitialized
+0	21:00:22.663	1SSRC GBPUSD,H4: uninit reason 3
+0	21:00:22.689	1SSRC GBPUSD,H4: deinitialized
+0	21:00:22.689	1SSRC GBPUSD,H4: uninit reason 3
+0	21:00:22.717	SoeHoe.ID_fxsecretsignal GBPUSD,H4: uninit reason 3
+0	21:00:22.717	SEFC084 GBPUSD,H4: uninit reason 3
+0	21:00:22.717	cracked_Mega_Fx GBPUSD,H4: uninit reason 3
+0	21:00:22.717	Solar Winds joy GBPUSD,H4: uninit reason 3
+0	21:00:22.717	xmaster-formula GBPUSD,H4: uninit reason 3
+0	21:00:22.848	BBands Stop Alert USDCAD,H4: initialized
+0	21:00:22.849	Grail Indic USDCAD,H4: initialized
+0	21:00:22.899	Super-Point-Signal USDCAD,H4: initialized
+0	21:00:22.900	LotSize USDCAD,H4: initialized
+0	21:00:22.900	trend-magic USDCAD,H4: initialized
+0	21:00:22.921	Vertical Line-moves with price USDCAD,H4: initialized
+0	21:00:22.922	ForexprofitsupremeClockv1 USDCAD,H4: initialized
+0	21:00:22.922	Snake USDCAD,H4: initialized
+0	21:00:22.923	HOLY GRAIL 1.6 USDCAD,H4: initialized
+0	21:00:22.924	Forexprofitsupreme Signal USDCAD,H4: initialized
+0	21:00:22.939	Ashkan_Strategy_betaV7 USDCAD,H4: initialized
+0	21:00:22.940	Ashkan_Strategy_betaV7 USDCAD,H4: initialized
+0	21:00:22.940	SEFC084 USDCAD,H4: initialized
+0	21:00:22.941	1SSRC USDCAD,H4: initialized
+0	21:00:22.942	1SSRC USDCAD,H4: initialized
+0	21:00:22.943	SoeHoe.ID_fxsecretsignal USDCAD,H4: initialized
+0	21:00:22.944	SEFC084 USDCAD,H4: initialized
+0	21:00:22.969	cracked_Mega_Fx USDCAD,H4: initialized
+0	21:00:22.971	Solar Winds joy USDCAD,H4: initialized
+0	21:00:22.974	xmaster-formula USDCAD,H4: initialized
+0	21:04:11.355	BBands Stop Alert USDCAD,H1: uninit reason 3
+0	21:04:11.355	Grail Indic USDCAD,H1: deinitialized
+0	21:04:11.355	Grail Indic USDCAD,H1: uninit reason 3
+0	21:04:11.356	Super-Point-Signal USDCAD,H1: uninit reason 3
+0	21:04:11.356	LotSize USDCAD,H1: uninit reason 3
+0	21:04:11.356	trend-magic USDCAD,H1: uninit reason 3
+0	21:04:11.356	Vertical Line-moves with price USDCAD,H1: deinitialized
+0	21:04:11.356	Vertical Line-moves with price USDCAD,H1: uninit reason 3
+0	21:04:11.356	ForexprofitsupremeClockv1 USDCAD,H1: uninit reason 3
+0	21:04:11.356	Snake USDCAD,H1: uninit reason 3
+0	21:04:11.356	HOLY GRAIL 1.6 USDCAD,H1: deinitialized
+0	21:04:11.356	HOLY GRAIL 1.6 USDCAD,H1: uninit reason 3
+0	21:04:11.356	Forexprofitsupreme Signal USDCAD,H1: deinitialized
+0	21:04:11.356	Forexprofitsupreme Signal USDCAD,H1: uninit reason 3
+0	21:04:11.356	SEFC084 USDCAD,H1: uninit reason 3
+0	21:04:11.356	1SSRC USDCAD,H1: deinitialized
+0	21:04:11.356	1SSRC USDCAD,H1: uninit reason 3
+0	21:04:11.357	1SSRC USDCAD,H1: deinitialized
+0	21:04:11.357	1SSRC USDCAD,H1: uninit reason 3
+0	21:04:11.357	SoeHoe.ID_fxsecretsignal USDCAD,H1: uninit reason 3
+0	21:04:11.357	SEFC084 USDCAD,H1: uninit reason 3
+0	21:04:11.357	cracked_Mega_Fx USDCAD,H1: uninit reason 3
+0	21:04:11.357	Solar Winds joy USDCAD,H1: uninit reason 3
+0	21:04:11.357	xmaster-formula USDCAD,H1: uninit reason 3
+0	21:04:11.555	BBands Stop Alert GBPJPY,H1: initialized
+0	21:04:11.555	Grail Indic GBPJPY,H1: initialized
+0	21:04:11.555	Super-Point-Signal GBPJPY,H1: initialized
+0	21:04:11.555	LotSize GBPJPY,H1: initialized
+0	21:04:11.555	trend-magic GBPJPY,H1: initialized
+0	21:04:11.555	Vertical Line-moves with price GBPJPY,H1: initialized
+0	21:04:11.555	ForexprofitsupremeClockv1 GBPJPY,H1: initialized
+0	21:04:11.555	Snake GBPJPY,H1: initialized
+0	21:04:11.555	HOLY GRAIL 1.6 GBPJPY,H1: initialized
+0	21:04:11.555	Forexprofitsupreme Signal GBPJPY,H1: initialized
+0	21:04:11.555	SEFC084 GBPJPY,H1: initialized
+0	21:04:11.555	1SSRC GBPJPY,H1: initialized
+0	21:04:11.555	1SSRC GBPJPY,H1: initialized
+0	21:04:11.555	SoeHoe.ID_fxsecretsignal GBPJPY,H1: initialized
+0	21:04:11.555	SEFC084 GBPJPY,H1: initialized
+0	21:04:11.556	cracked_Mega_Fx GBPJPY,H1: initialized
+0	21:04:11.556	Solar Winds joy GBPJPY,H1: initialized
+0	21:04:11.556	xmaster-formula GBPJPY,H1: initialized
+0	21:04:11.737	SEFC084 GBPJPY,H1: Calculation time is 0.2 seconds
+0	21:04:11.832	SEFC084 GBPJPY,H1: Calculation time is 0.2 seconds
+0	21:04:11.834	cracked_Mega_Fx GBPJPY,H1: Alert: GBPJPY, TF:H1, MEGAFXPROFIT SELL SIGNAL for Level: -0.50754659 @ 21:04:11
+0	21:05:03.310	BBands Stop Alert GBPJPY,H1: uninit reason 3
+0	21:05:03.310	Grail Indic GBPJPY,H1: deinitialized
+0	21:05:03.310	Grail Indic GBPJPY,H1: uninit reason 3
+0	21:05:03.311	Super-Point-Signal GBPJPY,H1: uninit reason 3
+0	21:05:03.311	LotSize GBPJPY,H1: uninit reason 3
+0	21:05:03.311	trend-magic GBPJPY,H1: uninit reason 3
+0	21:05:03.311	Vertical Line-moves with price GBPJPY,H1: deinitialized
+0	21:05:03.311	Vertical Line-moves with price GBPJPY,H1: uninit reason 3
+0	21:05:03.311	ForexprofitsupremeClockv1 GBPJPY,H1: uninit reason 3
+0	21:05:03.311	Snake GBPJPY,H1: uninit reason 3
+0	21:05:03.311	HOLY GRAIL 1.6 GBPJPY,H1: deinitialized
+0	21:05:03.311	HOLY GRAIL 1.6 GBPJPY,H1: uninit reason 3
+0	21:05:03.311	Forexprofitsupreme Signal GBPJPY,H1: deinitialized
+0	21:05:03.311	Forexprofitsupreme Signal GBPJPY,H1: uninit reason 3
+0	21:05:03.311	SEFC084 GBPJPY,H1: uninit reason 3
+0	21:05:03.311	1SSRC GBPJPY,H1: deinitialized
+0	21:05:03.311	1SSRC GBPJPY,H1: uninit reason 3
+0	21:05:03.311	1SSRC GBPJPY,H1: deinitialized
+0	21:05:03.311	1SSRC GBPJPY,H1: uninit reason 3
+0	21:05:03.311	SoeHoe.ID_fxsecretsignal GBPJPY,H1: uninit reason 3
+0	21:05:03.311	SEFC084 GBPJPY,H1: uninit reason 3
+0	21:05:03.311	cracked_Mega_Fx GBPJPY,H1: uninit reason 3
+0	21:05:03.311	Solar Winds joy GBPJPY,H1: uninit reason 3
+0	21:05:03.311	xmaster-formula GBPJPY,H1: uninit reason 3
+0	21:05:03.311	BBands Stop Alert GBPUSD,H1: initialized
+0	21:05:03.311	Grail Indic GBPUSD,H1: initialized
+0	21:05:03.311	Super-Point-Signal GBPUSD,H1: initialized
+0	21:05:03.311	LotSize GBPUSD,H1: initialized
+0	21:05:03.311	trend-magic GBPUSD,H1: initialized
+0	21:05:03.311	Vertical Line-moves with price GBPUSD,H1: initialized
+0	21:05:03.311	ForexprofitsupremeClockv1 GBPUSD,H1: initialized
+0	21:05:03.312	Snake GBPUSD,H1: initialized
+0	21:05:03.312	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	21:05:03.312	Forexprofitsupreme Signal GBPUSD,H1: initialized
+0	21:05:03.312	SEFC084 GBPUSD,H1: initialized
+0	21:05:03.312	1SSRC GBPUSD,H1: initialized
+0	21:05:03.312	1SSRC GBPUSD,H1: initialized
+0	21:05:03.312	SoeHoe.ID_fxsecretsignal GBPUSD,H1: initialized
+0	21:05:03.312	SEFC084 GBPUSD,H1: initialized
+0	21:05:03.312	cracked_Mega_Fx GBPUSD,H1: initialized
+0	21:05:03.312	Solar Winds joy GBPUSD,H1: initialized
+0	21:05:03.312	xmaster-formula GBPUSD,H1: initialized
+0	21:05:03.497	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	21:05:03.593	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	21:05:03.596	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 21:05:03
+0	21:07:32.780	BBands Stop Alert GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Grail Indic GBPUSD,H1: deinitialized
+0	21:07:32.780	Grail Indic GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Super-Point-Signal GBPUSD,H1: uninit reason 3
+0	21:07:32.780	LotSize GBPUSD,H1: uninit reason 3
+0	21:07:32.780	trend-magic GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Vertical Line-moves with price GBPUSD,H1: deinitialized
+0	21:07:32.780	Vertical Line-moves with price GBPUSD,H1: uninit reason 3
+0	21:07:32.780	ForexprofitsupremeClockv1 GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Snake GBPUSD,H1: uninit reason 3
+0	21:07:32.780	HOLY GRAIL 1.6 GBPUSD,H1: deinitialized
+0	21:07:32.780	HOLY GRAIL 1.6 GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Forexprofitsupreme Signal GBPUSD,H1: deinitialized
+0	21:07:32.780	Forexprofitsupreme Signal GBPUSD,H1: uninit reason 3
+0	21:07:32.780	SEFC084 GBPUSD,H1: uninit reason 3
+0	21:07:32.780	1SSRC GBPUSD,H1: deinitialized
+0	21:07:32.780	1SSRC GBPUSD,H1: uninit reason 3
+0	21:07:32.780	1SSRC GBPUSD,H1: deinitialized
+0	21:07:32.780	1SSRC GBPUSD,H1: uninit reason 3
+0	21:07:32.780	SoeHoe.ID_fxsecretsignal GBPUSD,H1: uninit reason 3
+0	21:07:32.780	SEFC084 GBPUSD,H1: uninit reason 3
+0	21:07:32.780	cracked_Mega_Fx GBPUSD,H1: uninit reason 3
+0	21:07:32.780	Solar Winds joy GBPUSD,H1: uninit reason 3
+0	21:07:32.780	xmaster-formula GBPUSD,H1: uninit reason 3
+0	21:07:32.781	BBands Stop Alert AUDUSD,H1: initialized
+0	21:07:32.781	Grail Indic AUDUSD,H1: initialized
+0	21:07:32.781	Super-Point-Signal AUDUSD,H1: initialized
+0	21:07:32.781	LotSize AUDUSD,H1: initialized
+0	21:07:32.781	trend-magic AUDUSD,H1: initialized
+0	21:07:32.782	Vertical Line-moves with price AUDUSD,H1: initialized
+0	21:07:32.782	ForexprofitsupremeClockv1 AUDUSD,H1: initialized
+0	21:07:32.782	Snake AUDUSD,H1: initialized
+0	21:07:32.782	HOLY GRAIL 1.6 AUDUSD,H1: initialized
+0	21:07:32.782	Forexprofitsupreme Signal AUDUSD,H1: initialized
+0	21:07:32.782	SEFC084 AUDUSD,H1: initialized
+0	21:07:32.782	1SSRC AUDUSD,H1: initialized
+0	21:07:32.782	1SSRC AUDUSD,H1: initialized
+0	21:07:32.782	SoeHoe.ID_fxsecretsignal AUDUSD,H1: initialized
+0	21:07:32.782	SEFC084 AUDUSD,H1: initialized
+0	21:07:32.782	cracked_Mega_Fx AUDUSD,H1: initialized
+0	21:07:32.782	Solar Winds joy AUDUSD,H1: initialized
+0	21:07:32.782	xmaster-formula AUDUSD,H1: initialized
+0	21:07:32.888	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	21:07:32.984	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	21:07:32.987	cracked_Mega_Fx AUDUSD,H1: Alert: AUDUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.06391117 @ 21:07:32
+0	21:21:26.125	Custom indicator xmaster-formula GBPUSD,H1: loaded successfully
+0	21:21:27.942	xmaster-formula GBPUSD,H1: initialized
+0	21:47:01.194	Custom indicator WAExplosion GBPUSD,H1: loaded successfully
+0	21:47:03.130	WAExplosion GBPUSD,H1: initialized
+0	21:47:18.613	WAExplosion GBPUSD,H1: uninit reason 1
+0	21:47:18.613	Custom indicator WAExplosion GBPUSD,H1: removed
+0	21:47:30.862	Custom indicator Trend Magic GBPUSD,H1: loaded successfully
+0	21:47:33.436	Trend Magic GBPUSD,H1: initialized
+0	21:48:02.247	BBands Stop Alert AUDUSD,H1: uninit reason 3
+0	21:48:02.248	Grail Indic AUDUSD,H1: deinitialized
+0	21:48:02.248	Grail Indic AUDUSD,H1: uninit reason 3
+0	21:48:02.250	Super-Point-Signal AUDUSD,H1: uninit reason 3
+0	21:48:02.250	LotSize AUDUSD,H1: uninit reason 3
+0	21:48:02.250	trend-magic AUDUSD,H1: uninit reason 3
+0	21:48:02.252	Vertical Line-moves with price AUDUSD,H1: deinitialized
+0	21:48:02.252	Vertical Line-moves with price AUDUSD,H1: uninit reason 3
+0	21:48:02.252	ForexprofitsupremeClockv1 AUDUSD,H1: uninit reason 3
+0	21:48:02.252	Snake AUDUSD,H1: uninit reason 3
+0	21:48:02.252	HOLY GRAIL 1.6 AUDUSD,H1: deinitialized
+0	21:48:02.252	HOLY GRAIL 1.6 AUDUSD,H1: uninit reason 3
+0	21:48:02.252	Forexprofitsupreme Signal AUDUSD,H1: deinitialized
+0	21:48:02.252	Forexprofitsupreme Signal AUDUSD,H1: uninit reason 3
+0	21:48:02.252	SEFC084 AUDUSD,H1: uninit reason 3
+0	21:48:02.252	1SSRC AUDUSD,H1: deinitialized
+0	21:48:02.252	1SSRC AUDUSD,H1: uninit reason 3
+0	21:48:02.252	1SSRC AUDUSD,H1: deinitialized
+0	21:48:02.252	1SSRC AUDUSD,H1: uninit reason 3
+0	21:48:02.252	SoeHoe.ID_fxsecretsignal AUDUSD,H1: uninit reason 3
+0	21:48:02.252	SEFC084 AUDUSD,H1: uninit reason 3
+0	21:48:02.252	cracked_Mega_Fx AUDUSD,H1: uninit reason 3
+0	21:48:02.252	Solar Winds joy AUDUSD,H1: uninit reason 3
+0	21:48:02.252	xmaster-formula AUDUSD,H1: uninit reason 3
+0	21:48:02.253	BBands Stop Alert GBPUSD,H1: initialized
+0	21:48:02.254	Grail Indic GBPUSD,H1: initialized
+0	21:48:02.254	Super-Point-Signal GBPUSD,H1: initialized
+0	21:48:02.254	LotSize GBPUSD,H1: initialized
+0	21:48:02.254	trend-magic GBPUSD,H1: initialized
+0	21:48:02.254	Vertical Line-moves with price GBPUSD,H1: initialized
+0	21:48:02.254	ForexprofitsupremeClockv1 GBPUSD,H1: initialized
+0	21:48:02.254	Snake GBPUSD,H1: initialized
+0	21:48:02.254	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	21:48:02.254	Forexprofitsupreme Signal GBPUSD,H1: initialized
+0	21:48:02.254	SEFC084 GBPUSD,H1: initialized
+0	21:48:02.255	1SSRC GBPUSD,H1: initialized
+0	21:48:02.255	1SSRC GBPUSD,H1: initialized
+0	21:48:02.255	SoeHoe.ID_fxsecretsignal GBPUSD,H1: initialized
+0	21:48:02.255	SEFC084 GBPUSD,H1: initialized
+0	21:48:02.255	cracked_Mega_Fx GBPUSD,H1: initialized
+0	21:48:02.255	Solar Winds joy GBPUSD,H1: initialized
+0	21:48:02.256	xmaster-formula GBPUSD,H1: initialized
+0	21:48:02.447	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	21:48:02.571	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	21:48:02.575	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 21:48:02
+0	21:49:22.821	ForexProfitSupreme Meter USDCAD,H1: deinitialized
+0	21:49:22.821	ForexProfitSupreme Meter USDCAD,H1: uninit reason 3
+0	21:49:22.822	Forexprofitsupreme Bars USDCAD,H1: uninit reason 3
+0	21:49:22.843	Forexprofitsupreme Signal USDCAD,H1: deinitialized
+0	21:49:22.843	Forexprofitsupreme Signal USDCAD,H1: uninit reason 3
+0	21:49:22.867	ForexprofitsupremeClock USDCAD,H1: deinitialized
+0	21:49:22.867	ForexprofitsupremeClock USDCAD,H1: uninit reason 3
+0	21:49:22.867	Super-Point-Signal USDCAD,H1: uninit reason 3
+0	21:49:22.867	BBands Stop Alert USDCAD,H1: uninit reason 3
+0	21:49:22.867	perfectrend_lines USDCAD,H1: uninit reason 3
+0	21:49:22.867	ForexprofitsupremeFilter USDCAD,H1: uninit reason 3
+0	21:49:22.867	ForexprofitsupremeDline USDCAD,H1: deinitialized
+0	21:49:22.867	ForexprofitsupremeDline USDCAD,H1: uninit reason 3
+0	21:49:22.867	Solar Winds joy USDCAD,H1: uninit reason 3
+0	21:49:22.867	1SSRC USDCAD,H1: deinitialized
+0	21:49:22.867	1SSRC USDCAD,H1: uninit reason 3
+0	21:49:22.867	1SSRC USDCAD,H1: deinitialized
+0	21:49:22.867	1SSRC USDCAD,H1: uninit reason 3
+0	21:49:22.867	xmaster-formula USDCAD,H1: uninit reason 3
+0	21:49:22.867	cracked_Mega_Fx USDCAD,H1: uninit reason 3
+0	21:49:22.867	ForexProfitSupreme Meter GBPUSD,H1: initialized
+0	21:49:22.868	Forexprofitsupreme Bars GBPUSD,H1: initialized
+0	21:49:22.868	Forexprofitsupreme Signal GBPUSD,H1: initialized
+0	21:49:22.868	ForexprofitsupremeClock GBPUSD,H1: initialized
+0	21:49:22.868	Super-Point-Signal GBPUSD,H1: initialized
+0	21:49:22.868	BBands Stop Alert GBPUSD,H1: initialized
+0	21:49:22.868	perfectrend_lines GBPUSD,H1: initialized
+0	21:49:22.898	ForexprofitsupremeFilter GBPUSD,H1: initialized
+0	21:49:22.898	ForexprofitsupremeDline GBPUSD,H1: initialized
+0	21:49:22.898	Solar Winds joy GBPUSD,H1: initialized
+0	21:49:22.898	1SSRC GBPUSD,H1: initialized
+0	21:49:22.898	1SSRC GBPUSD,H1: initialized
+0	21:49:22.898	xmaster-formula GBPUSD,H1: initialized
+0	21:49:22.899	cracked_Mega_Fx GBPUSD,H1: initialized
+0	21:49:23.364	BBands Stop Alert GBPUSD,H1: Alert: Bbands Stop Alert Sell --> GBPUSD@TF60
+0	21:49:23.493	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 21:49:23
+0	21:55:34.544	Custom indicator indics\!--Dream Signals Scalper GBPUSD,H1: loaded successfully
+0	21:55:36.573	!--Dream Signals Scalper GBPUSD,H1: initialized
+0	21:55:50.972	!--Dream Signals Scalper GBPUSD,H1: deinitialized
+0	21:55:50.972	!--Dream Signals Scalper GBPUSD,H1: uninit reason 7
+0	21:55:50.972	Custom indicator !--Dream Signals Scalper GBPUSD,H1: removed
+0	21:55:51.063	Custom indicator EMA_ARROW GBPUSD,H1: loaded successfully
+0	21:55:51.107	Custom indicator BinaryComodo GBPUSD,H1: loaded successfully
+0	21:55:51.189	Expert Singu Simple trend EA V2 GBPUSD,H1: loaded successfully
+0	21:55:51.189	Singu Simple trend EA V2 GBPUSD,H1 inputs: note1=% of your Account Ballance; Risk=5.0; note2=Expiry Time; ExpireSeconds=300; note3=SVE_RSI_I_Fish Settings; RsiPeriod=4; EmaPeriod=4; InverseFisherIsBelow=30; InverseFisherIsAbove=70; note4=BinaryComodo Settings; FasterEMA=5; SlowerEMA=200; RsiPeriod2=12; note5=EMA Arrow Settings; EMAPeriod3=60; EMAMethod3=0; EMAPrice3=0; note6=How long must the EA run for? (Broker Time); HourBegin=0; HourEnd=24; 
+0	21:55:51.197	EMA_ARROW GBPUSD,H1: initialized
+0	21:55:51.204	BinaryComodo GBPUSD,H1: initialized
+0	21:55:58.080	EMA_ARROW GBPUSD,H1: uninit reason 7
+0	21:55:58.080	BinaryComodo GBPUSD,H1: uninit reason 7
+0	21:55:58.081	Expert Singu Simple trend EA V2 GBPUSD,H1: removed
+0	21:55:58.085	Custom indicator EMA_ARROW GBPUSD,H1: removed
+0	21:55:58.086	Custom indicator BinaryComodo GBPUSD,H1: removed
+0	21:55:58.295	Custom indicator FL01 GBPUSD,H1: loaded successfully
+0	21:55:58.337	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.367	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.396	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.433	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.462	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.490	Custom indicator FL02 GBPUSD,H1: loaded successfully
+0	21:55:58.535	Custom indicator FL10 GBPUSD,H1: loaded successfully
+0	21:55:58.601	Custom indicator FL13 GBPUSD,H1: loaded successfully
+0	21:55:58.650	Custom indicator FL11 GBPUSD,H1: loaded successfully
+0	21:55:58.696	Custom indicator FL07 GBPUSD,H1: loaded successfully
+0	21:55:58.767	Custom indicator FL23 GBPUSD,H1: loaded successfully
+0	21:55:58.816	Custom indicator FL22 GBPUSD,H1: loaded successfully
+0	21:55:58.817	FL01 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL02 GBPUSD,H1: initialized
+0	21:55:58.817	FL10 GBPUSD,H1: initialized
+0	21:55:58.817	FL13 GBPUSD,H1: initialized
+0	21:55:58.817	FL11 GBPUSD,H1: initialized
+0	21:55:58.818	FL07 GBPUSD,H1: initialized
+0	21:55:58.818	FL23 GBPUSD,H1: initialized
+0	21:55:58.818	FL22 GBPUSD,H1: initialized
+0	21:55:59.252	FL23 GBPUSD,H1: Alert: GBPUSD, TF:H1, Trend Is Now Up, value: 0.48579971 @ 21:55:59
+0	21:56:10.070	FL01 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL01 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL02 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL02 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL10 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL10 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL13 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL13 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL11 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL11 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL07 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL07 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL23 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	FL22 GBPUSD,H1: deinitialized
+0	21:56:10.070	FL22 GBPUSD,H1: uninit reason 7
+0	21:56:10.070	Custom indicator FL01 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL02 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL10 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL13 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL11 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL07 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL23 GBPUSD,H1: removed
+0	21:56:10.070	Custom indicator FL22 GBPUSD,H1: removed
+0	21:56:10.262	Custom indicator X 3 Semafor GBPUSD,H1: loaded successfully
+0	21:56:10.332	Custom indicator Synergy_Pro_ASR GBPUSD,H1: loaded successfully
+0	21:56:10.359	Custom indicator Extreme_Spike GBPUSD,H1: loaded successfully
+0	21:56:10.359	X 3 Semafor GBPUSD,H1: initialized
+0	21:56:10.359	Synergy_Pro_ASR GBPUSD,H1: initialized
+0	21:56:10.368	Extreme_Spike GBPUSD,H1: initialized
+0	21:56:10.372	X 3 Semafor GBPUSD,H1: Alert:  ZZS: Level 1 Low;  GBPUSD  H1 at 1.31546
+0	21:56:47.460	X 3 Semafor GBPUSD,H1: deinitialized
+0	21:56:47.460	X 3 Semafor GBPUSD,H1: uninit reason 7
+0	21:56:47.460	Synergy_Pro_ASR GBPUSD,H1: deinitialized
+0	21:56:47.460	Synergy_Pro_ASR GBPUSD,H1: uninit reason 7
+0	21:56:47.460	Extreme_Spike GBPUSD,H1: uninit reason 7
+0	21:56:47.460	Custom indicator X 3 Semafor GBPUSD,H1: removed
+0	21:56:47.460	Custom indicator Synergy_Pro_ASR GBPUSD,H1: removed
+0	21:56:47.461	Custom indicator Extreme_Spike GBPUSD,H1: removed
+0	21:56:55.668	Custom indicator Heiken Ashi GBPUSD,H1: loaded successfully
+0	21:56:55.697	Custom indicator BB_Alert Arrows GBPUSD,H1: loaded successfully
+0	21:56:55.753	Custom indicator MBFX Timing GBPUSD,H1: loaded successfully
+0	21:56:55.763	Heiken Ashi GBPUSD,H1: initialized
+0	21:56:55.772	BB_Alert Arrows GBPUSD,H1: initialized
+0	21:56:55.772	MBFX Timing GBPUSD,H1: initialized
+0	21:57:06.835	Heiken Ashi GBPUSD,H1: uninit reason 7
+0	21:57:06.835	BB_Alert Arrows GBPUSD,H1: uninit reason 7
+0	21:57:06.835	MBFX Timing GBPUSD,H1: deinitialized
+0	21:57:06.835	MBFX Timing GBPUSD,H1: uninit reason 7
+0	21:57:06.837	Custom indicator Heiken Ashi GBPUSD,H1: removed
+0	21:57:06.839	Custom indicator BB_Alert Arrows GBPUSD,H1: removed
+0	21:57:06.839	Custom indicator MBFX Timing GBPUSD,H1: removed
+3	21:57:06.950	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q 3 level zz semafor.ex4' [2]
+3	21:57:06.950	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q Dolly Graphics V13.ex4' [2]
+0	21:57:07.008	Custom indicator @Q Candle Time GBPUSD,H1: loaded successfully
+3	21:57:07.008	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\LaguerreFilter.ex4' [2]
+3	21:57:07.009	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q Bbands Stop.ex4' [2]
+3	21:57:07.009	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q Sidus Crossover~.ex4' [2]
+0	21:57:07.060	Custom indicator @Q Super Signal GBPUSD,H1: loaded successfully
+3	21:57:07.061	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q Sidus Crossover Signal.ex4' [2]
+3	21:57:07.061	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q 1000 pips one week signal optimezed.ex4' [2]
+3	21:57:07.061	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q Lauer.ex4' [2]
+3	21:57:07.062	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\@Q GMACD Trend Signal.ex4' [2]
+0	21:57:07.162	Expert fx multi meter GBPUSD,H1: loaded successfully
+0	21:57:07.162	fx multi meter GBPUSD,H1 inputs: Title1="== History Line ======================="; DisplayHistoryLine=true; LineColor=(105,105,105); Title2="== Compact Mode ===================="; DisplayCompact=false; Title3="== Display Price/Chart/Currency ========="; DisplayPriceInfo=false; PriceFontSize=32; PriceColor=(255,255,255); ChartFontSize=16; ChartColor=(105,105,105); DisplayOptions="== Use Monthly Chart for Options ======"; DisableMonthly=true; Title4="== Processing Latency (Sleep) =========="; LatencyDescription1="Higher values reduce flickering."; LatencyDescription2="Lower values increase responsiveness."; Latency=100; Title5="== Trend-O-Graph ===================="; MA_Types="0=SMA, 1=EMA, 2=SMMA, 4=LWMA"; DisplayTrendGraph=true; MA_Type=2; MA1_Period=3; MA2_Period=5; MA3_Period=10; MA4_Period=20; MA5_Period=50; MA6_Period=100; MA7_Period=200; Title6="== Overall Signal ====================="; CurrentIndicators="Current Indicators"; Include_MAXover=true; Include_MACD=true; Include_PSAR=true; Include_MA=true; Include_STOCH=true; 
+0	21:57:07.162	@Q Candle Time GBPUSD,H1: initialized
+0	21:57:07.162	@Q Super Signal GBPUSD,H1: initialized
+0	21:57:14.865	@Q Candle Time GBPUSD,H1: uninit reason 7
+0	21:57:14.865	@Q Super Signal GBPUSD,H1: uninit reason 7
+0	21:57:14.867	Expert fx multi meter GBPUSD,H1: removed
+0	21:57:14.867	Custom indicator @Q Candle Time GBPUSD,H1: removed
+0	21:57:14.867	Custom indicator @Q Super Signal GBPUSD,H1: removed
+0	21:57:15.209	Custom indicator ProfitableStrategy_7 GBPUSD,H1: loaded successfully
+0	21:57:15.256	Custom indicator ProfitableStrategy_9 GBPUSD,H1: loaded successfully
+0	21:57:15.282	Custom indicator SwingForce GBPUSD,H1: loaded successfully
+0	21:57:15.341	Custom indicator Level ZZ Semafor GBPUSD,H1: loaded successfully
+0	21:57:15.384	Custom indicator Vertical Line-moves with price GBPUSD,H1: loaded successfully
+0	21:57:15.432	Custom indicator Pivot Points Multitimeframe GBPUSD,H1: loaded successfully
+0	21:57:15.513	Custom indicator !--Dream Signals Scalper GBPUSD,H1: loaded successfully
+0	21:57:15.554	Custom indicator AutoFibonacci GBPUSD,H1: loaded successfully
+0	21:57:15.618	Custom indicator +++Agimat GBPUSD,H1: loaded successfully
+0	21:57:15.660	Custom indicator superscalper05 GBPUSD,H1: loaded successfully
+0	21:57:15.716	Custom indicator MT4 CURRENCY POWER GBPUSD,H1: loaded successfully
+0	21:57:15.790	Custom indicator +++Agimat TrendTube GBPUSD,H1: loaded successfully
+0	21:57:15.802	Custom indicator cracked_Mega_Fx GBPUSD,H1: loaded successfully
+0	21:57:15.839	Custom indicator Peak GBPUSD,H1: loaded successfully
+0	21:57:15.852	Custom indicator +++Agimat OBOS V1.1 GBPUSD,H1: loaded successfully
+0	21:57:15.879	Custom indicator +++Agimat MarketWatch 1.1 GBPUSD,H1: loaded successfully
+0	21:57:15.880	ProfitableStrategy_7 GBPUSD,H1: initialized
+0	21:57:15.880	ProfitableStrategy_9 GBPUSD,H1: initialized
+0	21:57:15.918	SwingForce GBPUSD,H1: initialized
+0	21:57:15.918	Level ZZ Semafor GBPUSD,H1: initialized
+0	21:57:15.918	Vertical Line-moves with price GBPUSD,H1: initialized
+0	21:57:15.918	Pivot Points Multitimeframe GBPUSD,H1: initialized
+0	21:57:15.926	!--Dream Signals Scalper GBPUSD,H1: initialized
+0	21:57:15.935	AutoFibonacci GBPUSD,H1: initialized
+0	21:57:15.943	+++Agimat GBPUSD,H1: initialized
+3	21:57:15.943	superscalper05 GBPUSD,H1: ArrayInitialize function internal error
+3	21:57:15.943	superscalper05 GBPUSD,H1: ArrayInitialize function internal error
+3	21:57:15.943	superscalper05 GBPUSD,H1: ArrayInitialize function internal error
+0	21:57:15.943	superscalper05 GBPUSD,H1: initialized
+0	21:57:15.943	MT4 CURRENCY POWER GBPUSD,H1: initialized
+0	21:57:15.950	+++Agimat TrendTube GBPUSD,H1: initialized
+0	21:57:15.960	cracked_Mega_Fx GBPUSD,H1: initialized
+0	21:57:15.970	Peak GBPUSD,H1: initialized
+0	21:57:15.977	+++Agimat OBOS V1.1 GBPUSD,H1: initialized
+0	21:57:15.986	+++Agimat MarketWatch 1.1 GBPUSD,H1: initialized
+0	21:57:16.239	superscalper05 GBPUSD,H1: Empty value for price line encountered!
+0	21:58:15.173	Custom indicator indics\xmaster-formula GBPUSD,H1: loaded successfully
+0	21:58:17.597	xmaster-formula GBPUSD,H1: initialized
+0	21:58:40.640	ProfitableStrategy_7 GBPUSD,H1: deinitialized
+0	21:58:40.640	ProfitableStrategy_7 GBPUSD,H1: uninit reason 9
+0	21:58:40.651	ProfitableStrategy_9 GBPUSD,H1: deinitialized
+0	21:58:40.651	ProfitableStrategy_9 GBPUSD,H1: uninit reason 9
+0	21:58:40.651	SwingForce GBPUSD,H1: uninit reason 9
+0	21:58:40.659	Level ZZ Semafor GBPUSD,H1: deinitialized
+0	21:58:40.659	Level ZZ Semafor GBPUSD,H1: uninit reason 9
+0	21:58:40.659	Vertical Line-moves with price GBPUSD,H1: deinitialized
+0	21:58:40.659	Vertical Line-moves with price GBPUSD,H1: uninit reason 9
+0	21:58:40.659	Pivot Points Multitimeframe GBPUSD,H1: deinitialized
+0	21:58:40.659	Pivot Points Multitimeframe GBPUSD,H1: uninit reason 9
+0	21:58:40.669	!--Dream Signals Scalper GBPUSD,H1: deinitialized
+0	21:58:40.669	!--Dream Signals Scalper GBPUSD,H1: uninit reason 9
+0	21:58:40.670	AutoFibonacci GBPUSD,H1: uninit reason 9
+0	21:58:40.670	+++Agimat GBPUSD,H1: uninit reason 9
+0	21:58:40.749	superscalper05 GBPUSD,H1: deinitialized
+0	21:58:40.749	superscalper05 GBPUSD,H1: uninit reason 9
+0	21:58:40.749	MT4 CURRENCY POWER GBPUSD,H1: deinitialized
+0	21:58:40.749	MT4 CURRENCY POWER GBPUSD,H1: uninit reason 9
+0	21:58:40.761	+++Agimat TrendTube GBPUSD,H1: deinitialized
+0	21:58:40.761	+++Agimat TrendTube GBPUSD,H1: uninit reason 9
+0	21:58:40.761	cracked_Mega_Fx GBPUSD,H1: uninit reason 9
+0	21:58:40.761	Peak GBPUSD,H1: uninit reason 9
+0	21:58:40.762	+++Agimat OBOS V1.1 GBPUSD,H1: uninit reason 9
+0	21:58:40.762	+++Agimat MarketWatch 1.1 GBPUSD,H1: uninit reason 9
+0	21:58:40.762	xmaster-formula GBPUSD,H1: uninit reason 9
+0	21:58:40.762	Custom indicator ProfitableStrategy_7 GBPUSD,H1: removed
+0	21:58:40.762	Custom indicator ProfitableStrategy_9 GBPUSD,H1: removed
+0	21:58:40.766	Custom indicator SwingForce GBPUSD,H1: removed
+0	21:58:40.766	Custom indicator Level ZZ Semafor GBPUSD,H1: removed
+0	21:58:40.766	Custom indicator Vertical Line-moves with price GBPUSD,H1: removed
+0	21:58:40.766	Custom indicator Pivot Points Multitimeframe GBPUSD,H1: removed
+0	21:58:40.766	Custom indicator !--Dream Signals Scalper GBPUSD,H1: removed
+0	21:58:40.768	Custom indicator AutoFibonacci GBPUSD,H1: removed
+0	21:58:40.779	Custom indicator +++Agimat GBPUSD,H1: removed
+0	21:58:40.779	Custom indicator superscalper05 GBPUSD,H1: removed
+0	21:58:40.779	Custom indicator MT4 CURRENCY POWER GBPUSD,H1: removed
+0	21:58:40.779	Custom indicator +++Agimat TrendTube GBPUSD,H1: removed
+0	21:58:40.781	Custom indicator cracked_Mega_Fx GBPUSD,H1: removed
+0	21:58:40.782	Custom indicator Peak GBPUSD,H1: removed
+0	21:58:40.783	Custom indicator +++Agimat OBOS V1.1 GBPUSD,H1: removed
+0	21:58:40.784	Custom indicator +++Agimat MarketWatch 1.1 GBPUSD,H1: removed
+0	21:58:40.785	Custom indicator xmaster-formula GBPUSD,H1: removed
+0	21:58:57.750	Custom indicator indics\uni_cross GBPUSD,H1: loaded successfully
+0	21:59:15.064	uni_cross GBPUSD,H1: initialized
+0	21:59:15.303	uni_cross GBPUSD,H1: Alert: GBPUSDSell signal60
+0	22:00:10.285	uni_cross GBPUSD,H1: deinitialized
+0	22:00:10.285	uni_cross GBPUSD,H1: uninit reason 7
+0	22:00:10.289	Custom indicator uni_cross GBPUSD,H1: removed
+3	22:00:11.720	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\InfinityScalper.ex4' [2]
+0	22:00:11.768	Custom indicator 4 time frame adaptive smoother Gann hiLo nmc GBPUSD,H1: loaded successfully
+0	22:00:11.781	4 time frame adaptive smoother Gann hiLo nmc GBPUSD,H1: initialized
+0	22:00:32.001	4 time frame adaptive smoother Gann hiLo nmc GBPUSD,H1: uninit reason 7
+0	22:00:32.013	Custom indicator 4 time frame adaptive smoother Gann hiLo nmc GBPUSD,H1: removed
+0	22:00:32.168	Custom indicator HOLY GRAIL 1.6 GBPUSD,H1: loaded successfully
+0	22:00:32.305	Custom indicator Agimat-1\+++Agimat MiniReversal GBPUSD,H1: loaded successfully
+0	22:00:32.366	Custom indicator Grail Indic GBPUSD,H1: loaded successfully
+0	22:00:32.485	Custom indicator Renko\RenkoStreet_Trend GBPUSD,H1: loaded successfully
+0	22:00:32.560	Expert RoNz Auto SL-TS-TP GBPUSD,H1: loaded successfully
+0	22:00:32.561	RoNz Auto SL-TS-TP GBPUSD,H1 inputs: note1=; TakeProfit=120; StopLoss=500; SLnTPMode=1; note2=; LockProfitEnable=1; LockProfitAfter=100; ProfitLock=60; note3=; TrailingStopMethod=0; TrailingStop=50; TrailingStep=10; note4=; ChartSymbolSelection=1; inpEnableAlert=false; 
+0	22:00:32.561	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	22:00:32.561	+++Agimat MiniReversal GBPUSD,H1: initialized
+0	22:00:32.561	Grail Indic GBPUSD,H1: initialized
+0	22:00:32.568	RenkoStreet_Trend GBPUSD,H1: initialized
+0	22:00:45.568	HOLY GRAIL 1.6 GBPUSD,H1: deinitialized
+0	22:00:45.568	HOLY GRAIL 1.6 GBPUSD,H1: uninit reason 7
+0	22:00:45.568	+++Agimat MiniReversal GBPUSD,H1: deinitialized
+0	22:00:45.568	+++Agimat MiniReversal GBPUSD,H1: uninit reason 7
+0	22:00:45.568	Grail Indic GBPUSD,H1: deinitialized
+0	22:00:45.568	Grail Indic GBPUSD,H1: uninit reason 7
+0	22:00:45.568	RenkoStreet_Trend GBPUSD,H1: uninit reason 7
+0	22:00:45.569	Expert RoNz Auto SL-TS-TP GBPUSD,H1: removed
+0	22:00:45.570	Custom indicator HOLY GRAIL 1.6 GBPUSD,H1: removed
+0	22:00:45.570	Custom indicator +++Agimat MiniReversal GBPUSD,H1: removed
+0	22:00:45.570	Custom indicator Grail Indic GBPUSD,H1: removed
+0	22:00:45.571	Custom indicator RenkoStreet_Trend GBPUSD,H1: removed
+0	22:00:45.843	Custom indicator BolliToucher GBPUSD,H1: loaded successfully
+0	22:00:45.886	Custom indicator b-clock_modified GBPUSD,H1: loaded successfully
+0	22:00:45.914	Custom indicator CandleTime GBPUSD,H1: loaded successfully
+0	22:00:45.996	Custom indicator boItalianJob Matrix_v1 GBPUSD,H1: loaded successfully
+0	22:00:46.005	BolliToucher GBPUSD,H1: initialized
+0	22:00:46.012	b-clock_modified GBPUSD,H1: initialized
+0	22:00:46.022	CandleTime GBPUSD,H1: initialized
+0	22:00:46.043	boItalianJob Matrix_v1 GBPUSD,H1: initialized
+0	22:01:01.060	BolliToucher GBPUSD,H1: uninit reason 7
+0	22:01:01.060	b-clock_modified GBPUSD,H1: uninit reason 7
+0	22:01:01.060	CandleTime GBPUSD,H1: uninit reason 7
+0	22:01:01.060	boItalianJob Matrix_v1 GBPUSD,H1: uninit reason 7
+0	22:01:01.060	Custom indicator BolliToucher GBPUSD,H1: removed
+0	22:01:01.060	Custom indicator b-clock_modified GBPUSD,H1: removed
+0	22:01:01.065	Custom indicator CandleTime GBPUSD,H1: removed
+0	22:01:01.065	Custom indicator boItalianJob Matrix_v1 GBPUSD,H1: removed
+0	22:01:01.160	Custom indicator Profit Sunrise GBPUSD,H1: loaded successfully
+0	22:01:01.173	Profit Sunrise GBPUSD,H1: initialized
+0	22:01:54.215	Custom indicator Xtreme Binary Robot Ultimate Edition GBPUSD,H1: loaded successfully
+3	22:01:56.348	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: ArrayInitialize function internal error
+3	22:01:56.348	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: ArrayInitialize function internal error
+0	22:01:56.348	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: initialized
+0	22:02:26.811	Custom indicator Zee Zee i GBPUSD,H1: loaded successfully
+0	22:02:29.206	Zee Zee i GBPUSD,H1: initialized
+0	22:02:32.368	Custom indicator ZigZag GBPUSD,H1: loaded successfully
+0	22:02:34.867	ZigZag GBPUSD,H1: initialized
+0	22:13:30.571	Zee Zee i GBPUSD,H1: uninit reason 1
+0	22:13:30.571	Custom indicator Zee Zee i GBPUSD,H1: removed
+0	22:13:49.199	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: deinitialized
+0	22:13:49.199	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: uninit reason 1
+0	22:13:49.199	Custom indicator Xtreme Binary Robot Ultimate Edition GBPUSD,H1: removed
+0	22:14:23.861	Custom indicator indics\Profit Sunrise GBPUSD,H1: loaded successfully
+0	22:14:26.121	Profit Sunrise GBPUSD,H1: initialized
+0	22:14:48.387	Profit Sunrise GBPUSD,H1: uninit reason 7
+0	22:14:48.387	ZigZag GBPUSD,H1: uninit reason 7
+0	22:14:48.387	Custom indicator Profit Sunrise GBPUSD,H1: removed
+0	22:14:48.387	Custom indicator ZigZag GBPUSD,H1: removed
+0	22:14:48.546	Custom indicator Xtreme Binary Robot Ultimate Edition GBPUSD,H1: loaded successfully
+0	22:14:48.596	Custom indicator Xtreme Binary Robot Channel GBPUSD,H1: loaded successfully
+0	22:14:48.621	Custom indicator WAExplosion GBPUSD,H1: loaded successfully
+3	22:14:48.621	cannot open file 'C:\Users\dkiyingi\AppData\Roaming\MetaQuotes\Terminal\287469DEA9630EA94D0715D755974F1B\MQL4\indicators\Color Stochastic.ex4' [2]
+3	22:14:48.626	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: ArrayInitialize function internal error
+3	22:14:48.626	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: ArrayInitialize function internal error
+0	22:14:48.626	Xtreme Binary Robot Ultimate Edition GBPUSD,H1: initialized
+0	22:14:48.636	Xtreme Binary Robot Channel GBPUSD,H1: initialized
+0	22:14:48.636	WAExplosion GBPUSD,H1: initialized
+0	22:15:22.064	Custom indicator indics\BinaryComodo GBPUSD,H1: loaded successfully
+0	22:15:24.257	BinaryComodo GBPUSD,H1: initialized
+0	22:15:40.207	Profit Sunrise GBPUSD,H1: uninit reason 1
+0	22:15:40.212	Custom indicator Profit Sunrise GBPUSD,H1: removed
+0	22:15:42.102	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	22:15:42.192	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds

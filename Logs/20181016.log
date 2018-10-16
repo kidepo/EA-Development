@@ -1,0 +1,76 @@
+0	07:59:28.117	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:28.421	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:40.120	Super-Point-Signal AUDUSD,H1: Alert: The_new_signal_Alert - Сигнал на продажу!!! - AUDUSD - 60 
+0	07:59:40.121	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:40.393	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:40.632	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:40.740	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.197	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.310	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.336	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.458	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.461	cracked_Mega_Fx AUDUSD,H1: Alert: AUDUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.06391117 @ 07:59:42
+0	07:59:42.582	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.710	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.714	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:42.815	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:52.165	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:52.310	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:54.574	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:54.689	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:54.700	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:54.796	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:55.028	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:55.124	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.348	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.469	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.484	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.582	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.591	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.694	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.704	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:56.806	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:59.205	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	07:59:59.300	SEFC084 AUDUSD,H1: Calculation time is 0.2 seconds
+0	08:00:02.405	BBands Stop Alert AUDUSD,H1: uninit reason 9
+0	08:00:02.483	Grail Indic AUDUSD,H1: deinitialized
+0	08:00:02.483	Grail Indic AUDUSD,H1: uninit reason 9
+0	08:00:03.171	Super-Point-Signal AUDUSD,H1: uninit reason 9
+0	08:00:03.171	LotSize AUDUSD,H1: uninit reason 9
+0	08:00:03.171	trend-magic AUDUSD,H1: uninit reason 9
+0	08:00:03.171	ForexprofitsupremeClockv1 AUDUSD,H1: uninit reason 9
+0	08:00:03.171	Snake AUDUSD,H1: uninit reason 9
+0	08:00:03.171	HOLY GRAIL 1.6 AUDUSD,H1: deinitialized
+0	08:00:03.171	HOLY GRAIL 1.6 AUDUSD,H1: uninit reason 9
+0	08:00:03.172	Forexprofitsupreme Signal AUDUSD,H1: deinitialized
+0	08:00:03.172	Forexprofitsupreme Signal AUDUSD,H1: uninit reason 9
+0	08:00:03.172	HOLY GRAIL 1.6 AUDUSD,H1: deinitialized
+0	08:00:03.172	HOLY GRAIL 1.6 AUDUSD,H1: uninit reason 9
+0	08:00:03.172	SEFC084 AUDUSD,H1: uninit reason 9
+0	08:00:03.172	1SSRC AUDUSD,H1: deinitialized
+0	08:00:03.172	1SSRC AUDUSD,H1: uninit reason 9
+0	08:00:03.172	1SSRC AUDUSD,H1: deinitialized
+0	08:00:03.172	1SSRC AUDUSD,H1: uninit reason 9
+0	08:00:03.172	SoeHoe.ID_fxsecretsignal AUDUSD,H1: uninit reason 9
+0	08:00:03.172	SEFC084 AUDUSD,H1: uninit reason 9
+0	08:00:03.172	cracked_Mega_Fx AUDUSD,H1: uninit reason 9
+0	08:00:03.172	Solar Winds joy AUDUSD,H1: uninit reason 9
+0	08:00:03.172	xmaster-formula AUDUSD,H1: uninit reason 9
+0	08:00:03.994	Custom indicator BBands Stop Alert AUDUSD,H1: removed
+0	08:00:04.040	Custom indicator Grail Indic AUDUSD,H1: removed
+0	08:00:04.057	Custom indicator Super-Point-Signal AUDUSD,H1: removed
+0	08:00:04.074	Custom indicator LotSize AUDUSD,H1: removed
+0	08:00:04.075	Custom indicator trend-magic AUDUSD,H1: removed
+0	08:00:04.077	Custom indicator ForexprofitsupremeClockv1 AUDUSD,H1: removed
+0	08:00:04.078	Custom indicator Snake AUDUSD,H1: removed
+0	08:00:04.078	Custom indicator HOLY GRAIL 1.6 AUDUSD,H1: removed
+0	08:00:04.078	Custom indicator Forexprofitsupreme Signal AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator HOLY GRAIL 1.6 AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator SEFC084 AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator 1SSRC AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator 1SSRC AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator SoeHoe.ID_fxsecretsignal AUDUSD,H1: removed
+0	08:00:04.079	Custom indicator SEFC084 AUDUSD,H1: removed
+0	08:00:04.081	Custom indicator cracked_Mega_Fx AUDUSD,H1: removed
+0	08:00:04.083	Custom indicator Solar Winds joy AUDUSD,H1: removed
+0	08:00:04.085	Custom indicator xmaster-formula AUDUSD,H1: removed

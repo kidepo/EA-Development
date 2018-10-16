@@ -1,0 +1,11 @@
+Contact=www.fxmillionea.com
+Important1=Use default setting with leverage 1:500!
+Important2=Use on any time frame. But do NOT move between time frames.
+Currency=Any currency pair.
+mm=true
+risk=10
+default_lot=0.01
+MaxSpread=40.0
+StopLoss=500.0
+TakeProfit=500.0
+TrailingStart=10.0
