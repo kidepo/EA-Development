@@ -1,0 +1,621 @@
+0	05:53:48.553	Custom indicator ForexProfitSupreme Meter AUDUSD,H1: loaded successfully
+0	05:53:48.634	Custom indicator Forexprofitsupreme Bars AUDUSD,H1: loaded successfully
+0	05:53:48.705	Custom indicator Forexprofitsupreme Signal AUDUSD,H1: loaded successfully
+0	05:53:48.774	Custom indicator ForexprofitsupremeClock AUDUSD,H1: loaded successfully
+0	05:53:48.789	Custom indicator AllHullMA_v3.1 600+ AUDUSD,H1: loaded successfully
+0	05:53:48.856	Custom indicator BBands Stop Alert AUDUSD,H1: loaded successfully
+0	05:53:48.866	Custom indicator Delta Trend_v1 600+ AUDUSD,H1: loaded successfully
+0	05:53:48.940	Custom indicator ForexprofitsupremeFilter AUDUSD,H1: loaded successfully
+0	05:53:49.035	Custom indicator ForexprofitsupremeDline AUDUSD,H1: loaded successfully
+0	05:53:49.049	Custom indicator Others\xmaster-formula AUDUSD,H1: loaded successfully
+0	05:53:49.059	Custom indicator indics\cracked_Mega_Fx AUDUSD,H1: loaded successfully
+0	05:53:49.148	ForexProfitSupreme Meter AUDUSD,H1: initialized
+0	05:53:49.148	Forexprofitsupreme Bars AUDUSD,H1: initialized
+0	05:53:49.148	Forexprofitsupreme Signal AUDUSD,H1: initialized
+0	05:53:49.148	ForexprofitsupremeClock AUDUSD,H1: initialized
+0	05:53:49.170	AllHullMA_v3.1 600+ AUDUSD,H1: initialized
+0	05:53:49.170	BBands Stop Alert AUDUSD,H1: initialized
+0	05:53:49.194	Delta Trend_v1 600+ AUDUSD,H1: initialized
+0	05:53:49.194	ForexprofitsupremeFilter AUDUSD,H1: initialized
+0	05:53:49.194	ForexprofitsupremeDline AUDUSD,H1: initialized
+0	05:53:49.214	xmaster-formula AUDUSD,H1: initialized
+0	05:53:49.224	cracked_Mega_Fx AUDUSD,H1: initialized
+0	05:53:50.838	cracked_Mega_Fx AUDUSD,H1: Alert: AUDUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.06391117 @ 05:53:50
+0	05:53:50.938	Custom indicator BBands Stop Alert EURUSD,H1: loaded successfully
+0	05:53:50.948	Custom indicator Others\Super-Point-Signal EURUSD,H1: loaded successfully
+0	05:53:50.958	Custom indicator Others\LotSize EURUSD,H1: loaded successfully
+0	05:53:50.968	Custom indicator Others\trend-magic EURUSD,H1: loaded successfully
+0	05:53:50.978	Custom indicator ForexprofitsupremeClockv1 EURUSD,H1: loaded successfully
+0	05:53:50.992	Custom indicator SoeHoe.ID_Signal s2 EURUSD,H1: loaded successfully
+0	05:53:51.007	Custom indicator AllHullMA_v3.1 600+ EURUSD,H1: loaded successfully
+0	05:53:51.079	Custom indicator SEFC084 EURUSD,H1: loaded successfully
+0	05:53:51.146	Custom indicator 1SSRC EURUSD,H1: loaded successfully
+0	05:53:51.211	Custom indicator 1SSRC EURUSD,H1: loaded successfully
+0	05:53:51.280	Custom indicator Dev\SoeHoe.ID_fxsecretsignal EURUSD,H1: loaded successfully
+0	05:53:51.344	Custom indicator SEFC084 EURUSD,H1: loaded successfully
+0	05:53:51.354	Custom indicator cracked_Mega_Fx EURUSD,H1: loaded successfully
+0	05:53:51.364	Custom indicator Solar Winds joy EURUSD,H1: loaded successfully
+0	05:53:51.374	Custom indicator xmaster-formula EURUSD,H1: loaded successfully
+0	05:53:51.384	Custom indicator AllHullMA Histo_v3.1 EURUSD,H1: loaded successfully
+0	05:53:51.499	BBands Stop Alert EURUSD,H1: initialized
+0	05:53:51.518	Super-Point-Signal EURUSD,H1: initialized
+0	05:53:51.612	LotSize EURUSD,H1: initialized
+0	05:53:51.622	trend-magic EURUSD,H1: initialized
+0	05:53:51.637	ForexprofitsupremeClockv1 EURUSD,H1: initialized
+0	05:53:51.666	SoeHoe.ID_Signal s2 EURUSD,H1: initialized
+0	05:53:51.691	AllHullMA_v3.1 600+ EURUSD,H1: initialized
+0	05:53:51.691	SEFC084 EURUSD,H1: initialized
+0	05:53:51.691	1SSRC EURUSD,H1: initialized
+0	05:53:51.691	1SSRC EURUSD,H1: initialized
+0	05:53:51.691	SoeHoe.ID_fxsecretsignal EURUSD,H1: initialized
+0	05:53:51.691	SEFC084 EURUSD,H1: initialized
+0	05:53:51.701	cracked_Mega_Fx EURUSD,H1: initialized
+0	05:53:51.711	Solar Winds joy EURUSD,H1: initialized
+0	05:53:51.726	xmaster-formula EURUSD,H1: initialized
+0	05:53:51.746	AllHullMA Histo_v3.1 EURUSD,H1: initialized
+0	05:53:51.785	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	05:53:51.899	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	05:53:51.909	cracked_Mega_Fx EURUSD,H1: Alert: EURUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.07478062 @ 05:53:51
+0	05:53:52.046	Custom indicator 2019_03_04\StepMA of rsi adaptive ema 2.9 AUDCAD,H1: loaded successfully
+0	05:53:52.120	StepMA of rsi adaptive ema 2.9 AUDCAD,H1: initialized
+0	05:53:52.184	Custom indicator HalfTrend-1.02 AUDCAD,H1: loaded successfully
+0	05:53:52.194	Custom indicator AllHullMA_v3.1 AUDCAD,H1: loaded successfully
+0	05:53:52.204	Custom indicator bb_stops_rsi_super_smooth AUDCAD,H1: loaded successfully
+0	05:53:52.219	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: loaded successfully
+0	05:53:52.229	HalfTrend-1.02 AUDCAD,H1: initialized
+0	05:53:52.254	AllHullMA_v3.1 AUDCAD,H1: initialized
+0	05:53:52.274	bb_stops_rsi_super_smooth AUDCAD,H1: initialized
+0	05:53:52.288	AllHullMA Histo_v3.1 AUDCAD,H1: initialized
+0	05:53:52.392	Custom indicator 2019_03_04\3ClickPositionCalc_Indicator (2) AUDCAD,H1: loaded successfully
+0	05:53:52.414	Custom indicator AllHullMA_v3.4 600+ (1) AUDCAD,H1: loaded successfully
+0	05:53:52.479	Custom indicator BBands Stop Alert AUDCAD,H1: loaded successfully
+0	05:53:52.489	Custom indicator HalfTrend-1.02 AUDCAD,H1: loaded successfully
+0	05:53:52.503	Custom indicator xmaster-formula AUDCAD,H1: loaded successfully
+0	05:53:52.543	3ClickPositionCalc_Indicator (2) AUDCAD,H1: initialized
+0	05:53:52.563	AllHullMA_v3.4 600+ (1) AUDCAD,H1: initialized
+0	05:53:52.563	BBands Stop Alert AUDCAD,H1: initialized
+0	05:53:52.576	HalfTrend-1.02 AUDCAD,H1: initialized
+0	05:53:52.590	xmaster-formula AUDCAD,H1: initialized
+0	05:53:52.665	Custom indicator HalfTrend-1.02 GBPUSD,H1: loaded successfully
+0	05:53:52.729	Custom indicator BBands Stop Alert GBPUSD,H1: loaded successfully
+0	05:53:52.744	Custom indicator AllHullMA_v3.1 600+ GBPUSD,H1: loaded successfully
+0	05:53:52.754	Custom indicator AllHullMA Histo_v3.1 GBPUSD,H1: loaded successfully
+0	05:53:52.764	Custom indicator xmaster-formula GBPUSD,H1: loaded successfully
+0	05:53:52.774	Custom indicator cracked_Mega_Fx GBPUSD,H1: loaded successfully
+0	05:53:52.839	HalfTrend-1.02 GBPUSD,H1: initialized
+0	05:53:52.839	BBands Stop Alert GBPUSD,H1: initialized
+0	05:53:52.859	AllHullMA_v3.1 600+ GBPUSD,H1: initialized
+0	05:53:52.879	AllHullMA Histo_v3.1 GBPUSD,H1: initialized
+0	05:53:52.889	xmaster-formula GBPUSD,H1: initialized
+0	05:53:52.903	cracked_Mega_Fx GBPUSD,H1: initialized
+0	05:53:52.937	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 05:53:52
+0	06:01:42.891	Custom indicator HOLY GRAIL 1.6 EURUSD,H1: loaded successfully
+0	06:01:54.800	HOLY GRAIL 1.6 EURUSD,H1: initialized
+0	06:10:44.470	Custom indicator HalfTrend-1.02 EURUSD,H1: loaded successfully
+0	06:10:45.720	HalfTrend-1.02 EURUSD,H1: initialized
+0	06:11:12.405	trend-magic EURUSD,H1: uninit reason 1
+0	06:11:12.405	Custom indicator trend-magic EURUSD,H1: removed
+0	06:11:13.615	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:11:13.713	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:18:35.089	Custom indicator BBands Stop Alert EURUSD,H1: loaded successfully
+0	06:18:35.156	Custom indicator Others\Grail Indic EURUSD,H1: loaded successfully
+0	06:18:35.166	Custom indicator Others\Super-Point-Signal EURUSD,H1: loaded successfully
+0	06:18:35.176	Custom indicator Others\LotSize EURUSD,H1: loaded successfully
+0	06:18:35.186	Custom indicator Others\trend-magic EURUSD,H1: loaded successfully
+0	06:18:35.196	Custom indicator ForexprofitsupremeClockv1 EURUSD,H1: loaded successfully
+0	06:18:35.206	Custom indicator Snake EURUSD,H1: loaded successfully
+0	06:18:35.221	Custom indicator HOLY GRAIL 1.6 EURUSD,H1: loaded successfully
+0	06:18:35.294	Custom indicator Forexprofitsupreme Signal EURUSD,H1: loaded successfully
+0	06:18:35.309	Custom indicator HOLY GRAIL 1.6 EURUSD,H1: loaded successfully
+0	06:18:35.319	Custom indicator SoeHoe.ID_Signal s2 EURUSD,H1: loaded successfully
+0	06:18:35.383	Custom indicator SEFC084 EURUSD,H1: loaded successfully
+0	06:18:35.447	Custom indicator 1SSRC EURUSD,H1: loaded successfully
+0	06:18:35.512	Custom indicator 1SSRC EURUSD,H1: loaded successfully
+0	06:18:35.579	Custom indicator Dev\SoeHoe.ID_fxsecretsignal EURUSD,H1: loaded successfully
+0	06:18:35.641	Custom indicator SEFC084 EURUSD,H1: loaded successfully
+0	06:18:35.653	Custom indicator cracked_Mega_Fx EURUSD,H1: loaded successfully
+0	06:18:35.662	Custom indicator Solar Winds joy EURUSD,H1: loaded successfully
+0	06:18:35.672	Custom indicator xmaster-formula EURUSD,H1: loaded successfully
+0	06:18:35.672	BBands Stop Alert EURUSD,H1: initialized
+0	06:18:35.672	Grail Indic EURUSD,H1: initialized
+0	06:18:35.682	Super-Point-Signal EURUSD,H1: initialized
+0	06:18:35.747	LotSize EURUSD,H1: initialized
+0	06:18:35.762	trend-magic EURUSD,H1: initialized
+0	06:18:35.771	ForexprofitsupremeClockv1 EURUSD,H1: initialized
+0	06:18:35.786	Snake EURUSD,H1: initialized
+0	06:18:35.786	HOLY GRAIL 1.6 EURUSD,H1: initialized
+0	06:18:35.786	Forexprofitsupreme Signal EURUSD,H1: initialized
+0	06:18:35.786	HOLY GRAIL 1.6 EURUSD,H1: initialized
+0	06:18:35.811	SoeHoe.ID_Signal s2 EURUSD,H1: initialized
+0	06:18:35.811	SEFC084 EURUSD,H1: initialized
+0	06:18:35.811	1SSRC EURUSD,H1: initialized
+0	06:18:35.811	1SSRC EURUSD,H1: initialized
+0	06:18:35.811	SoeHoe.ID_fxsecretsignal EURUSD,H1: initialized
+0	06:18:35.811	SEFC084 EURUSD,H1: initialized
+0	06:18:35.826	cracked_Mega_Fx EURUSD,H1: initialized
+0	06:18:35.836	Solar Winds joy EURUSD,H1: initialized
+0	06:18:35.846	xmaster-formula EURUSD,H1: initialized
+0	06:18:36.512	Forexprofitsupreme Signal EURUSD,H1: Alert: EURUSD at 06:18:36 ma cross downtrend
+0	06:18:36.522	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:18:36.630	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:18:36.640	cracked_Mega_Fx EURUSD,H1: Alert: EURUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.07478062 @ 06:18:36
+0	06:18:43.000	BBands Stop Alert EURUSD,H1: uninit reason 3
+0	06:18:43.000	Grail Indic EURUSD,H1: deinitialized
+0	06:18:43.000	Grail Indic EURUSD,H1: uninit reason 3
+0	06:18:43.005	Super-Point-Signal EURUSD,H1: uninit reason 3
+0	06:18:43.005	LotSize EURUSD,H1: uninit reason 3
+0	06:18:43.005	trend-magic EURUSD,H1: uninit reason 3
+0	06:18:43.005	ForexprofitsupremeClockv1 EURUSD,H1: uninit reason 3
+0	06:18:43.005	Snake EURUSD,H1: uninit reason 3
+0	06:18:43.005	HOLY GRAIL 1.6 EURUSD,H1: deinitialized
+0	06:18:43.005	HOLY GRAIL 1.6 EURUSD,H1: uninit reason 3
+0	06:18:43.005	Forexprofitsupreme Signal EURUSD,H1: deinitialized
+0	06:18:43.005	Forexprofitsupreme Signal EURUSD,H1: uninit reason 3
+0	06:18:43.005	HOLY GRAIL 1.6 EURUSD,H1: deinitialized
+0	06:18:43.005	HOLY GRAIL 1.6 EURUSD,H1: uninit reason 3
+0	06:18:43.005	SoeHoe.ID_Signal s2 EURUSD,H1: uninit reason 3
+0	06:18:43.005	SEFC084 EURUSD,H1: uninit reason 3
+0	06:18:43.005	1SSRC EURUSD,H1: deinitialized
+0	06:18:43.005	1SSRC EURUSD,H1: uninit reason 3
+0	06:18:43.005	1SSRC EURUSD,H1: deinitialized
+0	06:18:43.005	1SSRC EURUSD,H1: uninit reason 3
+0	06:18:43.005	SoeHoe.ID_fxsecretsignal EURUSD,H1: uninit reason 3
+0	06:18:43.005	SEFC084 EURUSD,H1: uninit reason 3
+0	06:18:43.005	cracked_Mega_Fx EURUSD,H1: uninit reason 3
+0	06:18:43.005	Solar Winds joy EURUSD,H1: uninit reason 3
+0	06:18:43.005	xmaster-formula EURUSD,H1: uninit reason 3
+0	06:18:43.171	BBands Stop Alert EURUSD,M30: initialized
+0	06:18:43.171	Grail Indic EURUSD,M30: initialized
+0	06:18:43.171	Super-Point-Signal EURUSD,M30: initialized
+0	06:18:43.171	LotSize EURUSD,M30: initialized
+0	06:18:43.171	trend-magic EURUSD,M30: initialized
+0	06:18:43.171	ForexprofitsupremeClockv1 EURUSD,M30: initialized
+0	06:18:43.171	Snake EURUSD,M30: initialized
+0	06:18:43.171	HOLY GRAIL 1.6 EURUSD,M30: initialized
+0	06:18:43.176	Forexprofitsupreme Signal EURUSD,M30: initialized
+0	06:18:43.176	HOLY GRAIL 1.6 EURUSD,M30: initialized
+0	06:18:43.176	SoeHoe.ID_Signal s2 EURUSD,M30: initialized
+0	06:18:43.176	SEFC084 EURUSD,M30: initialized
+0	06:18:43.176	1SSRC EURUSD,M30: initialized
+0	06:18:43.176	1SSRC EURUSD,M30: initialized
+0	06:18:43.176	SoeHoe.ID_fxsecretsignal EURUSD,M30: initialized
+0	06:18:43.176	SEFC084 EURUSD,M30: initialized
+0	06:18:43.176	cracked_Mega_Fx EURUSD,M30: initialized
+0	06:18:43.176	Solar Winds joy EURUSD,M30: initialized
+0	06:18:43.176	xmaster-formula EURUSD,M30: initialized
+0	06:18:44.313	Forexprofitsupreme Signal EURUSD,M30: Alert: EURUSD at 06:18:44 ma cross downtrend
+0	06:18:44.328	SEFC084 EURUSD,M30: Calculation time is 0.2 seconds
+0	06:18:44.447	SEFC084 EURUSD,M30: Calculation time is 0.2 seconds
+0	06:18:44.467	cracked_Mega_Fx EURUSD,M30: Alert: EURUSD, TF:M30, MEGAFXPROFIT SELL SIGNAL for Level: -0.00019599 @ 06:18:44
+0	06:20:41.991	BBands Stop Alert EURUSD,M30: uninit reason 3
+0	06:20:41.991	Grail Indic EURUSD,M30: deinitialized
+0	06:20:41.991	Grail Indic EURUSD,M30: uninit reason 3
+0	06:20:42.000	Super-Point-Signal EURUSD,M30: uninit reason 3
+0	06:20:42.000	LotSize EURUSD,M30: uninit reason 3
+0	06:20:42.000	trend-magic EURUSD,M30: uninit reason 3
+0	06:20:42.000	ForexprofitsupremeClockv1 EURUSD,M30: uninit reason 3
+0	06:20:42.000	Snake EURUSD,M30: uninit reason 3
+0	06:20:42.000	HOLY GRAIL 1.6 EURUSD,M30: deinitialized
+0	06:20:42.000	HOLY GRAIL 1.6 EURUSD,M30: uninit reason 3
+0	06:20:42.000	Forexprofitsupreme Signal EURUSD,M30: deinitialized
+0	06:20:42.000	Forexprofitsupreme Signal EURUSD,M30: uninit reason 3
+0	06:20:42.000	HOLY GRAIL 1.6 EURUSD,M30: deinitialized
+0	06:20:42.000	HOLY GRAIL 1.6 EURUSD,M30: uninit reason 3
+0	06:20:42.000	SoeHoe.ID_Signal s2 EURUSD,M30: uninit reason 3
+0	06:20:42.000	SEFC084 EURUSD,M30: uninit reason 3
+0	06:20:42.000	1SSRC EURUSD,M30: deinitialized
+0	06:20:42.000	1SSRC EURUSD,M30: uninit reason 3
+0	06:20:42.000	1SSRC EURUSD,M30: deinitialized
+0	06:20:42.000	1SSRC EURUSD,M30: uninit reason 3
+0	06:20:42.000	SoeHoe.ID_fxsecretsignal EURUSD,M30: uninit reason 3
+0	06:20:42.000	SEFC084 EURUSD,M30: uninit reason 3
+0	06:20:42.000	cracked_Mega_Fx EURUSD,M30: uninit reason 3
+0	06:20:42.000	Solar Winds joy EURUSD,M30: uninit reason 3
+0	06:20:42.000	xmaster-formula EURUSD,M30: uninit reason 3
+0	06:20:42.161	BBands Stop Alert EURUSD,H4: initialized
+0	06:20:42.161	Grail Indic EURUSD,H4: initialized
+0	06:20:42.161	Super-Point-Signal EURUSD,H4: initialized
+0	06:20:42.165	LotSize EURUSD,H4: initialized
+0	06:20:42.165	trend-magic EURUSD,H4: initialized
+0	06:20:42.165	ForexprofitsupremeClockv1 EURUSD,H4: initialized
+0	06:20:42.165	Snake EURUSD,H4: initialized
+0	06:20:42.165	HOLY GRAIL 1.6 EURUSD,H4: initialized
+0	06:20:42.165	Forexprofitsupreme Signal EURUSD,H4: initialized
+0	06:20:42.165	HOLY GRAIL 1.6 EURUSD,H4: initialized
+0	06:20:42.165	SoeHoe.ID_Signal s2 EURUSD,H4: initialized
+0	06:20:42.165	SEFC084 EURUSD,H4: initialized
+0	06:20:42.165	1SSRC EURUSD,H4: initialized
+0	06:20:42.165	1SSRC EURUSD,H4: initialized
+0	06:20:42.165	SoeHoe.ID_fxsecretsignal EURUSD,H4: initialized
+0	06:20:42.165	SEFC084 EURUSD,H4: initialized
+0	06:20:42.165	cracked_Mega_Fx EURUSD,H4: initialized
+0	06:20:42.165	Solar Winds joy EURUSD,H4: initialized
+0	06:20:42.165	xmaster-formula EURUSD,H4: initialized
+0	06:20:43.496	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:20:43.602	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:20:43.607	cracked_Mega_Fx EURUSD,H4: Alert: EURUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.03250133 @ 06:20:43
+0	06:21:26.156	Custom indicator HalfTrend-1.02 EURUSD,H4: loaded successfully
+0	06:21:27.272	HalfTrend-1.02 EURUSD,H4: initialized
+0	06:21:59.301	BBands Stop Alert EURUSD,H4: uninit reason 3
+0	06:21:59.301	Grail Indic EURUSD,H4: deinitialized
+0	06:21:59.301	Grail Indic EURUSD,H4: uninit reason 3
+0	06:21:59.310	Super-Point-Signal EURUSD,H4: uninit reason 3
+0	06:21:59.310	LotSize EURUSD,H4: uninit reason 3
+0	06:21:59.310	trend-magic EURUSD,H4: uninit reason 3
+0	06:21:59.310	ForexprofitsupremeClockv1 EURUSD,H4: uninit reason 3
+0	06:21:59.310	Snake EURUSD,H4: uninit reason 3
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,H4: deinitialized
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,H4: uninit reason 3
+0	06:21:59.310	Forexprofitsupreme Signal EURUSD,H4: deinitialized
+0	06:21:59.310	Forexprofitsupreme Signal EURUSD,H4: uninit reason 3
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,H4: deinitialized
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,H4: uninit reason 3
+0	06:21:59.310	SoeHoe.ID_Signal s2 EURUSD,H4: uninit reason 3
+0	06:21:59.310	HalfTrend-1.02 EURUSD,H4: uninit reason 3
+0	06:21:59.310	SEFC084 EURUSD,H4: uninit reason 3
+0	06:21:59.310	1SSRC EURUSD,H4: deinitialized
+0	06:21:59.310	1SSRC EURUSD,H4: uninit reason 3
+0	06:21:59.310	1SSRC EURUSD,H4: deinitialized
+0	06:21:59.310	1SSRC EURUSD,H4: uninit reason 3
+0	06:21:59.310	SoeHoe.ID_fxsecretsignal EURUSD,H4: uninit reason 3
+0	06:21:59.310	SEFC084 EURUSD,H4: uninit reason 3
+0	06:21:59.310	cracked_Mega_Fx EURUSD,H4: uninit reason 3
+0	06:21:59.310	Solar Winds joy EURUSD,H4: uninit reason 3
+0	06:21:59.310	xmaster-formula EURUSD,H4: uninit reason 3
+0	06:21:59.310	BBands Stop Alert EURUSD,Daily: initialized
+0	06:21:59.310	Grail Indic EURUSD,Daily: initialized
+0	06:21:59.310	Super-Point-Signal EURUSD,Daily: initialized
+0	06:21:59.310	LotSize EURUSD,Daily: initialized
+0	06:21:59.310	trend-magic EURUSD,Daily: initialized
+0	06:21:59.310	ForexprofitsupremeClockv1 EURUSD,Daily: initialized
+0	06:21:59.310	Snake EURUSD,Daily: initialized
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,Daily: initialized
+0	06:21:59.310	Forexprofitsupreme Signal EURUSD,Daily: initialized
+0	06:21:59.310	HOLY GRAIL 1.6 EURUSD,Daily: initialized
+0	06:21:59.310	SoeHoe.ID_Signal s2 EURUSD,Daily: initialized
+0	06:21:59.310	HalfTrend-1.02 EURUSD,Daily: initialized
+0	06:21:59.310	SEFC084 EURUSD,Daily: initialized
+0	06:21:59.310	1SSRC EURUSD,Daily: initialized
+0	06:21:59.310	1SSRC EURUSD,Daily: initialized
+0	06:21:59.310	SoeHoe.ID_fxsecretsignal EURUSD,Daily: initialized
+0	06:21:59.310	SEFC084 EURUSD,Daily: initialized
+0	06:21:59.310	cracked_Mega_Fx EURUSD,Daily: initialized
+0	06:21:59.310	Solar Winds joy EURUSD,Daily: initialized
+0	06:21:59.310	xmaster-formula EURUSD,Daily: initialized
+0	06:21:59.705	SEFC084 EURUSD,Daily: Calculation time is 0.2 seconds
+0	06:21:59.801	SEFC084 EURUSD,Daily: Calculation time is 0.2 seconds
+0	06:21:59.806	cracked_Mega_Fx EURUSD,Daily: Alert: EURUSD, TF:D1, MEGAFXPROFIT SELL SIGNAL for Level: -0.14967021 @ 06:21:59
+0	06:23:22.081	Custom indicator AllHullMA Histo_v3.1 EURUSD,Daily: loaded successfully
+0	06:23:23.325	AllHullMA Histo_v3.1 EURUSD,Daily: initialized
+0	06:23:56.206	BBands Stop Alert EURUSD,Daily: uninit reason 3
+0	06:23:56.206	Grail Indic EURUSD,Daily: deinitialized
+0	06:23:56.206	Grail Indic EURUSD,Daily: uninit reason 3
+0	06:23:56.206	Super-Point-Signal EURUSD,Daily: uninit reason 3
+0	06:23:56.206	LotSize EURUSD,Daily: uninit reason 3
+0	06:23:56.206	trend-magic EURUSD,Daily: uninit reason 3
+0	06:23:56.206	ForexprofitsupremeClockv1 EURUSD,Daily: uninit reason 3
+0	06:23:56.206	Snake EURUSD,Daily: uninit reason 3
+0	06:23:56.206	HOLY GRAIL 1.6 EURUSD,Daily: deinitialized
+0	06:23:56.206	HOLY GRAIL 1.6 EURUSD,Daily: uninit reason 3
+0	06:23:56.206	Forexprofitsupreme Signal EURUSD,Daily: deinitialized
+0	06:23:56.206	Forexprofitsupreme Signal EURUSD,Daily: uninit reason 3
+0	06:23:56.211	HOLY GRAIL 1.6 EURUSD,Daily: deinitialized
+0	06:23:56.211	HOLY GRAIL 1.6 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	SoeHoe.ID_Signal s2 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	HalfTrend-1.02 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	SEFC084 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	1SSRC EURUSD,Daily: deinitialized
+0	06:23:56.211	1SSRC EURUSD,Daily: uninit reason 3
+0	06:23:56.211	1SSRC EURUSD,Daily: deinitialized
+0	06:23:56.211	1SSRC EURUSD,Daily: uninit reason 3
+0	06:23:56.211	SoeHoe.ID_fxsecretsignal EURUSD,Daily: uninit reason 3
+0	06:23:56.211	AllHullMA Histo_v3.1 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	SEFC084 EURUSD,Daily: uninit reason 3
+0	06:23:56.211	cracked_Mega_Fx EURUSD,Daily: uninit reason 3
+0	06:23:56.211	Solar Winds joy EURUSD,Daily: uninit reason 3
+0	06:23:56.211	xmaster-formula EURUSD,Daily: uninit reason 3
+0	06:23:56.211	BBands Stop Alert EURUSD,H4: initialized
+0	06:23:56.211	Grail Indic EURUSD,H4: initialized
+0	06:23:56.211	Super-Point-Signal EURUSD,H4: initialized
+0	06:23:56.211	LotSize EURUSD,H4: initialized
+0	06:23:56.211	trend-magic EURUSD,H4: initialized
+0	06:23:56.211	ForexprofitsupremeClockv1 EURUSD,H4: initialized
+0	06:23:56.211	Snake EURUSD,H4: initialized
+0	06:23:56.211	HOLY GRAIL 1.6 EURUSD,H4: initialized
+0	06:23:56.211	Forexprofitsupreme Signal EURUSD,H4: initialized
+0	06:23:56.211	HOLY GRAIL 1.6 EURUSD,H4: initialized
+0	06:23:56.211	SoeHoe.ID_Signal s2 EURUSD,H4: initialized
+0	06:23:56.211	HalfTrend-1.02 EURUSD,H4: initialized
+0	06:23:56.211	SEFC084 EURUSD,H4: initialized
+0	06:23:56.211	1SSRC EURUSD,H4: initialized
+0	06:23:56.211	1SSRC EURUSD,H4: initialized
+0	06:23:56.211	SoeHoe.ID_fxsecretsignal EURUSD,H4: initialized
+0	06:23:56.211	AllHullMA Histo_v3.1 EURUSD,H4: initialized
+0	06:23:56.216	SEFC084 EURUSD,H4: initialized
+0	06:23:56.216	cracked_Mega_Fx EURUSD,H4: initialized
+0	06:23:56.216	Solar Winds joy EURUSD,H4: initialized
+0	06:23:56.216	xmaster-formula EURUSD,H4: initialized
+0	06:23:57.477	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:23:57.616	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:23:57.626	cracked_Mega_Fx EURUSD,H4: Alert: EURUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.03250133 @ 06:23:57
+0	06:24:36.656	BBands Stop Alert EURUSD,H4: uninit reason 3
+0	06:24:36.656	Grail Indic EURUSD,H4: deinitialized
+0	06:24:36.656	Grail Indic EURUSD,H4: uninit reason 3
+0	06:24:36.661	Super-Point-Signal EURUSD,H4: uninit reason 3
+0	06:24:36.661	LotSize EURUSD,H4: uninit reason 3
+0	06:24:36.661	trend-magic EURUSD,H4: uninit reason 3
+0	06:24:36.661	ForexprofitsupremeClockv1 EURUSD,H4: uninit reason 3
+0	06:24:36.661	Snake EURUSD,H4: uninit reason 3
+0	06:24:36.661	HOLY GRAIL 1.6 EURUSD,H4: deinitialized
+0	06:24:36.661	HOLY GRAIL 1.6 EURUSD,H4: uninit reason 3
+0	06:24:36.661	Forexprofitsupreme Signal EURUSD,H4: deinitialized
+0	06:24:36.661	Forexprofitsupreme Signal EURUSD,H4: uninit reason 3
+0	06:24:36.661	HOLY GRAIL 1.6 EURUSD,H4: deinitialized
+0	06:24:36.661	HOLY GRAIL 1.6 EURUSD,H4: uninit reason 3
+0	06:24:36.661	SoeHoe.ID_Signal s2 EURUSD,H4: uninit reason 3
+0	06:24:36.661	HalfTrend-1.02 EURUSD,H4: uninit reason 3
+0	06:24:36.661	SEFC084 EURUSD,H4: uninit reason 3
+0	06:24:36.661	1SSRC EURUSD,H4: deinitialized
+0	06:24:36.661	1SSRC EURUSD,H4: uninit reason 3
+0	06:24:36.661	1SSRC EURUSD,H4: deinitialized
+0	06:24:36.661	1SSRC EURUSD,H4: uninit reason 3
+0	06:24:36.661	SoeHoe.ID_fxsecretsignal EURUSD,H4: uninit reason 3
+0	06:24:36.661	AllHullMA Histo_v3.1 EURUSD,H4: uninit reason 3
+0	06:24:36.661	SEFC084 EURUSD,H4: uninit reason 3
+0	06:24:36.661	cracked_Mega_Fx EURUSD,H4: uninit reason 3
+0	06:24:36.661	Solar Winds joy EURUSD,H4: uninit reason 3
+0	06:24:36.661	xmaster-formula EURUSD,H4: uninit reason 3
+0	06:24:36.661	BBands Stop Alert EURUSD,H1: initialized
+0	06:24:36.661	Grail Indic EURUSD,H1: initialized
+0	06:24:36.661	Super-Point-Signal EURUSD,H1: initialized
+0	06:24:36.661	LotSize EURUSD,H1: initialized
+0	06:24:36.661	trend-magic EURUSD,H1: initialized
+0	06:24:36.661	ForexprofitsupremeClockv1 EURUSD,H1: initialized
+0	06:24:36.661	Snake EURUSD,H1: initialized
+0	06:24:36.661	HOLY GRAIL 1.6 EURUSD,H1: initialized
+0	06:24:36.666	Forexprofitsupreme Signal EURUSD,H1: initialized
+0	06:24:36.666	HOLY GRAIL 1.6 EURUSD,H1: initialized
+0	06:24:36.666	SoeHoe.ID_Signal s2 EURUSD,H1: initialized
+0	06:24:36.666	HalfTrend-1.02 EURUSD,H1: initialized
+0	06:24:36.666	SEFC084 EURUSD,H1: initialized
+0	06:24:36.666	1SSRC EURUSD,H1: initialized
+0	06:24:36.666	1SSRC EURUSD,H1: initialized
+0	06:24:36.666	SoeHoe.ID_fxsecretsignal EURUSD,H1: initialized
+0	06:24:36.666	AllHullMA Histo_v3.1 EURUSD,H1: initialized
+0	06:24:36.666	SEFC084 EURUSD,H1: initialized
+0	06:24:36.666	cracked_Mega_Fx EURUSD,H1: initialized
+0	06:24:36.666	Solar Winds joy EURUSD,H1: initialized
+0	06:24:36.666	xmaster-formula EURUSD,H1: initialized
+0	06:24:37.312	Forexprofitsupreme Signal EURUSD,H1: Alert: EURUSD at 06:24:37 ma cross downtrend
+0	06:24:37.330	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:24:37.458	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:24:37.468	cracked_Mega_Fx EURUSD,H1: Alert: EURUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.07478062 @ 06:24:37
+0	06:25:00.816	BBands Stop Alert EURUSD,H1: uninit reason 3
+0	06:25:00.816	Super-Point-Signal EURUSD,H1: uninit reason 3
+0	06:25:00.816	LotSize EURUSD,H1: uninit reason 3
+0	06:25:00.816	ForexprofitsupremeClockv1 EURUSD,H1: uninit reason 3
+0	06:25:00.816	SoeHoe.ID_Signal s2 EURUSD,H1: uninit reason 3
+0	06:25:00.816	AllHullMA_v3.1 600+ EURUSD,H1: uninit reason 3
+0	06:25:00.816	HOLY GRAIL 1.6 EURUSD,H1: deinitialized
+0	06:25:00.816	HOLY GRAIL 1.6 EURUSD,H1: uninit reason 3
+0	06:25:00.816	HalfTrend-1.02 EURUSD,H1: uninit reason 3
+0	06:25:00.816	SEFC084 EURUSD,H1: uninit reason 3
+0	06:25:00.816	1SSRC EURUSD,H1: deinitialized
+0	06:25:00.816	1SSRC EURUSD,H1: uninit reason 3
+0	06:25:00.816	1SSRC EURUSD,H1: deinitialized
+0	06:25:00.816	1SSRC EURUSD,H1: uninit reason 3
+0	06:25:00.816	SoeHoe.ID_fxsecretsignal EURUSD,H1: uninit reason 3
+0	06:25:00.816	SEFC084 EURUSD,H1: uninit reason 3
+0	06:25:00.816	cracked_Mega_Fx EURUSD,H1: uninit reason 3
+0	06:25:00.816	Solar Winds joy EURUSD,H1: uninit reason 3
+0	06:25:00.816	xmaster-formula EURUSD,H1: uninit reason 3
+0	06:25:00.816	AllHullMA Histo_v3.1 EURUSD,H1: uninit reason 3
+0	06:25:00.816	BBands Stop Alert EURUSD,H4: initialized
+0	06:25:00.816	Super-Point-Signal EURUSD,H4: initialized
+0	06:25:00.816	LotSize EURUSD,H4: initialized
+0	06:25:00.816	ForexprofitsupremeClockv1 EURUSD,H4: initialized
+0	06:25:00.816	SoeHoe.ID_Signal s2 EURUSD,H4: initialized
+0	06:25:00.816	AllHullMA_v3.1 600+ EURUSD,H4: initialized
+0	06:25:00.816	HOLY GRAIL 1.6 EURUSD,H4: initialized
+0	06:25:00.816	HalfTrend-1.02 EURUSD,H4: initialized
+0	06:25:00.816	SEFC084 EURUSD,H4: initialized
+0	06:25:00.816	1SSRC EURUSD,H4: initialized
+0	06:25:00.816	1SSRC EURUSD,H4: initialized
+0	06:25:00.816	SoeHoe.ID_fxsecretsignal EURUSD,H4: initialized
+0	06:25:00.816	SEFC084 EURUSD,H4: initialized
+0	06:25:00.816	cracked_Mega_Fx EURUSD,H4: initialized
+0	06:25:00.816	Solar Winds joy EURUSD,H4: initialized
+0	06:25:00.816	xmaster-formula EURUSD,H4: initialized
+0	06:25:00.816	AllHullMA Histo_v3.1 EURUSD,H4: initialized
+0	06:25:00.856	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:25:00.961	SEFC084 EURUSD,H4: Calculation time is 0.2 seconds
+0	06:25:00.975	cracked_Mega_Fx EURUSD,H4: Alert: EURUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.03250133 @ 06:25:00
+0	06:29:39.784	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:29:39.883	SEFC084 EURUSD,H1: Calculation time is 0.2 seconds
+0	06:34:09.471	BBands Stop Alert EURUSD,H1: uninit reason 3
+0	06:34:09.471	Grail Indic EURUSD,H1: deinitialized
+0	06:34:09.471	Grail Indic EURUSD,H1: uninit reason 3
+0	06:34:09.475	Super-Point-Signal EURUSD,H1: uninit reason 3
+0	06:34:09.475	LotSize EURUSD,H1: uninit reason 3
+0	06:34:09.475	trend-magic EURUSD,H1: uninit reason 3
+0	06:34:09.475	ForexprofitsupremeClockv1 EURUSD,H1: uninit reason 3
+0	06:34:09.475	Snake EURUSD,H1: uninit reason 3
+0	06:34:09.475	HOLY GRAIL 1.6 EURUSD,H1: deinitialized
+0	06:34:09.475	HOLY GRAIL 1.6 EURUSD,H1: uninit reason 3
+0	06:34:09.475	Forexprofitsupreme Signal EURUSD,H1: deinitialized
+0	06:34:09.475	Forexprofitsupreme Signal EURUSD,H1: uninit reason 3
+0	06:34:09.475	HOLY GRAIL 1.6 EURUSD,H1: deinitialized
+0	06:34:09.475	HOLY GRAIL 1.6 EURUSD,H1: uninit reason 3
+0	06:34:09.475	SoeHoe.ID_Signal s2 EURUSD,H1: uninit reason 3
+0	06:34:09.475	HalfTrend-1.02 EURUSD,H1: uninit reason 3
+0	06:34:09.475	SEFC084 EURUSD,H1: uninit reason 3
+0	06:34:09.475	1SSRC EURUSD,H1: deinitialized
+0	06:34:09.475	1SSRC EURUSD,H1: uninit reason 3
+0	06:34:09.475	1SSRC EURUSD,H1: deinitialized
+0	06:34:09.475	1SSRC EURUSD,H1: uninit reason 3
+0	06:34:09.475	SoeHoe.ID_fxsecretsignal EURUSD,H1: uninit reason 3
+0	06:34:09.475	AllHullMA Histo_v3.1 EURUSD,H1: uninit reason 3
+0	06:34:09.475	SEFC084 EURUSD,H1: uninit reason 3
+0	06:34:09.475	cracked_Mega_Fx EURUSD,H1: uninit reason 3
+0	06:34:09.475	Solar Winds joy EURUSD,H1: uninit reason 3
+0	06:34:09.475	xmaster-formula EURUSD,H1: uninit reason 3
+0	06:34:09.475	BBands Stop Alert GBPUSD,H1: initialized
+0	06:34:09.475	Grail Indic GBPUSD,H1: initialized
+0	06:34:09.475	Super-Point-Signal GBPUSD,H1: initialized
+0	06:34:09.475	LotSize GBPUSD,H1: initialized
+0	06:34:09.475	trend-magic GBPUSD,H1: initialized
+0	06:34:09.475	ForexprofitsupremeClockv1 GBPUSD,H1: initialized
+0	06:34:09.475	Snake GBPUSD,H1: initialized
+0	06:34:09.480	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	06:34:09.480	Forexprofitsupreme Signal GBPUSD,H1: initialized
+0	06:34:09.480	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	06:34:09.480	SoeHoe.ID_Signal s2 GBPUSD,H1: initialized
+0	06:34:09.480	HalfTrend-1.02 GBPUSD,H1: initialized
+0	06:34:09.480	SEFC084 GBPUSD,H1: initialized
+0	06:34:09.480	1SSRC GBPUSD,H1: initialized
+0	06:34:09.480	1SSRC GBPUSD,H1: initialized
+0	06:34:09.480	SoeHoe.ID_fxsecretsignal GBPUSD,H1: initialized
+0	06:34:09.480	AllHullMA Histo_v3.1 GBPUSD,H1: initialized
+0	06:34:09.480	SEFC084 GBPUSD,H1: initialized
+0	06:34:09.480	cracked_Mega_Fx GBPUSD,H1: initialized
+0	06:34:09.480	Solar Winds joy GBPUSD,H1: initialized
+0	06:34:09.480	xmaster-formula GBPUSD,H1: initialized
+0	06:34:09.836	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	06:34:09.946	SEFC084 GBPUSD,H1: Calculation time is 0.2 seconds
+0	06:34:09.951	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 06:34:09
+0	06:37:39.991	HalfTrend-1.02 GBPUSD,H1: uninit reason 3
+0	06:37:39.991	BBands Stop Alert GBPUSD,H1: uninit reason 3
+0	06:37:39.991	AllHullMA_v3.1 600+ GBPUSD,H1: uninit reason 3
+0	06:37:39.991	AllHullMA Histo_v3.1 GBPUSD,H1: uninit reason 3
+0	06:37:39.991	xmaster-formula GBPUSD,H1: uninit reason 3
+0	06:37:39.991	cracked_Mega_Fx GBPUSD,H1: uninit reason 3
+0	06:37:40.112	HalfTrend-1.02 GBPUSD,M30: initialized
+0	06:37:40.112	BBands Stop Alert GBPUSD,M30: initialized
+0	06:37:40.112	AllHullMA_v3.1 600+ GBPUSD,M30: initialized
+0	06:37:40.112	AllHullMA Histo_v3.1 GBPUSD,M30: initialized
+0	06:37:40.112	xmaster-formula GBPUSD,M30: initialized
+0	06:37:40.117	cracked_Mega_Fx GBPUSD,M30: initialized
+0	06:37:40.151	cracked_Mega_Fx GBPUSD,M30: Alert: GBPUSD, TF:M30, MEGAFXPROFIT BUY SIGNAL for Level: 0.0832926 @ 06:37:40
+0	06:38:01.022	HalfTrend-1.02 GBPUSD,M30: uninit reason 3
+0	06:38:01.022	BBands Stop Alert GBPUSD,M30: uninit reason 3
+0	06:38:01.022	AllHullMA_v3.1 600+ GBPUSD,M30: uninit reason 3
+0	06:38:01.022	AllHullMA Histo_v3.1 GBPUSD,M30: uninit reason 3
+0	06:38:01.022	xmaster-formula GBPUSD,M30: uninit reason 3
+0	06:38:01.022	cracked_Mega_Fx GBPUSD,M30: uninit reason 3
+0	06:38:01.151	HalfTrend-1.02 GBPUSD,H4: initialized
+0	06:38:01.151	BBands Stop Alert GBPUSD,H4: initialized
+0	06:38:01.151	AllHullMA_v3.1 600+ GBPUSD,H4: initialized
+0	06:38:01.155	AllHullMA Histo_v3.1 GBPUSD,H4: initialized
+0	06:38:01.155	xmaster-formula GBPUSD,H4: initialized
+0	06:38:01.155	cracked_Mega_Fx GBPUSD,H4: initialized
+0	06:38:01.190	cracked_Mega_Fx GBPUSD,H4: Alert: GBPUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.02266299 @ 06:38:01
+0	06:42:42.537	HalfTrend-1.02 AUDCAD,H1: uninit reason 4
+0	06:42:42.537	AllHullMA_v3.1 AUDCAD,H1: uninit reason 4
+0	06:42:42.537	bb_stops_rsi_super_smooth AUDCAD,H1: uninit reason 4
+0	06:42:42.537	AllHullMA Histo_v3.1 AUDCAD,H1: uninit reason 4
+0	06:42:42.542	Custom indicator HalfTrend-1.02 AUDCAD,H1: removed
+0	06:42:42.542	Custom indicator AllHullMA_v3.1 AUDCAD,H1: removed
+0	06:42:42.547	Custom indicator bb_stops_rsi_super_smooth AUDCAD,H1: removed
+0	06:42:42.547	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: removed
+0	06:45:18.055	Custom indicator HOLY GRAIL 1.6 GBPUSD,H4: loaded successfully
+0	06:45:25.071	HOLY GRAIL 1.6 GBPUSD,H4: initialized
+0	07:06:38.834	Custom indicator AllHullMA_v3.4 600+ GBPUSD,H4: loaded successfully
+0	07:08:01.916	AllHullMA_v3.4 600+ GBPUSD,H4: initialized
+0	07:08:43.403	AllHullMA_v3.4 600+ GBPUSD,H4: uninit reason 5
+0	07:08:43.418	AllHullMA_v3.4 600+ GBPUSD,H4: initialized
+0	07:09:56.318	AllHullMA_v3.4 600+ GBPUSD,H4: uninit reason 1
+0	07:09:56.318	Custom indicator AllHullMA_v3.4 600+ GBPUSD,H4: removed
+0	07:30:28.294	HalfTrend-1.02 GBPUSD,H4: uninit reason 1
+0	07:30:28.296	Custom indicator HalfTrend-1.02 GBPUSD,H4: removed
+0	07:35:01.631	BBands Stop Alert GBPUSD,H4: uninit reason 3
+0	07:35:01.631	AllHullMA_v3.1 600+ GBPUSD,H4: uninit reason 3
+0	07:35:01.631	HOLY GRAIL 1.6 GBPUSD,H4: deinitialized
+0	07:35:01.631	HOLY GRAIL 1.6 GBPUSD,H4: uninit reason 3
+0	07:35:01.631	AllHullMA Histo_v3.1 GBPUSD,H4: uninit reason 3
+0	07:35:01.631	xmaster-formula GBPUSD,H4: uninit reason 3
+0	07:35:01.631	cracked_Mega_Fx GBPUSD,H4: uninit reason 3
+0	07:35:01.632	BBands Stop Alert GBPUSD,H1: initialized
+0	07:35:01.632	AllHullMA_v3.1 600+ GBPUSD,H1: initialized
+0	07:35:01.632	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	07:35:01.632	AllHullMA Histo_v3.1 GBPUSD,H1: initialized
+0	07:35:01.632	xmaster-formula GBPUSD,H1: initialized
+0	07:35:01.632	cracked_Mega_Fx GBPUSD,H1: initialized
+0	07:35:01.666	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 07:35:01
+0	07:49:45.592	BBands Stop Alert GBPUSD,H1: uninit reason 3
+0	07:49:45.592	AllHullMA_v3.1 600+ GBPUSD,H1: uninit reason 3
+0	07:49:45.592	HOLY GRAIL 1.6 GBPUSD,H1: deinitialized
+0	07:49:45.592	HOLY GRAIL 1.6 GBPUSD,H1: uninit reason 3
+0	07:49:45.592	AllHullMA Histo_v3.1 GBPUSD,H1: uninit reason 3
+0	07:49:45.592	xmaster-formula GBPUSD,H1: uninit reason 3
+0	07:49:45.592	cracked_Mega_Fx GBPUSD,H1: uninit reason 3
+0	07:49:45.593	BBands Stop Alert GBPUSD,H4: initialized
+0	07:49:45.593	AllHullMA_v3.1 600+ GBPUSD,H4: initialized
+0	07:49:45.593	HOLY GRAIL 1.6 GBPUSD,H4: initialized
+0	07:49:45.593	AllHullMA Histo_v3.1 GBPUSD,H4: initialized
+0	07:49:45.593	xmaster-formula GBPUSD,H4: initialized
+0	07:49:45.593	cracked_Mega_Fx GBPUSD,H4: initialized
+0	07:49:45.645	cracked_Mega_Fx GBPUSD,H4: Alert: GBPUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.02266299 @ 07:49:45
+0	07:50:27.239	BBands Stop Alert GBPUSD,H4: uninit reason 3
+0	07:50:27.239	AllHullMA_v3.1 600+ GBPUSD,H4: uninit reason 3
+0	07:50:27.239	HOLY GRAIL 1.6 GBPUSD,H4: deinitialized
+0	07:50:27.239	HOLY GRAIL 1.6 GBPUSD,H4: uninit reason 3
+0	07:50:27.239	AllHullMA Histo_v3.1 GBPUSD,H4: uninit reason 3
+0	07:50:27.239	xmaster-formula GBPUSD,H4: uninit reason 3
+0	07:50:27.239	cracked_Mega_Fx GBPUSD,H4: uninit reason 3
+0	07:50:27.240	BBands Stop Alert GBPUSD,H1: initialized
+0	07:50:27.240	AllHullMA_v3.1 600+ GBPUSD,H1: initialized
+0	07:50:27.240	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	07:50:27.240	AllHullMA Histo_v3.1 GBPUSD,H1: initialized
+0	07:50:27.240	xmaster-formula GBPUSD,H1: initialized
+0	07:50:27.240	cracked_Mega_Fx GBPUSD,H1: initialized
+0	07:50:27.276	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 07:50:27
+0	07:50:39.608	BBands Stop Alert GBPUSD,H1: uninit reason 3
+0	07:50:39.608	AllHullMA_v3.1 600+ GBPUSD,H1: uninit reason 3
+0	07:50:39.608	HOLY GRAIL 1.6 GBPUSD,H1: deinitialized
+0	07:50:39.608	HOLY GRAIL 1.6 GBPUSD,H1: uninit reason 3
+0	07:50:39.608	AllHullMA Histo_v3.1 GBPUSD,H1: uninit reason 3
+0	07:50:39.608	xmaster-formula GBPUSD,H1: uninit reason 3
+0	07:50:39.608	cracked_Mega_Fx GBPUSD,H1: uninit reason 3
+0	07:50:39.608	BBands Stop Alert GBPUSD,H4: initialized
+0	07:50:39.609	AllHullMA_v3.1 600+ GBPUSD,H4: initialized
+0	07:50:39.609	HOLY GRAIL 1.6 GBPUSD,H4: initialized
+0	07:50:39.609	AllHullMA Histo_v3.1 GBPUSD,H4: initialized
+0	07:50:39.609	xmaster-formula GBPUSD,H4: initialized
+0	07:50:39.609	cracked_Mega_Fx GBPUSD,H4: initialized
+0	07:50:39.653	cracked_Mega_Fx GBPUSD,H4: Alert: GBPUSD, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.02266299 @ 07:50:39
+0	07:51:04.143	BBands Stop Alert GBPUSD,H4: uninit reason 3
+0	07:51:04.143	AllHullMA_v3.1 600+ GBPUSD,H4: uninit reason 3
+0	07:51:04.143	HOLY GRAIL 1.6 GBPUSD,H4: deinitialized
+0	07:51:04.143	HOLY GRAIL 1.6 GBPUSD,H4: uninit reason 3
+0	07:51:04.143	AllHullMA Histo_v3.1 GBPUSD,H4: uninit reason 3
+0	07:51:04.143	xmaster-formula GBPUSD,H4: uninit reason 3
+0	07:51:04.143	cracked_Mega_Fx GBPUSD,H4: uninit reason 3
+0	07:51:04.143	BBands Stop Alert GBPUSD,H1: initialized
+0	07:51:04.143	AllHullMA_v3.1 600+ GBPUSD,H1: initialized
+0	07:51:04.143	HOLY GRAIL 1.6 GBPUSD,H1: initialized
+0	07:51:04.143	AllHullMA Histo_v3.1 GBPUSD,H1: initialized
+0	07:51:04.144	xmaster-formula GBPUSD,H1: initialized
+0	07:51:04.144	cracked_Mega_Fx GBPUSD,H1: initialized
+0	07:51:04.174	cracked_Mega_Fx GBPUSD,H1: Alert: GBPUSD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.37706861 @ 07:51:04
+0	08:14:39.795	Custom indicator HalfTrend-1.02 GBPUSD,H1: loaded successfully
+0	08:14:41.650	HalfTrend-1.02 GBPUSD,H1: initialized
+0	08:29:01.882	Custom indicator HalfTrend-1.02 AUDCAD,H1: loaded successfully
+0	08:29:04.741	HalfTrend-1.02 AUDCAD,H1: initialized
+0	08:35:37.758	HalfTrend-1.02 AUDCAD,H1: uninit reason 1
+0	08:35:37.760	Custom indicator HalfTrend-1.02 AUDCAD,H1: removed
+0	08:35:44.724	Custom indicator HalfTrend-1.02 AUDCAD,H1: loaded successfully
+0	08:36:19.825	HalfTrend-1.02 AUDCAD,H1: initialized
+0	08:38:23.463	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: loaded successfully
+0	08:38:32.841	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: removed
+0	08:38:35.208	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: loaded successfully
+0	08:40:01.645	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: removed
+0	08:40:06.566	Custom indicator AllHullMA_v3.1 AUDCAD,H1: loaded successfully
+0	08:40:22.367	Custom indicator AllHullMA_v3.1 AUDCAD,H1: removed
+0	08:40:24.053	Custom indicator AllHullMA_v3.1 600+ AUDCAD,H1: loaded successfully
+0	08:40:29.624	Custom indicator AllHullMA_v3.1 600+ AUDCAD,H1: removed
+0	08:40:33.278	Custom indicator AllHullMA Histo_v3.1 AUDCAD,H1: loaded successfully
+0	08:40:34.467	AllHullMA Histo_v3.1 AUDCAD,H1: initialized
+0	08:42:15.797	Custom indicator AllHullMA_v3.1 AUDCAD,H1: loaded successfully
+0	08:42:16.925	AllHullMA_v3.1 AUDCAD,H1: initialized
+0	08:43:03.406	AllHullMA_v3.1 AUDCAD,H1: uninit reason 1
+0	08:43:03.408	Custom indicator AllHullMA_v3.1 AUDCAD,H1: removed
