@@ -1,0 +1,1285 @@
+0	06:51:34.761	Custom indicator 2019_03_17\HalfTrend MTF with alerts AUDJPY,H1: loaded successfully
+0	06:51:35.971	HalfTrend MTF with alerts AUDJPY,H1: initialized
+0	06:51:57.454	Custom indicator 2019_03_17\HalfTrend MTF with alerts AUDJPY,H4: loaded successfully
+0	06:51:58.604	HalfTrend MTF with alerts AUDJPY,H4: initialized
+0	06:52:26.988	HalfTrend MTF with alerts AUDJPY,H4: uninit reason 3
+0	06:52:26.988	HalfTrend MTF with alerts AUDJPY,H1: initialized
+0	06:52:35.986	HalfTrend MTF with alerts AUDJPY,H1: uninit reason 3
+0	06:52:35.986	HalfTrend MTF with alerts AUDJPY,H4: initialized
+0	06:57:23.280	Custom indicator 2019_03_17\(T_S_R)-Big Trend AUDJPY,H4: loaded successfully
+0	06:57:24.714	(T_S_R)-Big Trend AUDJPY,H4: initialized
+0	06:57:37.799	Custom indicator 2019_03_17\(T_S_R)-Big Trend AUDJPY,H1: loaded successfully
+0	06:57:38.981	(T_S_R)-Big Trend AUDJPY,H1: initialized
+0	07:01:00.454	Custom indicator myindic\xmaster-formula AUDJPY,H4: loaded successfully
+0	07:01:01.779	xmaster-formula AUDJPY,H4: initialized
+0	07:02:10.896	Custom indicator Solar Winds joy - histo AUDJPY,H4: loaded successfully
+0	07:02:12.275	Solar Winds joy - histo AUDJPY,H4: initialized
+0	07:05:21.483	Custom indicator myindic\cracked_Mega_Fx AUDJPY,H4: loaded successfully
+0	07:05:22.809	cracked_Mega_Fx AUDJPY,H4: initialized
+0	07:05:22.809	cracked_Mega_Fx AUDJPY,H4: Alert: AUDJPY, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.13564463 @ 07:05:22
+0	07:06:59.080	Custom indicator BBands Stop Alert AUDJPY,H4: loaded successfully
+0	07:07:01.043	BBands Stop Alert AUDJPY,H4: initialized
+0	07:07:48.810	Custom indicator AllHullMA_v3.1 600+ AUDJPY,H4: loaded successfully
+0	07:07:50.178	AllHullMA_v3.1 600+ AUDJPY,H4: initialized
+0	07:13:29.313	Custom indicator BinaryComodo AUDJPY,H4: loaded successfully
+0	07:13:30.657	BinaryComodo AUDJPY,H4: initialized
+0	07:33:00.701	Custom indicator cracked_Mega_Fx EURCHF,H1: loaded successfully
+0	07:33:01.819	cracked_Mega_Fx EURCHF,H1: initialized
+0	07:33:01.824	cracked_Mega_Fx EURCHF,H1: Alert: EURCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15197173 @ 07:33:01
+0	07:37:59.965	__EMA 20 EURCHF,H1: uninit reason 3
+0	07:37:59.965	__EMA 7 EURCHF,H1: uninit reason 3
+0	07:37:59.965	__Daily Candle EURCHF,H1: uninit reason 3
+0	07:37:59.965	Spread EURCHF,H1: uninit reason 3
+0	07:37:59.965	BinaryComodo EURCHF,H1: uninit reason 3
+0	07:37:59.965	(T_S_R)-Big Trend EURCHF,H1: uninit reason 3
+0	07:37:59.970	__MFI Meter EURCHF,H1: uninit reason 3
+0	07:37:59.970	__RSI Filtered EURCHF,H1: uninit reason 3
+0	07:37:59.970	cracked_Mega_Fx EURCHF,H1: uninit reason 3
+0	07:38:00.070	__EMA 20 EURCHF,H4: initialized
+0	07:38:00.070	__EMA 7 EURCHF,H4: initialized
+0	07:38:00.070	__Daily Candle EURCHF,H4: initialized
+0	07:38:00.070	Spread EURCHF,H4: initialized
+0	07:38:00.070	BinaryComodo EURCHF,H4: initialized
+0	07:38:00.070	(T_S_R)-Big Trend EURCHF,H4: initialized
+0	07:38:00.070	__MFI Meter EURCHF,H4: initialized
+0	07:38:00.074	__RSI Filtered EURCHF,H4: initialized
+0	07:38:00.079	cracked_Mega_Fx EURCHF,H4: initialized
+0	07:50:46.260	__EMA 20 EURCHF,H4: uninit reason 3
+0	07:50:46.260	__EMA 7 EURCHF,H4: uninit reason 3
+0	07:50:46.260	__Daily Candle EURCHF,H4: uninit reason 3
+0	07:50:46.260	Spread EURCHF,H4: uninit reason 3
+0	07:50:46.260	BinaryComodo EURCHF,H4: uninit reason 3
+0	07:50:46.260	(T_S_R)-Big Trend EURCHF,H4: uninit reason 3
+0	07:50:46.260	__MFI Meter EURCHF,H4: uninit reason 3
+0	07:50:46.260	__RSI Filtered EURCHF,H4: uninit reason 3
+0	07:50:46.260	cracked_Mega_Fx EURCHF,H4: uninit reason 3
+0	07:50:46.438	__EMA 20 EURCHF,H1: initialized
+0	07:50:46.438	__EMA 7 EURCHF,H1: initialized
+0	07:50:46.438	__Daily Candle EURCHF,H1: initialized
+0	07:50:46.438	Spread EURCHF,H1: initialized
+0	07:50:46.438	BinaryComodo EURCHF,H1: initialized
+0	07:50:46.443	(T_S_R)-Big Trend EURCHF,H1: initialized
+0	07:50:46.443	__MFI Meter EURCHF,H1: initialized
+0	07:50:46.443	__RSI Filtered EURCHF,H1: initialized
+0	07:50:46.443	cracked_Mega_Fx EURCHF,H1: initialized
+0	07:50:46.618	cracked_Mega_Fx EURCHF,H1: Alert: EURCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15197173 @ 07:50:46
+0	08:01:28.950	Custom indicator AllHullMA_v3.1 GBPJPY,H1: loaded successfully
+0	08:01:30.391	AllHullMA_v3.1 GBPJPY,H1: initialized
+0	08:03:09.450	Custom indicator cracked_Mega_Fx GBPJPY,H1: loaded successfully
+0	08:03:10.537	cracked_Mega_Fx GBPJPY,H1: initialized
+0	08:03:10.539	cracked_Mega_Fx GBPJPY,H1: Alert: GBPJPY, TF:H1, MEGAFXPROFIT SELL SIGNAL for Level: -0.50754659 @ 08:03:10
+0	08:45:36.570	Custom indicator HOLY GRAIL 1.6 GBPJPY,H1: loaded successfully
+0	08:45:37.907	HOLY GRAIL 1.6 GBPJPY,H1: initialized
+0	08:54:58.611	__EMA 20 EURCHF,H1: uninit reason 7
+0	08:54:58.611	__EMA 7 EURCHF,H1: uninit reason 7
+0	08:54:58.611	__Daily Candle EURCHF,H1: uninit reason 7
+0	08:54:58.611	Spread EURCHF,H1: uninit reason 7
+0	08:54:58.611	BinaryComodo EURCHF,H1: uninit reason 7
+0	08:54:58.611	(T_S_R)-Big Trend EURCHF,H1: uninit reason 7
+0	08:54:58.611	__MFI Meter EURCHF,H1: uninit reason 7
+0	08:54:58.611	__RSI Filtered EURCHF,H1: uninit reason 7
+0	08:54:58.611	cracked_Mega_Fx EURCHF,H1: uninit reason 7
+0	08:54:58.613	Custom indicator __EMA 20 EURCHF,H1: removed
+0	08:54:58.616	Custom indicator __EMA 7 EURCHF,H1: removed
+0	08:54:58.618	Custom indicator __Daily Candle EURCHF,H1: removed
+0	08:54:58.620	Custom indicator Spread EURCHF,H1: removed
+0	08:54:58.621	Custom indicator BinaryComodo EURCHF,H1: removed
+0	08:54:58.623	Custom indicator (T_S_R)-Big Trend EURCHF,H1: removed
+0	08:54:58.625	Custom indicator __MFI Meter EURCHF,H1: removed
+0	08:54:58.628	Custom indicator __RSI Filtered EURCHF,H1: removed
+0	08:54:58.630	Custom indicator cracked_Mega_Fx EURCHF,H1: removed
+0	08:54:58.705	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	08:54:58.718	Custom indicator Others\Super-Point-Signal EURCHF,H1: loaded successfully
+0	08:54:58.734	Custom indicator Others\LotSize EURCHF,H1: loaded successfully
+0	08:54:58.847	Custom indicator ForexprofitsupremeClockv1 EURCHF,H1: loaded successfully
+0	08:54:58.867	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: loaded successfully
+0	08:54:58.884	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: loaded successfully
+0	08:54:58.899	Custom indicator HOLY GRAIL 1.6 EURCHF,H1: loaded successfully
+0	08:54:58.942	Custom indicator HalfTrend-1.02 EURCHF,H1: loaded successfully
+0	08:54:58.950	Custom indicator BinaryComodo EURCHF,H1: loaded successfully
+0	08:54:59.020	Custom indicator 1SSRC EURCHF,H1: loaded successfully
+0	08:54:59.087	Custom indicator 1SSRC EURCHF,H1: loaded successfully
+0	08:54:59.158	Custom indicator Dev\SoeHoe.ID_fxsecretsignal EURCHF,H1: loaded successfully
+0	08:54:59.228	Custom indicator SEFC084 EURCHF,H1: loaded successfully
+0	08:54:59.238	Custom indicator cracked_Mega_Fx EURCHF,H1: loaded successfully
+0	08:54:59.266	Custom indicator Solar Winds joy EURCHF,H1: loaded successfully
+0	08:54:59.276	Custom indicator myindic\xmaster-formula EURCHF,H1: loaded successfully
+0	08:54:59.277	BBands Stop Alert EURCHF,H1: initialized
+0	08:54:59.288	Super-Point-Signal EURCHF,H1: initialized
+0	08:54:59.355	LotSize EURCHF,H1: initialized
+0	08:54:59.367	ForexprofitsupremeClockv1 EURCHF,H1: initialized
+0	08:54:59.394	SoeHoe.ID_Signal s2 EURCHF,H1: initialized
+0	08:54:59.419	AllHullMA_v3.1 600+ EURCHF,H1: initialized
+0	08:54:59.419	HOLY GRAIL 1.6 EURCHF,H1: initialized
+0	08:54:59.439	HalfTrend-1.02 EURCHF,H1: initialized
+0	08:54:59.448	BinaryComodo EURCHF,H1: initialized
+0	08:54:59.448	1SSRC EURCHF,H1: initialized
+0	08:54:59.448	1SSRC EURCHF,H1: initialized
+0	08:54:59.448	SoeHoe.ID_fxsecretsignal EURCHF,H1: initialized
+0	08:54:59.448	SEFC084 EURCHF,H1: initialized
+0	08:54:59.462	cracked_Mega_Fx EURCHF,H1: initialized
+0	08:54:59.472	Solar Winds joy EURCHF,H1: initialized
+0	08:54:59.487	xmaster-formula EURCHF,H1: initialized
+0	08:54:59.630	SEFC084 EURCHF,H1: Calculation time is 0.2 seconds
+0	08:54:59.635	cracked_Mega_Fx EURCHF,H1: Alert: EURCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15197173 @ 08:54:59
+0	08:55:29.890	__EMA 20 AUDJPY,H1: uninit reason 7
+0	08:55:29.890	__EMA 7 AUDJPY,H1: uninit reason 7
+0	08:55:29.890	__Daily Candle AUDJPY,H1: uninit reason 7
+0	08:55:29.891	Spread AUDJPY,H1: uninit reason 7
+0	08:55:29.891	BinaryComodo AUDJPY,H1: uninit reason 7
+0	08:55:29.891	(T_S_R)-Big Trend AUDJPY,H1: uninit reason 7
+0	08:55:29.892	HalfTrend MTF with alerts AUDJPY,H1: uninit reason 7
+0	08:55:29.892	BBands Stop Alert AUDJPY,H1: uninit reason 7
+0	08:55:29.893	__MFI Meter AUDJPY,H1: uninit reason 7
+0	08:55:29.893	__RSI Filtered AUDJPY,H1: uninit reason 7
+0	08:55:29.893	xmaster-formula AUDJPY,H1: uninit reason 7
+0	08:55:29.896	Custom indicator __EMA 20 AUDJPY,H1: removed
+0	08:55:29.898	Custom indicator __EMA 7 AUDJPY,H1: removed
+0	08:55:29.900	Custom indicator __Daily Candle AUDJPY,H1: removed
+0	08:55:29.902	Custom indicator Spread AUDJPY,H1: removed
+0	08:55:29.903	Custom indicator BinaryComodo AUDJPY,H1: removed
+0	08:55:29.905	Custom indicator (T_S_R)-Big Trend AUDJPY,H1: removed
+0	08:55:29.907	Custom indicator HalfTrend MTF with alerts AUDJPY,H1: removed
+0	08:55:29.908	Custom indicator BBands Stop Alert AUDJPY,H1: removed
+0	08:55:29.910	Custom indicator __MFI Meter AUDJPY,H1: removed
+0	08:55:29.913	Custom indicator __RSI Filtered AUDJPY,H1: removed
+0	08:55:29.920	Custom indicator xmaster-formula AUDJPY,H1: removed
+0	08:55:29.997	Custom indicator BBands Stop Alert AUDJPY,H1: loaded successfully
+0	08:55:30.009	Custom indicator Others\Super-Point-Signal AUDJPY,H1: loaded successfully
+0	08:55:30.020	Custom indicator Others\LotSize AUDJPY,H1: loaded successfully
+0	08:55:30.031	Custom indicator ForexprofitsupremeClockv1 AUDJPY,H1: loaded successfully
+0	08:55:30.041	Custom indicator SoeHoe.ID_Signal s2 AUDJPY,H1: loaded successfully
+0	08:55:30.054	Custom indicator AllHullMA_v3.1 600+ AUDJPY,H1: loaded successfully
+0	08:55:30.069	Custom indicator HOLY GRAIL 1.6 AUDJPY,H1: loaded successfully
+0	08:55:30.079	Custom indicator HalfTrend-1.02 AUDJPY,H1: loaded successfully
+0	08:55:30.088	Custom indicator BinaryComodo AUDJPY,H1: loaded successfully
+0	08:55:30.154	Custom indicator 1SSRC AUDJPY,H1: loaded successfully
+0	08:55:30.221	Custom indicator 1SSRC AUDJPY,H1: loaded successfully
+0	08:55:30.289	Custom indicator Dev\SoeHoe.ID_fxsecretsignal AUDJPY,H1: loaded successfully
+0	08:55:30.353	Custom indicator SEFC084 AUDJPY,H1: loaded successfully
+0	08:55:30.364	Custom indicator cracked_Mega_Fx AUDJPY,H1: loaded successfully
+0	08:55:30.372	Custom indicator Solar Winds joy AUDJPY,H1: loaded successfully
+0	08:55:30.382	Custom indicator myindic\xmaster-formula AUDJPY,H1: loaded successfully
+0	08:55:30.383	BBands Stop Alert AUDJPY,H1: initialized
+0	08:55:30.393	Super-Point-Signal AUDJPY,H1: initialized
+0	08:55:30.462	LotSize AUDJPY,H1: initialized
+0	08:55:30.473	ForexprofitsupremeClockv1 AUDJPY,H1: initialized
+0	08:55:30.500	SoeHoe.ID_Signal s2 AUDJPY,H1: initialized
+0	08:55:30.520	AllHullMA_v3.1 600+ AUDJPY,H1: initialized
+0	08:55:30.520	HOLY GRAIL 1.6 AUDJPY,H1: initialized
+0	08:55:30.535	HalfTrend-1.02 AUDJPY,H1: initialized
+0	08:55:30.547	BinaryComodo AUDJPY,H1: initialized
+0	08:55:30.547	1SSRC AUDJPY,H1: initialized
+0	08:55:30.547	1SSRC AUDJPY,H1: initialized
+0	08:55:30.547	SoeHoe.ID_fxsecretsignal AUDJPY,H1: initialized
+0	08:55:30.547	SEFC084 AUDJPY,H1: initialized
+0	08:55:30.567	cracked_Mega_Fx AUDJPY,H1: initialized
+0	08:55:30.579	Solar Winds joy AUDJPY,H1: initialized
+0	08:55:30.594	xmaster-formula AUDJPY,H1: initialized
+0	08:55:30.595	BBands Stop Alert AUDJPY,H1: Alert: BBands Stop Alert Buy --> AUDJPY@TF60
+0	08:55:30.711	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	08:55:30.714	cracked_Mega_Fx AUDJPY,H1: Alert: AUDJPY, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.10399117 @ 08:55:30
+0	10:18:30.907	BBands Stop Alert EURCHF,H1: uninit reason 7
+0	10:18:30.907	Super-Point-Signal EURCHF,H1: uninit reason 7
+0	10:18:30.907	LotSize EURCHF,H1: uninit reason 7
+0	10:18:30.907	ForexprofitsupremeClockv1 EURCHF,H1: uninit reason 7
+0	10:18:30.907	SoeHoe.ID_Signal s2 EURCHF,H1: uninit reason 7
+0	10:18:30.907	AllHullMA_v3.1 600+ EURCHF,H1: uninit reason 7
+0	10:18:30.907	HOLY GRAIL 1.6 EURCHF,H1: deinitialized
+0	10:18:30.907	HOLY GRAIL 1.6 EURCHF,H1: uninit reason 7
+0	10:18:30.907	HalfTrend-1.02 EURCHF,H1: uninit reason 7
+0	10:18:30.908	BinaryComodo EURCHF,H1: uninit reason 7
+0	10:18:30.908	1SSRC EURCHF,H1: deinitialized
+0	10:18:30.908	1SSRC EURCHF,H1: uninit reason 7
+0	10:18:30.908	1SSRC EURCHF,H1: deinitialized
+0	10:18:30.908	1SSRC EURCHF,H1: uninit reason 7
+0	10:18:30.908	SoeHoe.ID_fxsecretsignal EURCHF,H1: uninit reason 7
+0	10:18:30.908	SEFC084 EURCHF,H1: uninit reason 7
+0	10:18:30.908	cracked_Mega_Fx EURCHF,H1: uninit reason 7
+0	10:18:30.908	Solar Winds joy EURCHF,H1: uninit reason 7
+0	10:18:30.908	xmaster-formula EURCHF,H1: uninit reason 7
+0	10:18:30.908	Custom indicator BBands Stop Alert EURCHF,H1: removed
+0	10:18:30.911	Custom indicator Super-Point-Signal EURCHF,H1: removed
+0	10:18:30.914	Custom indicator LotSize EURCHF,H1: removed
+0	10:18:30.916	Custom indicator ForexprofitsupremeClockv1 EURCHF,H1: removed
+0	10:18:30.919	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: removed
+0	10:18:30.922	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: removed
+0	10:18:30.922	Custom indicator HOLY GRAIL 1.6 EURCHF,H1: removed
+0	10:18:30.924	Custom indicator HalfTrend-1.02 EURCHF,H1: removed
+0	10:18:30.926	Custom indicator BinaryComodo EURCHF,H1: removed
+0	10:18:30.926	Custom indicator 1SSRC EURCHF,H1: removed
+0	10:18:30.926	Custom indicator 1SSRC EURCHF,H1: removed
+0	10:18:30.926	Custom indicator SoeHoe.ID_fxsecretsignal EURCHF,H1: removed
+0	10:18:30.926	Custom indicator SEFC084 EURCHF,H1: removed
+0	10:18:30.928	Custom indicator cracked_Mega_Fx EURCHF,H1: removed
+0	10:18:30.930	Custom indicator Solar Winds joy EURCHF,H1: removed
+0	10:18:30.932	Custom indicator xmaster-formula EURCHF,H1: removed
+0	10:18:31.003	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	10:18:31.013	Custom indicator Others\Super-Point-Signal EURCHF,H1: loaded successfully
+0	10:18:31.025	Custom indicator Others\LotSize EURCHF,H1: loaded successfully
+0	10:18:31.039	Custom indicator ForexprofitsupremeClockv1 EURCHF,H1: loaded successfully
+0	10:18:31.050	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: loaded successfully
+0	10:18:31.066	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: loaded successfully
+0	10:18:31.085	Custom indicator HOLY GRAIL 1.6 EURCHF,H1: loaded successfully
+0	10:18:31.095	Custom indicator HalfTrend-1.02 EURCHF,H1: loaded successfully
+0	10:18:31.106	Custom indicator BinaryComodo EURCHF,H1: loaded successfully
+0	10:18:31.173	Custom indicator 1SSRC EURCHF,H1: loaded successfully
+0	10:18:31.255	Custom indicator 1SSRC EURCHF,H1: loaded successfully
+0	10:18:31.360	Custom indicator Dev\SoeHoe.ID_fxsecretsignal EURCHF,H1: loaded successfully
+0	10:18:31.445	Custom indicator SEFC084 EURCHF,H1: loaded successfully
+0	10:18:31.455	Custom indicator cracked_Mega_Fx EURCHF,H1: loaded successfully
+0	10:18:31.464	Custom indicator Solar Winds joy EURCHF,H1: loaded successfully
+0	10:18:31.474	Custom indicator myindic\xmaster-formula EURCHF,H1: loaded successfully
+0	10:18:31.475	BBands Stop Alert EURCHF,H1: initialized
+0	10:18:31.489	Super-Point-Signal EURCHF,H1: initialized
+0	10:18:31.567	LotSize EURCHF,H1: initialized
+0	10:18:31.581	ForexprofitsupremeClockv1 EURCHF,H1: initialized
+0	10:18:31.610	SoeHoe.ID_Signal s2 EURCHF,H1: initialized
+0	10:18:31.631	AllHullMA_v3.1 600+ EURCHF,H1: initialized
+0	10:18:31.631	HOLY GRAIL 1.6 EURCHF,H1: initialized
+0	10:18:31.646	HalfTrend-1.02 EURCHF,H1: initialized
+0	10:18:31.656	BinaryComodo EURCHF,H1: initialized
+0	10:18:31.656	1SSRC EURCHF,H1: initialized
+0	10:18:31.656	1SSRC EURCHF,H1: initialized
+0	10:18:31.656	SoeHoe.ID_fxsecretsignal EURCHF,H1: initialized
+0	10:18:31.656	SEFC084 EURCHF,H1: initialized
+0	10:18:31.669	cracked_Mega_Fx EURCHF,H1: initialized
+0	10:18:31.682	Solar Winds joy EURCHF,H1: initialized
+0	10:18:31.699	xmaster-formula EURCHF,H1: initialized
+0	10:18:31.867	SEFC084 EURCHF,H1: Calculation time is 0.2 seconds
+0	10:18:31.880	cracked_Mega_Fx EURCHF,H1: Alert: EURCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15197173 @ 10:18:31
+0	10:19:39.145	BBands Stop Alert EURCHF,H1: uninit reason 7
+0	10:19:39.145	Super-Point-Signal EURCHF,H1: uninit reason 7
+0	10:19:39.145	LotSize EURCHF,H1: uninit reason 7
+0	10:19:39.145	ForexprofitsupremeClockv1 EURCHF,H1: uninit reason 7
+0	10:19:39.145	SoeHoe.ID_Signal s2 EURCHF,H1: uninit reason 7
+0	10:19:39.145	AllHullMA_v3.1 600+ EURCHF,H1: uninit reason 7
+0	10:19:39.145	HOLY GRAIL 1.6 EURCHF,H1: deinitialized
+0	10:19:39.145	HOLY GRAIL 1.6 EURCHF,H1: uninit reason 7
+0	10:19:39.145	HalfTrend-1.02 EURCHF,H1: uninit reason 7
+0	10:19:39.145	BinaryComodo EURCHF,H1: uninit reason 7
+0	10:19:39.145	1SSRC EURCHF,H1: deinitialized
+0	10:19:39.145	1SSRC EURCHF,H1: uninit reason 7
+0	10:19:39.145	1SSRC EURCHF,H1: deinitialized
+0	10:19:39.145	1SSRC EURCHF,H1: uninit reason 7
+0	10:19:39.145	SoeHoe.ID_fxsecretsignal EURCHF,H1: uninit reason 7
+0	10:19:39.145	SEFC084 EURCHF,H1: uninit reason 7
+0	10:19:39.145	cracked_Mega_Fx EURCHF,H1: uninit reason 7
+0	10:19:39.145	Solar Winds joy EURCHF,H1: uninit reason 7
+0	10:19:39.145	xmaster-formula EURCHF,H1: uninit reason 7
+0	10:19:39.146	Custom indicator BBands Stop Alert EURCHF,H1: removed
+0	10:19:39.148	Custom indicator Super-Point-Signal EURCHF,H1: removed
+0	10:19:39.150	Custom indicator LotSize EURCHF,H1: removed
+0	10:19:39.151	Custom indicator ForexprofitsupremeClockv1 EURCHF,H1: removed
+0	10:19:39.153	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: removed
+0	10:19:39.155	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: removed
+0	10:19:39.155	Custom indicator HOLY GRAIL 1.6 EURCHF,H1: removed
+0	10:19:39.157	Custom indicator HalfTrend-1.02 EURCHF,H1: removed
+0	10:19:39.159	Custom indicator BinaryComodo EURCHF,H1: removed
+0	10:19:39.159	Custom indicator 1SSRC EURCHF,H1: removed
+0	10:19:39.159	Custom indicator 1SSRC EURCHF,H1: removed
+0	10:19:39.159	Custom indicator SoeHoe.ID_fxsecretsignal EURCHF,H1: removed
+0	10:19:39.159	Custom indicator SEFC084 EURCHF,H1: removed
+0	10:19:39.161	Custom indicator cracked_Mega_Fx EURCHF,H1: removed
+0	10:19:39.163	Custom indicator Solar Winds joy EURCHF,H1: removed
+0	10:19:39.164	Custom indicator xmaster-formula EURCHF,H1: removed
+0	10:19:39.216	Custom indicator __EMA 20 EURCHF,H1: loaded successfully
+0	10:19:39.240	Custom indicator __EMA 7 EURCHF,H1: loaded successfully
+0	10:19:39.270	Custom indicator __Daily Candle EURCHF,H1: loaded successfully
+0	10:19:39.307	Custom indicator AS_LINE EURCHF,H1: loaded successfully
+0	10:19:39.362	Custom indicator Spread EURCHF,H1: loaded successfully
+0	10:19:39.398	Custom indicator REALBOT_ST EURCHF,H1: loaded successfully
+0	10:19:39.432	Custom indicator REALBOT_HL1 EURCHF,H1: loaded successfully
+0	10:19:39.448	Custom indicator myindic\BinaryComodo EURCHF,H1: loaded successfully
+0	10:19:39.468	Custom indicator __MFI Meter EURCHF,H1: loaded successfully
+0	10:19:39.504	Custom indicator __RSI Filtered EURCHF,H1: loaded successfully
+0	10:19:39.518	__EMA 20 EURCHF,H1: initialized
+0	10:19:39.529	__EMA 7 EURCHF,H1: initialized
+0	10:19:39.553	__Daily Candle EURCHF,H1: initialized
+0	10:19:39.565	AS_LINE EURCHF,H1: Alert: AS_LINE Indicator has expired...
+0	10:19:39.565	AS_LINE EURCHF,H1: initialized
+0	10:19:39.577	Spread EURCHF,H1: initialized
+0	10:19:39.590	REALBOT_ST EURCHF,H1: Alert: REALBOT_HL1 Indicator has expired...
+0	10:19:39.590	REALBOT_ST EURCHF,H1: initialized
+0	10:19:39.603	REALBOT_HL1 EURCHF,H1: Alert: REALBOT_HL1 Indicator has expired...
+0	10:19:39.603	REALBOT_HL1 EURCHF,H1: initialized
+0	10:19:39.613	BinaryComodo EURCHF,H1: initialized
+0	10:19:39.632	__MFI Meter EURCHF,H1: initialized
+0	10:19:39.651	__RSI Filtered EURCHF,H1: initialized
+0	10:19:39.658	REALBOT_HL1 EURCHF,H1: Alert: EURCHF at 10:19:39 FXPA HLine Signal up
+0	10:19:39.658	REALBOT_HL1 EURCHF,H1: Alert: EURCHF at 10:19:39 FXPA HLine Signal down
+0	10:39:30.377	Custom indicator HalfTrend MTF with alerts EURCHF,H1: loaded successfully
+0	10:39:31.526	HalfTrend MTF with alerts EURCHF,H1: initialized
+0	10:48:08.317	Custom indicator 2019_03_17\(T_S_R)-Big Trend AUDJPY,H1: loaded successfully
+0	10:48:09.713	(T_S_R)-Big Trend AUDJPY,H1: initialized
+0	11:10:25.534	REALBOT_HL1 EURCHF,H1: Alert: EURCHF at 11:10:25 FXPA HLine Signal up
+0	11:10:25.534	REALBOT_HL1 EURCHF,H1: Alert: EURCHF at 11:10:25 FXPA HLine Signal down
+0	11:10:25.534	BinaryComodo EURCHF,H1: Alert: EURCHF 60  BinaryComodo Signal:CALL NOW! 15mins
+0	11:10:59.587	Custom indicator myindic\__MFI Meter AUDJPY,H1: loaded successfully
+0	11:11:00.910	__MFI Meter AUDJPY,H1: initialized
+0	11:11:07.061	Custom indicator myindic\__RSI Filtered AUDJPY,H1: loaded successfully
+0	11:11:08.691	__RSI Filtered AUDJPY,H1: initialized
+0	11:11:19.192	__MFI Meter AUDJPY,H1: uninit reason 1
+0	11:11:19.336	Custom indicator __MFI Meter AUDJPY,H1: removed
+0	11:11:23.559	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	11:11:35.407	__RSI Filtered AUDJPY,H1: uninit reason 1
+0	11:11:35.553	Custom indicator __RSI Filtered AUDJPY,H1: removed
+0	11:11:39.119	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	11:11:42.955	Custom indicator myindic\__RSI Filtered AUDJPY,H1: loaded successfully
+0	11:11:44.359	__RSI Filtered AUDJPY,H1: initialized
+0	11:11:46.909	Custom indicator myindic\__MFI Meter AUDJPY,H1: loaded successfully
+0	11:11:48.170	__MFI Meter AUDJPY,H1: initialized
+0	11:19:47.405	__EMA 20 EURCHF,H1: uninit reason 7
+0	11:19:47.405	__EMA 7 EURCHF,H1: uninit reason 7
+0	11:19:47.405	__Daily Candle EURCHF,H1: uninit reason 7
+0	11:19:47.405	AS_LINE EURCHF,H1: uninit reason 7
+0	11:19:47.407	Spread EURCHF,H1: uninit reason 7
+0	11:19:47.407	REALBOT_ST EURCHF,H1: uninit reason 7
+0	11:19:47.407	REALBOT_HL1 EURCHF,H1: uninit reason 7
+0	11:19:47.407	BinaryComodo EURCHF,H1: uninit reason 7
+0	11:19:47.407	HalfTrend MTF with alerts EURCHF,H1: uninit reason 7
+0	11:19:47.407	__MFI Meter EURCHF,H1: uninit reason 7
+0	11:19:47.407	__RSI Filtered EURCHF,H1: uninit reason 7
+0	11:19:47.409	Custom indicator __EMA 20 EURCHF,H1: removed
+0	11:19:47.411	Custom indicator __EMA 7 EURCHF,H1: removed
+0	11:19:47.412	Custom indicator __Daily Candle EURCHF,H1: removed
+0	11:19:47.414	Custom indicator AS_LINE EURCHF,H1: removed
+0	11:19:47.414	Custom indicator Spread EURCHF,H1: removed
+0	11:19:47.416	Custom indicator REALBOT_ST EURCHF,H1: removed
+0	11:19:47.417	Custom indicator REALBOT_HL1 EURCHF,H1: removed
+0	11:19:47.419	Custom indicator BinaryComodo EURCHF,H1: removed
+0	11:19:47.421	Custom indicator HalfTrend MTF with alerts EURCHF,H1: removed
+0	11:19:47.423	Custom indicator __MFI Meter EURCHF,H1: removed
+0	11:19:47.427	Custom indicator __RSI Filtered EURCHF,H1: removed
+0	11:19:47.502	Custom indicator GWS_ZigPoint EURCHF,H1: loaded successfully
+0	11:19:47.517	Custom indicator ZigZag EURCHF,H1: loaded successfully
+0	11:19:47.587	Custom indicator super-signals_v2a[2] EURCHF,H1: loaded successfully
+0	11:19:47.660	Custom indicator BBSTOP EURCHF,H1: loaded successfully
+0	11:19:47.729	Custom indicator Heiken Ashi Smoothed_v2 EURCHF,H1: loaded successfully
+0	11:19:47.816	Custom indicator AnggrekJingga EURCHF,H1: loaded successfully
+0	11:19:47.902	Custom indicator BBSTOP EURCHF,H1: loaded successfully
+0	11:19:47.969	Custom indicator BBSTOP EURCHF,H1: loaded successfully
+0	11:19:48.049	Custom indicator 2019_03_18\TE v2.0 EURCHF,H1: loaded successfully
+0	11:19:48.068	Custom indicator bstrend-indicator EURCHF,H1: loaded successfully
+0	11:19:48.068	GWS_ZigPoint EURCHF,H1: initialized
+0	11:19:48.082	ZigZag EURCHF,H1: initialized
+0	11:19:48.082	super-signals_v2a[2] EURCHF,H1: initialized
+0	11:19:48.082	BBSTOP EURCHF,H1: initialized
+0	11:19:48.082	Heiken Ashi Smoothed_v2 EURCHF,H1: initialized
+0	11:19:48.082	AnggrekJingga EURCHF,H1: initialized
+0	11:19:48.082	BBSTOP EURCHF,H1: initialized
+0	11:19:48.082	BBSTOP EURCHF,H1: initialized
+0	11:19:48.082	TE v2.0 EURCHF,H1: initialized
+0	11:19:48.101	bstrend-indicator EURCHF,H1: initialized
+0	11:19:48.132	bstrend-indicator EURCHF,H1: Calculation time is 0.2 seconds
+0	11:48:26.043	GWS_ZigPoint EURCHF,H1: uninit reason 7
+0	11:48:26.043	ZigZag EURCHF,H1: uninit reason 7
+0	11:48:26.043	super-signals_v2a[2] EURCHF,H1: uninit reason 7
+0	11:48:26.043	BBSTOP EURCHF,H1: deinitialized
+0	11:48:26.043	BBSTOP EURCHF,H1: uninit reason 7
+0	11:48:26.043	Heiken Ashi Smoothed_v2 EURCHF,H1: deinitialized
+0	11:48:26.043	Heiken Ashi Smoothed_v2 EURCHF,H1: uninit reason 7
+0	11:48:26.043	AnggrekJingga EURCHF,H1: deinitialized
+0	11:48:26.043	AnggrekJingga EURCHF,H1: uninit reason 7
+0	11:48:26.043	BBSTOP EURCHF,H1: deinitialized
+0	11:48:26.043	BBSTOP EURCHF,H1: uninit reason 7
+0	11:48:26.043	BBSTOP EURCHF,H1: deinitialized
+0	11:48:26.043	BBSTOP EURCHF,H1: uninit reason 7
+0	11:48:26.043	TE v2.0 EURCHF,H1: uninit reason 7
+0	11:48:26.043	bstrend-indicator EURCHF,H1: uninit reason 7
+0	11:48:26.043	Custom indicator GWS_ZigPoint EURCHF,H1: removed
+0	11:48:26.045	Custom indicator ZigZag EURCHF,H1: removed
+0	11:48:26.045	Custom indicator super-signals_v2a[2] EURCHF,H1: removed
+0	11:48:26.045	Custom indicator BBSTOP EURCHF,H1: removed
+0	11:48:26.045	Custom indicator Heiken Ashi Smoothed_v2 EURCHF,H1: removed
+0	11:48:26.045	Custom indicator AnggrekJingga EURCHF,H1: removed
+0	11:48:26.045	Custom indicator BBSTOP EURCHF,H1: removed
+0	11:48:26.045	Custom indicator BBSTOP EURCHF,H1: removed
+0	11:48:26.045	Custom indicator TE v2.0 EURCHF,H1: removed
+0	11:48:26.047	Custom indicator bstrend-indicator EURCHF,H1: removed
+0	11:48:26.129	Custom indicator ForexProfitSupreme Meter EURCHF,H1: loaded successfully
+0	11:48:26.203	Custom indicator ForexprofitsupremeClock EURCHF,H1: loaded successfully
+0	11:48:26.276	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	11:48:26.287	Custom indicator HalfTrend-1.02 EURCHF,H1: loaded successfully
+0	11:48:26.297	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: loaded successfully
+0	11:48:26.314	Custom indicator AllHullMA_v3.4 600+ EURCHF,H1: loaded successfully
+0	11:48:26.323	Custom indicator myindic\BinaryComodo EURCHF,H1: loaded successfully
+0	11:48:26.336	Custom indicator myindic\Super-Point-Signal EURCHF,H1: loaded successfully
+0	11:48:26.407	Custom indicator Agimat-1\+++Agimat MiniReversal EURCHF,H1: loaded successfully
+0	11:48:26.421	Custom indicator 2019_03_17\(T_S_R)-Big Trend (1) EURCHF,H1: loaded successfully
+0	11:48:26.489	Custom indicator ForexprofitsupremeDline EURCHF,H1: loaded successfully
+0	11:48:26.525	Custom indicator Others\xmaster-formula EURCHF,H1: loaded successfully
+0	11:48:26.528	Custom indicator Solar Winds joy - histo EURCHF,H1: loaded successfully
+0	11:48:26.538	Custom indicator __MFI Meter EURCHF,H1: loaded successfully
+0	11:48:26.539	ForexProfitSupreme Meter EURCHF,H1: initialized
+0	11:48:26.539	ForexprofitsupremeClock EURCHF,H1: initialized
+0	11:48:26.539	BBands Stop Alert EURCHF,H1: initialized
+0	11:48:26.553	HalfTrend-1.02 EURCHF,H1: initialized
+0	11:48:26.581	SoeHoe.ID_Signal s2 EURCHF,H1: initialized
+0	11:48:26.602	AllHullMA_v3.4 600+ EURCHF,H1: initialized
+0	11:48:26.615	BinaryComodo EURCHF,H1: initialized
+0	11:48:26.632	Super-Point-Signal EURCHF,H1: initialized
+0	11:48:26.632	+++Agimat MiniReversal EURCHF,H1: initialized
+0	11:48:26.647	(T_S_R)-Big Trend (1) EURCHF,H1: initialized
+0	11:48:26.647	ForexprofitsupremeDline EURCHF,H1: initialized
+0	11:48:26.661	xmaster-formula EURCHF,H1: initialized
+0	11:48:26.661	Solar Winds joy - histo EURCHF,H1: initialized
+0	11:48:26.681	__MFI Meter EURCHF,H1: initialized
+0	11:49:05.971	ForexProfitSupreme Meter EURCHF,H1: deinitialized
+0	11:49:05.971	ForexProfitSupreme Meter EURCHF,H1: uninit reason 7
+0	11:49:05.971	ForexprofitsupremeClock EURCHF,H1: deinitialized
+0	11:49:05.971	ForexprofitsupremeClock EURCHF,H1: uninit reason 7
+0	11:49:05.971	BBands Stop Alert EURCHF,H1: uninit reason 7
+0	11:49:05.971	HalfTrend-1.02 EURCHF,H1: uninit reason 7
+0	11:49:05.971	SoeHoe.ID_Signal s2 EURCHF,H1: uninit reason 7
+0	11:49:05.971	AllHullMA_v3.4 600+ EURCHF,H1: uninit reason 7
+0	11:49:05.971	BinaryComodo EURCHF,H1: uninit reason 7
+0	11:49:05.971	Super-Point-Signal EURCHF,H1: uninit reason 7
+0	11:49:05.972	+++Agimat MiniReversal EURCHF,H1: deinitialized
+0	11:49:05.972	+++Agimat MiniReversal EURCHF,H1: uninit reason 7
+0	11:49:05.972	(T_S_R)-Big Trend (1) EURCHF,H1: uninit reason 7
+0	11:49:05.972	ForexprofitsupremeDline EURCHF,H1: deinitialized
+0	11:49:05.972	ForexprofitsupremeDline EURCHF,H1: uninit reason 7
+0	11:49:05.972	xmaster-formula EURCHF,H1: uninit reason 7
+0	11:49:05.972	Solar Winds joy - histo EURCHF,H1: deinitialized
+0	11:49:05.972	Solar Winds joy - histo EURCHF,H1: uninit reason 7
+0	11:49:05.972	__MFI Meter EURCHF,H1: uninit reason 7
+0	11:49:05.973	Custom indicator ForexProfitSupreme Meter EURCHF,H1: removed
+0	11:49:05.973	Custom indicator ForexprofitsupremeClock EURCHF,H1: removed
+0	11:49:05.973	Custom indicator BBands Stop Alert EURCHF,H1: removed
+0	11:49:05.976	Custom indicator HalfTrend-1.02 EURCHF,H1: removed
+0	11:49:05.979	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: removed
+0	11:49:05.983	Custom indicator AllHullMA_v3.4 600+ EURCHF,H1: removed
+0	11:49:05.985	Custom indicator BinaryComodo EURCHF,H1: removed
+0	11:49:05.987	Custom indicator Super-Point-Signal EURCHF,H1: removed
+0	11:49:05.987	Custom indicator +++Agimat MiniReversal EURCHF,H1: removed
+0	11:49:05.989	Custom indicator (T_S_R)-Big Trend (1) EURCHF,H1: removed
+0	11:49:05.989	Custom indicator ForexprofitsupremeDline EURCHF,H1: removed
+0	11:49:05.992	Custom indicator xmaster-formula EURCHF,H1: removed
+0	11:49:05.992	Custom indicator Solar Winds joy - histo EURCHF,H1: removed
+0	11:49:05.996	Custom indicator __MFI Meter EURCHF,H1: removed
+0	11:49:06.166	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	11:49:06.179	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: loaded successfully
+0	11:49:06.190	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: loaded successfully
+0	11:49:06.200	Custom indicator cracked_Mega_Fx EURCHF,H1: loaded successfully
+0	11:49:06.200	BBands Stop Alert EURCHF,H1: initialized
+0	11:49:06.221	AllHullMA_v3.1 600+ EURCHF,H1: initialized
+0	11:49:06.249	SoeHoe.ID_Signal s2 EURCHF,H1: initialized
+0	11:49:06.263	cracked_Mega_Fx EURCHF,H1: initialized
+0	11:49:06.278	cracked_Mega_Fx EURCHF,H1: Alert: EURCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.15197173 @ 11:49:06
+0	11:49:13.138	BBands Stop Alert EURCHF,H1: uninit reason 7
+0	11:49:13.138	AllHullMA_v3.1 600+ EURCHF,H1: uninit reason 7
+0	11:49:13.138	SoeHoe.ID_Signal s2 EURCHF,H1: uninit reason 7
+0	11:49:13.138	cracked_Mega_Fx EURCHF,H1: uninit reason 7
+0	11:49:13.138	Custom indicator BBands Stop Alert EURCHF,H1: removed
+0	11:49:13.141	Custom indicator AllHullMA_v3.1 600+ EURCHF,H1: removed
+0	11:49:13.144	Custom indicator SoeHoe.ID_Signal s2 EURCHF,H1: removed
+0	11:49:13.148	Custom indicator cracked_Mega_Fx EURCHF,H1: removed
+0	11:49:13.307	Custom indicator __EMA 20 EURCHF,H1: loaded successfully
+0	11:49:13.323	Custom indicator __EMA 7 EURCHF,H1: loaded successfully
+0	11:49:13.338	Custom indicator __Daily Candle EURCHF,H1: loaded successfully
+0	11:49:13.352	Custom indicator Spread EURCHF,H1: loaded successfully
+0	11:49:13.364	Custom indicator myindic\BinaryComodo EURCHF,H1: loaded successfully
+0	11:49:13.379	Custom indicator 2019_03_17\(T_S_R)-Big Trend EURCHF,H1: loaded successfully
+0	11:49:13.395	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURCHF,H1: loaded successfully
+0	11:49:13.477	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	11:49:13.488	Custom indicator __MFI Meter EURCHF,H1: loaded successfully
+0	11:49:13.499	Custom indicator __RSI Filtered EURCHF,H1: loaded successfully
+0	11:49:13.512	__EMA 20 EURCHF,H1: initialized
+0	11:49:13.524	__EMA 7 EURCHF,H1: initialized
+0	11:49:13.548	__Daily Candle EURCHF,H1: initialized
+0	11:49:13.559	Spread EURCHF,H1: initialized
+0	11:49:13.568	BinaryComodo EURCHF,H1: initialized
+0	11:49:13.580	(T_S_R)-Big Trend EURCHF,H1: initialized
+0	11:49:13.600	HalfTrend MTF with alerts EURCHF,H1: initialized
+0	11:49:13.600	BBands Stop Alert EURCHF,H1: initialized
+0	11:49:13.629	__MFI Meter EURCHF,H1: initialized
+0	11:49:13.658	__RSI Filtered EURCHF,H1: initialized
+0	11:49:46.126	__EMA 20 EURCHF,H1: uninit reason 7
+0	11:49:46.126	__EMA 7 EURCHF,H1: uninit reason 7
+0	11:49:46.126	__Daily Candle EURCHF,H1: uninit reason 7
+0	11:49:46.126	Spread EURCHF,H1: uninit reason 7
+0	11:49:46.126	BinaryComodo EURCHF,H1: uninit reason 7
+0	11:49:46.126	(T_S_R)-Big Trend EURCHF,H1: uninit reason 7
+0	11:49:46.126	HalfTrend MTF with alerts EURCHF,H1: uninit reason 7
+0	11:49:46.126	BBands Stop Alert EURCHF,H1: uninit reason 7
+0	11:49:46.127	__MFI Meter EURCHF,H1: uninit reason 7
+0	11:49:46.127	__RSI Filtered EURCHF,H1: uninit reason 7
+0	11:49:46.129	Custom indicator __EMA 20 EURCHF,H1: removed
+0	11:49:46.131	Custom indicator __EMA 7 EURCHF,H1: removed
+0	11:49:46.132	Custom indicator __Daily Candle EURCHF,H1: removed
+0	11:49:46.134	Custom indicator Spread EURCHF,H1: removed
+0	11:49:46.136	Custom indicator BinaryComodo EURCHF,H1: removed
+0	11:49:46.138	Custom indicator (T_S_R)-Big Trend EURCHF,H1: removed
+0	11:49:46.140	Custom indicator HalfTrend MTF with alerts EURCHF,H1: removed
+0	11:49:46.140	Custom indicator BBands Stop Alert EURCHF,H1: removed
+0	11:49:46.142	Custom indicator __MFI Meter EURCHF,H1: removed
+0	11:49:46.145	Custom indicator __RSI Filtered EURCHF,H1: removed
+0	11:49:46.276	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURCHF,H1: loaded successfully
+0	11:49:46.286	Custom indicator 2019_03_17\(T_S_R)-Big Trend EURCHF,H1: loaded successfully
+0	11:49:46.299	Custom indicator 2019_03_04\PipValueCalculatorV1_02 EURCHF,H1: loaded successfully
+0	11:49:46.366	Custom indicator 2019_03_18\TE v2.0 EURCHF,H1: loaded successfully
+0	11:49:46.435	Custom indicator BBands Stop Alert EURCHF,H1: loaded successfully
+0	11:49:46.471	Custom indicator 2019_03_17\BUTTONS EURCHF,H1: loaded successfully
+0	11:49:46.488	Custom indicator AllHullMA Histo_v3.1 EURCHF,H1: loaded successfully
+0	11:49:46.505	HalfTrend MTF with alerts EURCHF,H1: initialized
+0	11:49:46.518	(T_S_R)-Big Trend EURCHF,H1: initialized
+0	11:49:46.528	PipValueCalculatorV1_02 EURCHF,H1: initialized
+0	11:49:46.529	TE v2.0 EURCHF,H1: initialized
+0	11:49:46.529	BBands Stop Alert EURCHF,H1: initialized
+0	11:49:46.546	BUTTONS EURCHF,H1: initialized
+0	11:49:46.565	AllHullMA Histo_v3.1 EURCHF,H1: initialized
+0	13:00:03.073	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:03.336	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:24.167	cracked_Mega_Fx EURJPY,H1: Alert: EURJPY, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.00948877 @ 13:00:24
+0	13:00:24.445	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:24.450	cracked_Mega_Fx AUDJPY,H1: Alert: AUDJPY, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.10399117 @ 13:00:24
+0	13:00:24.566	cracked_Mega_Fx AUDCHF,H1: Alert: AUDCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.21094178 @ 13:00:24
+0	13:00:24.924	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:24.931	cracked_Mega_Fx GBPNZD,H1: Alert: GBPNZD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.09556814 @ 13:00:24
+0	13:00:25.069	cracked_Mega_Fx GBPJPY,H1: Alert: GBPJPY, TF:H1, MEGAFXPROFIT SELL SIGNAL for Level: -0.50754659 @ 13:00:25
+0	13:00:25.247	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:25.332	cracked_Mega_Fx AUDJPY,H4: Alert: AUDJPY, TF:H4, MEGAFXPROFIT BUY SIGNAL for Level: 0.13564463 @ 13:00:25
+0	13:00:25.522	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:25.785	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:26.048	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:26.251	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:26.464	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:26.642	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:26.880	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:27.073	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:27.335	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:27.528	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:27.743	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:27.934	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:28.156	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:28.344	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:28.577	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:28.761	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:28.965	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:29.202	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:29.425	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:29.649	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:29.899	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:30.107	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:30.386	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:30.583	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:30.879	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:31.290	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:31.510	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:31.793	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:32.015	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:32.255	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:32.475	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:33.461	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:33.699	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:33.923	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:34.119	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:34.328	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:34.506	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:34.718	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:34.941	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:35.159	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:35.419	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:35.603	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:35.753	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:36.061	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:37.920	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:38.089	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:38.356	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:38.543	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:39.795	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:40.023	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:40.219	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:40.356	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:40.502	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:40.954	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:41.338	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:41.495	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:41.624	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:41.744	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:41.880	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:42.072	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:42.249	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:42.614	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:44.386	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:44.767	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:44.927	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:45.056	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:45.182	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:45.336	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:45.483	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:45.643	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:45.800	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:45.980	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:46.320	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:46.508	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:46.694	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:46.857	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:47.207	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:47.362	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:47.577	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:47.722	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:47.887	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:48.059	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:48.245	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:48.414	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:48.632	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:49.117	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:49.308	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:49.442	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:49.704	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:49.913	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:50.105	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:50.988	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:51.167	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:51.345	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:52.371	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:52.499	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:53.487	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:53.669	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:53.870	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:54.144	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:54.290	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:54.483	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:54.654	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:54.813	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:55.042	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:55.191	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:55.380	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:55.804	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:55.998	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:57.479	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:57.763	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:57.954	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:58.101	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:58.273	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:58.423	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:00:59.135	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:00:59.340	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:01.108	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:02.980	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:04.656	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:04.985	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:05.368	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:05.542	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:05.720	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:05.921	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:06.079	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:06.250	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:06.731	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:06.915	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:07.097	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:07.257	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:09.780	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:09.983	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:12.626	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:12.871	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:13.225	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:13.540	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:13.737	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:13.977	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:14.186	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:14.426	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:14.828	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:15.059	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:15.253	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:15.479	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:15.653	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:15.873	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:16.075	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:16.293	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:16.469	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:16.688	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:16.865	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:17.086	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:17.251	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:17.469	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:17.651	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:17.864	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:18.051	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:18.277	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:18.463	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:18.706	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:18.926	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:19.113	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:20.008	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:20.316	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:20.494	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:20.673	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:20.883	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:21.121	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:22.755	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:22.941	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:23.752	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:24.140	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:24.334	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:24.541	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:25.161	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:25.354	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:25.574	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:26.016	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:26.280	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:26.945	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:27.520	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:27.766	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:29.026	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:29.255	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:30.611	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:30.794	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:30.997	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:31.216	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:31.430	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:31.604	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:31.806	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:32.010	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:32.180	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:32.391	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:33.661	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:33.860	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:34.191	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:34.560	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:34.746	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:34.916	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:35.200	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:35.376	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:35.752	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:36.155	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:36.341	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:36.506	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:36.709	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:36.881	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:37.306	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:37.690	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:38.144	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:38.556	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:39.042	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:39.321	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:39.532	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:39.878	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:40.065	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:40.267	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:40.437	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:40.625	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:40.831	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:41.051	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:41.222	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:41.421	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:41.596	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:41.809	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:42.062	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:42.311	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:42.511	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:43.436	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:43.686	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:44.305	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:44.555	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:44.930	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:45.371	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:45.561	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:47.031	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:47.577	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:47.751	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:47.786	BBands Stop Alert AUDJPY,H4: Alert: Bbands Stop Alert Sell --> AUDJPY@TF240
+0	13:01:51.266	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:51.472	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:51.662	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:52.283	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:52.666	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:53.112	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:53.278	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:53.453	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:53.641	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:01:57.176	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:01:58.928	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:00.908	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:01.056	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:01.769	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:03.201	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:03.367	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:03.518	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:04.377	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:04.524	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:04.736	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:04.950	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:05.337	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:05.500	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:05.693	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:05.846	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:08.084	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:09.316	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:09.454	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:14.202	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:14.320	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:19.037	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:19.155	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:19.392	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:19.603	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:19.708	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:19.876	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:20.023	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:02:23.703	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:24.312	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:24.428	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:02:27.520	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:10.061	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:10.228	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:11.665	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:12.040	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:12.362	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:12.652	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:12.821	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:13.007	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:13.179	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:13.377	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:13.528	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:13.670	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:14.028	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:14.235	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:14.402	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:14.582	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:14.734	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:14.935	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:15.084	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:15.254	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:15.450	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:15.604	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:15.783	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:15.938	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:16.114	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:16.263	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:16.503	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:16.670	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:16.866	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:17.018	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:17.192	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:17.373	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:17.858	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:18.025	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:18.381	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:18.683	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:18.957	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:19.103	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:20.458	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:20.990	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:21.158	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:21.351	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:21.659	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:22.165	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:22.325	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:22.518	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:22.747	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:24.450	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:25.996	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:26.494	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:26.679	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:27.493	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:27.672	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:28.086	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:28.305	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:28.518	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:28.679	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:28.889	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:29.052	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:29.884	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:30.276	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:30.414	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:30.665	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:30.798	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:30.957	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:31.095	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:31.327	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:31.469	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:31.636	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:31.825	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:31.963	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:33.546	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:33.688	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:33.902	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:34.240	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:34.526	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:35.718	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:35.899	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:36.046	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:36.194	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:36.331	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:37.686	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:38.915	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:39.816	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:39.972	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:40.110	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:40.287	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:40.441	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:40.897	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:41.422	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:41.579	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:41.737	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:41.900	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:42.132	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:42.314	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:43.558	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:43.702	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:43.870	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:47.305	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:48.148	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:48.285	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:52.447	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:52.583	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:52.770	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:52.936	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:53.894	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:54.045	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:54.240	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:54.883	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:55.446	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:55.940	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:56.129	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:56.670	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:56.939	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:57.076	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:57.226	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:57.385	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:57.579	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:57.735	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:57.904	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:58.038	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:58.338	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:10:59.597	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:10:59.776	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:03.286	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:03.647	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:03.820	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:04.310	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:07.581	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:07.759	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:09.007	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:09.221	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:09.392	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:09.683	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:09.865	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:11.092	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:11.274	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:13.306	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:14.279	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:16.492	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:16.610	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:16.765	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:16.893	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:17.164	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:17.359	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:17.485	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:17.617	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:17.746	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:18.740	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:19.572	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:20.285	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:20.469	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:21.110	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:23.232	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:24.591	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:25.878	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:26.483	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:26.597	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:27.804	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:28.395	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:28.552	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:28.707	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:29.157	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:29.283	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:29.407	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:29.883	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:30.247	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:30.394	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:30.553	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:31.828	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:32.013	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:38.900	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:42.441	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:42.636	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:42.844	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:43.062	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:43.228	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:48.456	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:48.775	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:50.235	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:50.496	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:50.784	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:50.976	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:51.140	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:51.957	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:52.139	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:52.279	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:53.397	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:53.578	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:53.730	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:11:53.987	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:58.315	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:58.509	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:58.673	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:59.119	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:11:59.332	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:12:00.059	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:00.229	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:12:00.407	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:02.653	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:04.200	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:12:05.390	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:05.640	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:06.497	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:08.709	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:09.393	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:12:09.548	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:09.719	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:09.922	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:10.316	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:10.483	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:11.617	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:13.341	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:13.739	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:14.792	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:15.007	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:15.817	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:16.389	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:12:16.560	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:12:16.820	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:52.658	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:52.815	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:55.778	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:55.963	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:56.007	BBands Stop Alert EURCHF,H1: Alert: BBands Stop Alert Buy --> EURCHF@TF60
+0	13:16:56.316	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:56.499	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:56.655	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:56.806	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:56.942	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:57.102	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:57.224	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:57.390	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:57.738	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:57.891	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:58.147	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:58.315	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:58.537	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:58.765	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:58.963	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:59.142	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:59.382	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:59.551	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:16:59.720	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:16:59.868	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:00.065	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:00.222	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:00.449	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:00.708	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:00.872	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:01.063	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:10.610	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:10.764	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:12.059	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:12.242	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:14.787	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:14.963	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:17.939	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:18.122	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:19.287	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:19.432	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:19.586	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:19.786	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:21.598	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:21.734	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:21.927	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:22.075	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:22.263	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:22.413	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:22.587	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:22.755	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:22.908	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:23.080	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:24.759	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:24.894	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:25.724	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:26.403	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:26.543	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:26.738	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:26.998	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:27.844	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:29.968	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:30.129	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:32.612	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:32.769	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:34.268	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:34.414	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:34.586	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:34.724	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:35.825	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:36.005	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:36.145	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:36.311	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:36.527	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:38.654	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:38.831	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:38.963	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:40.033	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:40.155	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:40.715	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:40.855	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:40.975	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:17:41.267	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:17:41.477	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:06.951	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:07.082	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:14.125	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:14.319	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:14.558	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:14.744	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:14.873	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:15.021	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:15.152	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:15.308	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:15.429	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:15.558	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:15.676	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:15.827	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:15.961	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:16.098	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:16.409	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:16.542	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:16.663	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:16.844	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:17.017	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:17.202	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:17.413	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:17.599	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:17.777	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:17.971	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:18.156	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:18.310	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:18.511	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:18.642	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:18.765	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:19.022	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:19.188	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:19.358	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:19.957	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:20.241	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:20.421	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:20.575	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:22.039	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:22.340	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:23.411	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:23.533	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:23.663	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:23.808	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:23.983	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:24.932	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:25.038	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:25.151	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:25.270	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:25.391	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:26.947	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:27.317	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:27.774	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:27.996	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:29.417	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:29.969	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:30.103	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:30.262	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:30.771	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:30.924	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:31.064	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:31.740	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:32.115	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:32.237	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:32.678	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:32.847	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:37.748	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:37.875	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:38.041	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:38.838	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:40.737	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:40.865	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:41.200	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:41.663	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:41.904	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:42.471	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:42.604	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:42.721	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:42.861	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:43.518	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:43.685	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:43.824	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:44.001	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:44.115	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:46.349	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:46.777	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:46.909	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:47.357	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:47.491	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:47.947	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:48.372	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:48.585	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:48.720	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:48.931	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:49.099	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:51.871	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:52.031	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:52.177	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:52.290	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:52.504	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:53.215	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:53.349	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:53.460	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:53.593	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:53.776	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:53.910	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:54.453	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:54.600	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:54.709	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:24:54.838	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:54.991	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:55.127	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:55.239	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:55.393	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:55.544	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:55.660	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:56.075	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:57.497	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:57.643	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:57.886	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:58.009	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:58.127	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:58.323	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:24:59.103	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:00.477	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:00.598	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:00.754	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:00.931	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:01.063	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:01.202	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:02.512	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:02.640	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:02.769	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:02.912	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:03.057	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:03.541	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:03.674	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:03.813	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:04.276	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:04.468	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:04.841	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:05.595	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:06.603	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:10.091	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:10.216	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:11.036	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:11.171	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:11.283	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:11.412	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:11.619	SEFC084 AUDJPY,H1: Calculation time is 0.2 seconds
+0	13:25:12.051	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:12.230	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:12.656	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:13.038	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:13.171	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:13.286	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	13:25:13.394	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds

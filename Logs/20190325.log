@@ -1,0 +1,22 @@
+0	08:38:37.719	HalfTrend MTF with alerts GBPAUD,H1: Alert: HalfTrend: SELL GBPAUD TF 60 min at 1.86310
+0	09:51:21.587	HalfTrend MTF with alerts GBPAUD,H1: uninit reason 3
+0	09:51:21.592	AllHullMA_v3.1 GBPAUD,H1: uninit reason 3
+0	09:51:21.592	(T_S_R)-Big Trend GBPAUD,H1: uninit reason 3
+0	09:51:21.592	BBands Stop Alert GBPAUD,H1: uninit reason 3
+0	09:51:21.592	xmaster-formula GBPAUD,H1: uninit reason 3
+0	09:51:21.667	HalfTrend MTF with alerts GBPAUD,H4: initialized
+0	09:51:21.667	AllHullMA_v3.1 GBPAUD,H4: initialized
+0	09:51:21.667	(T_S_R)-Big Trend GBPAUD,H4: initialized
+0	09:51:21.667	BBands Stop Alert GBPAUD,H4: initialized
+0	09:51:21.667	xmaster-formula GBPAUD,H4: initialized
+0	09:51:41.204	HalfTrend MTF with alerts GBPAUD,H4: uninit reason 3
+0	09:51:41.204	AllHullMA_v3.1 GBPAUD,H4: uninit reason 3
+0	09:51:41.204	(T_S_R)-Big Trend GBPAUD,H4: uninit reason 3
+0	09:51:41.204	BBands Stop Alert GBPAUD,H4: uninit reason 3
+0	09:51:41.204	xmaster-formula GBPAUD,H4: uninit reason 3
+0	09:51:41.204	HalfTrend MTF with alerts GBPAUD,H1: initialized
+0	09:51:41.204	AllHullMA_v3.1 GBPAUD,H1: initialized
+0	09:51:41.204	(T_S_R)-Big Trend GBPAUD,H1: initialized
+0	09:51:41.204	BBands Stop Alert GBPAUD,H1: initialized
+0	09:51:41.204	xmaster-formula GBPAUD,H1: initialized
+0	15:28:44.716	BBands Stop Alert GBPAUD,H1: Alert: BBands Stop Alert Buy --> GBPAUD@TF60

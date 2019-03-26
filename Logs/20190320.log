@@ -1,0 +1,459 @@
+0	08:38:28.615	ForexProfitSupreme Meter EURJPY,H1: deinitialized
+0	08:38:28.615	ForexProfitSupreme Meter EURJPY,H1: uninit reason 7
+0	08:38:28.630	Forexprofitsupreme Bars EURJPY,H1: uninit reason 7
+0	08:38:28.630	Forexprofitsupreme Signal EURJPY,H1: deinitialized
+0	08:38:28.630	Forexprofitsupreme Signal EURJPY,H1: uninit reason 7
+0	08:38:28.635	ForexprofitsupremeClock EURJPY,H1: deinitialized
+0	08:38:28.635	ForexprofitsupremeClock EURJPY,H1: uninit reason 7
+0	08:38:28.635	HalfTrend MTF with alerts EURJPY,H1: uninit reason 7
+0	08:38:28.635	ForexprofitsupremeFilter EURJPY,H1: uninit reason 7
+0	08:38:28.635	ForexprofitsupremeDline EURJPY,H1: deinitialized
+0	08:38:28.635	ForexprofitsupremeDline EURJPY,H1: uninit reason 7
+0	08:38:28.635	FxProfit EURJPY,H1: uninit reason 7
+0	08:38:28.635	ForexMajorTrend  (1) EURJPY,H1: uninit reason 7
+0	08:38:28.635	Custom indicator ForexProfitSupreme Meter EURJPY,H1: removed
+0	08:38:28.635	Custom indicator Forexprofitsupreme Bars EURJPY,H1: removed
+0	08:38:28.635	Custom indicator Forexprofitsupreme Signal EURJPY,H1: removed
+0	08:38:28.635	Custom indicator ForexprofitsupremeClock EURJPY,H1: removed
+0	08:38:28.640	Custom indicator HalfTrend MTF with alerts EURJPY,H1: removed
+0	08:38:28.640	Custom indicator ForexprofitsupremeFilter EURJPY,H1: removed
+0	08:38:28.640	Custom indicator ForexprofitsupremeDline EURJPY,H1: removed
+0	08:38:28.645	Custom indicator FxProfit EURJPY,H1: removed
+0	08:38:28.645	Custom indicator ForexMajorTrend  (1) EURJPY,H1: removed
+0	08:38:28.695	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURJPY,H1: loaded successfully
+0	08:38:28.710	Custom indicator 2019_03_17\(T_S_R)-Big Trend EURJPY,H1: loaded successfully
+0	08:38:28.725	Custom indicator 2019_03_04\PipValueCalculatorV1_02 EURJPY,H1: loaded successfully
+0	08:38:28.788	Custom indicator 2019_03_18\TE v2.0 EURJPY,H1: loaded successfully
+0	08:38:28.853	Custom indicator BBands Stop Alert EURJPY,H1: loaded successfully
+0	08:38:28.888	Custom indicator 2019_03_17\BUTTONS EURJPY,H1: loaded successfully
+0	08:38:28.908	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: loaded successfully
+0	08:38:28.923	HalfTrend MTF with alerts EURJPY,H1: initialized
+0	08:38:28.938	(T_S_R)-Big Trend EURJPY,H1: initialized
+0	08:38:28.948	PipValueCalculatorV1_02 EURJPY,H1: initialized
+0	08:38:28.948	TE v2.0 EURJPY,H1: initialized
+0	08:38:28.948	BBands Stop Alert EURJPY,H1: initialized
+0	08:38:28.963	BUTTONS EURJPY,H1: initialized
+0	08:38:28.983	AllHullMA Histo_v3.1 EURJPY,H1: initialized
+0	08:48:14.514	Custom indicator myindic\xmaster-formula AUDCHF,H1: loaded successfully
+0	08:48:15.892	xmaster-formula AUDCHF,H1: initialized
+0	10:38:22.872	GWS_ZigPoint GBPNZD,H4: uninit reason 7
+0	10:38:22.872	ZigZag GBPNZD,H4: uninit reason 7
+0	10:38:22.872	super-signals_v2a[2] GBPNZD,H4: uninit reason 7
+0	10:38:22.872	BBSTOP GBPNZD,H4: deinitialized
+0	10:38:22.872	BBSTOP GBPNZD,H4: uninit reason 7
+0	10:38:22.873	Heiken Ashi Smoothed_v2 GBPNZD,H4: deinitialized
+0	10:38:22.873	Heiken Ashi Smoothed_v2 GBPNZD,H4: uninit reason 7
+0	10:38:22.873	AnggrekJingga GBPNZD,H4: deinitialized
+0	10:38:22.873	AnggrekJingga GBPNZD,H4: uninit reason 7
+0	10:38:22.873	BBSTOP GBPNZD,H4: deinitialized
+0	10:38:22.873	BBSTOP GBPNZD,H4: uninit reason 7
+0	10:38:22.873	BBSTOP GBPNZD,H4: deinitialized
+0	10:38:22.873	BBSTOP GBPNZD,H4: uninit reason 7
+0	10:38:22.874	TE v2.0 GBPNZD,H4: uninit reason 7
+0	10:38:22.874	bstrend-indicator GBPNZD,H4: uninit reason 7
+0	10:38:22.874	Custom indicator GWS_ZigPoint GBPNZD,H4: removed
+0	10:38:22.876	Custom indicator ZigZag GBPNZD,H4: removed
+0	10:38:22.876	Custom indicator super-signals_v2a[2] GBPNZD,H4: removed
+0	10:38:22.877	Custom indicator BBSTOP GBPNZD,H4: removed
+0	10:38:22.877	Custom indicator Heiken Ashi Smoothed_v2 GBPNZD,H4: removed
+0	10:38:22.878	Custom indicator AnggrekJingga GBPNZD,H4: removed
+0	10:38:22.878	Custom indicator BBSTOP GBPNZD,H4: removed
+0	10:38:22.878	Custom indicator BBSTOP GBPNZD,H4: removed
+0	10:38:22.878	Custom indicator TE v2.0 GBPNZD,H4: removed
+0	10:38:22.880	Custom indicator bstrend-indicator GBPNZD,H4: removed
+0	10:38:22.895	Custom indicator 2019_03_17\HalfTrend MTF with alerts GBPNZD,H4: loaded successfully
+0	10:38:22.907	Custom indicator 2019_03_17\(T_S_R)-Big Trend GBPNZD,H4: loaded successfully
+0	10:38:22.919	Custom indicator 2019_03_04\PipValueCalculatorV1_02 GBPNZD,H4: loaded successfully
+0	10:38:22.998	Custom indicator 2019_03_18\TE v2.0 GBPNZD,H4: loaded successfully
+0	10:38:23.088	Custom indicator BBands Stop Alert GBPNZD,H4: loaded successfully
+0	10:38:23.103	Custom indicator 2019_03_17\BUTTONS GBPNZD,H4: loaded successfully
+0	10:38:23.118	Custom indicator AllHullMA Histo_v3.1 GBPNZD,H4: loaded successfully
+0	10:38:23.141	HalfTrend MTF with alerts GBPNZD,H4: initialized
+0	10:38:23.161	(T_S_R)-Big Trend GBPNZD,H4: initialized
+0	10:38:23.176	PipValueCalculatorV1_02 GBPNZD,H4: initialized
+0	10:38:23.177	TE v2.0 GBPNZD,H4: initialized
+0	10:38:23.177	BBands Stop Alert GBPNZD,H4: initialized
+0	10:38:23.198	BUTTONS GBPNZD,H4: initialized
+0	10:38:23.223	AllHullMA Histo_v3.1 GBPNZD,H4: initialized
+0	10:43:26.266	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURCHF,H1: loaded successfully
+0	10:43:27.593	HalfTrend MTF with alerts EURCHF,H1: initialized
+0	10:44:10.711	Custom indicator myindic\xmaster-formula EURCHF,H1: loaded successfully
+0	10:44:12.024	xmaster-formula EURCHF,H1: initialized
+0	10:50:38.340	__EMA 20 EURCHF,H1: uninit reason 4
+0	10:50:38.340	__EMA 7 EURCHF,H1: uninit reason 4
+0	10:50:38.340	__Daily Candle EURCHF,H1: uninit reason 4
+0	10:50:38.340	Spread EURCHF,H1: uninit reason 4
+0	10:50:38.340	BinaryComodo EURCHF,H1: uninit reason 4
+0	10:50:38.341	(T_S_R)-Big Trend EURCHF,H1: uninit reason 4
+0	10:50:38.341	HalfTrend MTF with alerts EURCHF,H1: uninit reason 4
+0	10:50:38.341	__MFI Meter EURCHF,H1: uninit reason 4
+0	10:50:38.341	__RSI Filtered EURCHF,H1: uninit reason 4
+0	10:50:38.341	xmaster-formula EURCHF,H1: uninit reason 4
+0	10:50:38.344	Custom indicator __EMA 20 EURCHF,H1: removed
+0	10:50:38.346	Custom indicator __EMA 7 EURCHF,H1: removed
+0	10:50:38.347	Custom indicator __Daily Candle EURCHF,H1: removed
+0	10:50:38.349	Custom indicator Spread EURCHF,H1: removed
+0	10:50:38.351	Custom indicator BinaryComodo EURCHF,H1: removed
+0	10:50:38.353	Custom indicator (T_S_R)-Big Trend EURCHF,H1: removed
+0	10:50:38.354	Custom indicator HalfTrend MTF with alerts EURCHF,H1: removed
+0	10:50:38.356	Custom indicator __MFI Meter EURCHF,H1: removed
+0	10:50:38.360	Custom indicator __RSI Filtered EURCHF,H1: removed
+0	10:50:38.364	Custom indicator xmaster-formula EURCHF,H1: removed
+0	10:50:50.742	Custom indicator myindic\xmaster-formula AUDJPY,H1: loaded successfully
+0	10:50:52.009	xmaster-formula AUDJPY,H1: initialized
+0	10:55:47.021	Custom indicator myindic\xmaster-formula EURJPY,H1: loaded successfully
+0	10:55:48.361	xmaster-formula EURJPY,H1: initialized
+0	11:42:08.404	Expert SosCode\BBandsTrendScalper AUDCAD,H1: loaded successfully
+0	11:42:11.703	Expert BBandsTrendScalper AUDCAD,H1: removed
+0	14:08:11.545	Compiling 'SosCode\SignalsMasterEA\SignalsMasterEA'
+0	14:22:29.210	(T_S_R)-Big Trend AUDCHF,H1: uninit reason 7
+0	14:22:29.210	xmaster-formula AUDCHF,H1: uninit reason 7
+0	14:22:29.212	Custom indicator (T_S_R)-Big Trend AUDCHF,H1: removed
+0	14:22:29.214	Custom indicator xmaster-formula AUDCHF,H1: removed
+0	14:22:29.462	Custom indicator ForexProfitSupreme Meter AUDCHF,H1: loaded successfully
+0	14:22:29.535	Custom indicator ForexprofitsupremeClock AUDCHF,H1: loaded successfully
+0	14:22:29.608	Custom indicator BBands Stop Alert AUDCHF,H1: loaded successfully
+0	14:22:29.621	Custom indicator HalfTrend-1.02 AUDCHF,H1: loaded successfully
+0	14:22:29.633	Custom indicator SoeHoe.ID_Signal s2 AUDCHF,H1: loaded successfully
+0	14:22:29.661	Custom indicator AllHullMA_v3.4 600+ AUDCHF,H1: loaded successfully
+0	14:22:29.670	Custom indicator myindic\BinaryComodo AUDCHF,H1: loaded successfully
+0	14:22:29.681	Custom indicator myindic\Super-Point-Signal AUDCHF,H1: loaded successfully
+0	14:22:29.755	Custom indicator Agimat-1\+++Agimat MiniReversal AUDCHF,H1: loaded successfully
+0	14:22:29.765	Custom indicator 2019_03_17\(T_S_R)-Big Trend (1) AUDCHF,H1: loaded successfully
+0	14:22:29.852	Custom indicator ForexprofitsupremeDline AUDCHF,H1: loaded successfully
+0	14:22:29.864	Custom indicator Others\xmaster-formula AUDCHF,H1: loaded successfully
+0	14:22:29.868	Custom indicator Solar Winds joy - histo AUDCHF,H1: loaded successfully
+0	14:22:29.888	Custom indicator __MFI Meter AUDCHF,H1: loaded successfully
+0	14:22:29.889	ForexProfitSupreme Meter AUDCHF,H1: initialized
+0	14:22:29.889	ForexprofitsupremeClock AUDCHF,H1: initialized
+0	14:22:29.889	BBands Stop Alert AUDCHF,H1: initialized
+0	14:22:29.906	HalfTrend-1.02 AUDCHF,H1: initialized
+0	14:22:29.936	SoeHoe.ID_Signal s2 AUDCHF,H1: initialized
+0	14:22:29.959	AllHullMA_v3.4 600+ AUDCHF,H1: initialized
+0	14:22:29.971	BinaryComodo AUDCHF,H1: initialized
+0	14:22:29.984	Super-Point-Signal AUDCHF,H1: initialized
+0	14:22:29.984	+++Agimat MiniReversal AUDCHF,H1: initialized
+0	14:22:30.002	(T_S_R)-Big Trend (1) AUDCHF,H1: initialized
+0	14:22:30.002	ForexprofitsupremeDline AUDCHF,H1: initialized
+0	14:22:30.018	xmaster-formula AUDCHF,H1: initialized
+0	14:22:30.018	Solar Winds joy - histo AUDCHF,H1: initialized
+0	14:22:30.041	__MFI Meter AUDCHF,H1: initialized
+0	14:22:46.702	ForexProfitSupreme Meter AUDCHF,H1: deinitialized
+0	14:22:46.702	ForexProfitSupreme Meter AUDCHF,H1: uninit reason 7
+0	14:22:46.702	ForexprofitsupremeClock AUDCHF,H1: deinitialized
+0	14:22:46.702	ForexprofitsupremeClock AUDCHF,H1: uninit reason 7
+0	14:22:46.702	BBands Stop Alert AUDCHF,H1: uninit reason 7
+0	14:22:46.702	HalfTrend-1.02 AUDCHF,H1: uninit reason 7
+0	14:22:46.702	SoeHoe.ID_Signal s2 AUDCHF,H1: uninit reason 7
+0	14:22:46.702	AllHullMA_v3.4 600+ AUDCHF,H1: uninit reason 7
+0	14:22:46.702	BinaryComodo AUDCHF,H1: uninit reason 7
+0	14:22:46.702	Super-Point-Signal AUDCHF,H1: uninit reason 7
+0	14:22:46.704	+++Agimat MiniReversal AUDCHF,H1: deinitialized
+0	14:22:46.704	+++Agimat MiniReversal AUDCHF,H1: uninit reason 7
+0	14:22:46.704	(T_S_R)-Big Trend (1) AUDCHF,H1: uninit reason 7
+0	14:22:46.704	ForexprofitsupremeDline AUDCHF,H1: deinitialized
+0	14:22:46.704	ForexprofitsupremeDline AUDCHF,H1: uninit reason 7
+0	14:22:46.704	xmaster-formula AUDCHF,H1: uninit reason 7
+0	14:22:46.704	Solar Winds joy - histo AUDCHF,H1: deinitialized
+0	14:22:46.704	Solar Winds joy - histo AUDCHF,H1: uninit reason 7
+0	14:22:46.704	__MFI Meter AUDCHF,H1: uninit reason 7
+0	14:22:46.704	Custom indicator ForexProfitSupreme Meter AUDCHF,H1: removed
+0	14:22:46.704	Custom indicator ForexprofitsupremeClock AUDCHF,H1: removed
+0	14:22:46.704	Custom indicator BBands Stop Alert AUDCHF,H1: removed
+0	14:22:46.707	Custom indicator HalfTrend-1.02 AUDCHF,H1: removed
+0	14:22:46.709	Custom indicator SoeHoe.ID_Signal s2 AUDCHF,H1: removed
+0	14:22:46.711	Custom indicator AllHullMA_v3.4 600+ AUDCHF,H1: removed
+0	14:22:46.712	Custom indicator BinaryComodo AUDCHF,H1: removed
+0	14:22:46.714	Custom indicator Super-Point-Signal AUDCHF,H1: removed
+0	14:22:46.714	Custom indicator +++Agimat MiniReversal AUDCHF,H1: removed
+0	14:22:46.715	Custom indicator (T_S_R)-Big Trend (1) AUDCHF,H1: removed
+0	14:22:46.715	Custom indicator ForexprofitsupremeDline AUDCHF,H1: removed
+0	14:22:46.718	Custom indicator xmaster-formula AUDCHF,H1: removed
+0	14:22:46.718	Custom indicator Solar Winds joy - histo AUDCHF,H1: removed
+0	14:22:46.720	Custom indicator __MFI Meter AUDCHF,H1: removed
+0	14:22:46.903	Custom indicator Impulse signal AUDCHF,H1: loaded successfully
+0	14:22:46.964	Custom indicator xSuperTrend Candles AUDCHF,H1: loaded successfully
+0	14:22:46.983	Custom indicator AllHullMA_v3.1 600+ AUDCHF,H1: loaded successfully
+0	14:22:46.999	Custom indicator HalfTrend-1.02 AUDCHF,H1: loaded successfully
+0	14:22:47.020	Custom indicator HOLY GRAIL 1.6 AUDCHF,H1: loaded successfully
+0	14:22:47.033	Custom indicator myindic\Super-Point-Signal AUDCHF,H1: loaded successfully
+0	14:22:47.121	Custom indicator BBands Stop Alert AUDCHF,H1: loaded successfully
+0	14:22:47.132	Custom indicator SoeHoe.ID_Signal s2 AUDCHF,H1: loaded successfully
+0	14:22:47.140	Custom indicator BinaryComodo AUDCHF,H1: loaded successfully
+0	14:22:47.152	Custom indicator Others\LotSize AUDCHF,H1: loaded successfully
+0	14:22:47.164	Custom indicator AllHullMA Histo_v3.1 AUDCHF,H1: loaded successfully
+0	14:22:47.176	Custom indicator cracked_Mega_Fx AUDCHF,H1: loaded successfully
+0	14:22:47.186	Custom indicator myindic\xmaster-formula AUDCHF,H1: loaded successfully
+0	14:22:47.199	Impulse signal AUDCHF,H1: initialized
+0	14:22:47.199	xSuperTrend Candles AUDCHF,H1: initialized
+0	14:22:47.223	AllHullMA_v3.1 600+ AUDCHF,H1: initialized
+0	14:22:47.237	HalfTrend-1.02 AUDCHF,H1: initialized
+0	14:22:47.237	HOLY GRAIL 1.6 AUDCHF,H1: initialized
+0	14:22:47.248	Super-Point-Signal AUDCHF,H1: initialized
+0	14:22:47.248	BBands Stop Alert AUDCHF,H1: initialized
+0	14:22:47.280	SoeHoe.ID_Signal s2 AUDCHF,H1: initialized
+0	14:22:47.290	BinaryComodo AUDCHF,H1: initialized
+0	14:22:47.364	LotSize AUDCHF,H1: initialized
+0	14:22:47.388	AllHullMA Histo_v3.1 AUDCHF,H1: initialized
+0	14:22:47.403	cracked_Mega_Fx AUDCHF,H1: initialized
+0	14:22:47.418	xmaster-formula AUDCHF,H1: initialized
+0	14:22:47.460	cracked_Mega_Fx AUDCHF,H1: Alert: AUDCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.21094178 @ 14:22:47
+0	14:26:56.180	Impulse signal AUDCHF,H1: uninit reason 7
+0	14:26:56.181	xSuperTrend Candles AUDCHF,H1: deinitialized
+0	14:26:56.181	xSuperTrend Candles AUDCHF,H1: uninit reason 7
+0	14:26:56.181	AllHullMA_v3.1 600+ AUDCHF,H1: uninit reason 7
+0	14:26:56.181	HalfTrend-1.02 AUDCHF,H1: uninit reason 7
+0	14:26:56.181	HOLY GRAIL 1.6 AUDCHF,H1: deinitialized
+0	14:26:56.181	HOLY GRAIL 1.6 AUDCHF,H1: uninit reason 7
+0	14:26:56.181	Super-Point-Signal AUDCHF,H1: uninit reason 7
+0	14:26:56.181	BBands Stop Alert AUDCHF,H1: uninit reason 7
+0	14:26:56.183	SoeHoe.ID_Signal s2 AUDCHF,H1: uninit reason 7
+0	14:26:56.183	BinaryComodo AUDCHF,H1: uninit reason 7
+0	14:26:56.183	LotSize AUDCHF,H1: uninit reason 7
+0	14:26:56.183	AllHullMA Histo_v3.1 AUDCHF,H1: uninit reason 7
+0	14:26:56.183	cracked_Mega_Fx AUDCHF,H1: uninit reason 7
+0	14:26:56.183	xmaster-formula AUDCHF,H1: uninit reason 7
+0	14:26:56.185	Custom indicator Impulse signal AUDCHF,H1: removed
+0	14:26:56.185	Custom indicator xSuperTrend Candles AUDCHF,H1: removed
+0	14:26:56.188	Custom indicator AllHullMA_v3.1 600+ AUDCHF,H1: removed
+0	14:26:56.191	Custom indicator HalfTrend-1.02 AUDCHF,H1: removed
+0	14:26:56.191	Custom indicator HOLY GRAIL 1.6 AUDCHF,H1: removed
+0	14:26:56.193	Custom indicator Super-Point-Signal AUDCHF,H1: removed
+0	14:26:56.193	Custom indicator BBands Stop Alert AUDCHF,H1: removed
+0	14:26:56.195	Custom indicator SoeHoe.ID_Signal s2 AUDCHF,H1: removed
+0	14:26:56.197	Custom indicator BinaryComodo AUDCHF,H1: removed
+0	14:26:56.198	Custom indicator LotSize AUDCHF,H1: removed
+0	14:26:56.200	Custom indicator AllHullMA Histo_v3.1 AUDCHF,H1: removed
+0	14:26:56.203	Custom indicator cracked_Mega_Fx AUDCHF,H1: removed
+0	14:26:56.206	Custom indicator xmaster-formula AUDCHF,H1: removed
+0	14:26:56.402	Custom indicator BBands Stop Alert AUDCHF,H1: loaded successfully
+0	14:26:56.418	Custom indicator AllHullMA_v3.1 600+ AUDCHF,H1: loaded successfully
+0	14:26:56.431	Custom indicator SoeHoe.ID_Signal s2 AUDCHF,H1: loaded successfully
+0	14:26:56.443	Custom indicator cracked_Mega_Fx AUDCHF,H1: loaded successfully
+0	14:26:56.443	BBands Stop Alert AUDCHF,H1: initialized
+0	14:26:56.467	AllHullMA_v3.1 600+ AUDCHF,H1: initialized
+0	14:26:56.500	SoeHoe.ID_Signal s2 AUDCHF,H1: initialized
+0	14:26:56.515	cracked_Mega_Fx AUDCHF,H1: initialized
+0	14:26:56.530	cracked_Mega_Fx AUDCHF,H1: Alert: AUDCHF, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.21094178 @ 14:26:56
+0	14:39:48.028	HalfTrend MTF with alerts GBPNZD,H4: uninit reason 7
+0	14:39:48.028	(T_S_R)-Big Trend GBPNZD,H4: uninit reason 7
+0	14:39:48.028	PipValueCalculatorV1_02 GBPNZD,H4: uninit reason 7
+0	14:39:48.028	PipValueCalculatorV1_02 GBPNZD,H4: OnDeinit_UninitReason = New template was applied to chart
+0	14:39:48.028	TE v2.0 GBPNZD,H4: uninit reason 7
+0	14:39:48.028	BBands Stop Alert GBPNZD,H4: uninit reason 7
+0	14:39:48.029	BUTTONS GBPNZD,H4: uninit reason 7
+0	14:39:48.029	AllHullMA Histo_v3.1 GBPNZD,H4: uninit reason 7
+0	14:39:48.030	Custom indicator HalfTrend MTF with alerts GBPNZD,H4: removed
+0	14:39:48.032	Custom indicator (T_S_R)-Big Trend GBPNZD,H4: removed
+0	14:39:48.034	Custom indicator PipValueCalculatorV1_02 GBPNZD,H4: removed
+0	14:39:48.034	Custom indicator TE v2.0 GBPNZD,H4: removed
+0	14:39:48.034	Custom indicator BBands Stop Alert GBPNZD,H4: removed
+0	14:39:48.036	Custom indicator BUTTONS GBPNZD,H4: removed
+0	14:39:48.039	Custom indicator AllHullMA Histo_v3.1 GBPNZD,H4: removed
+0	14:39:48.309	Custom indicator BBands Stop Alert GBPNZD,H4: loaded successfully
+0	14:39:48.321	Custom indicator Others\Super-Point-Signal GBPNZD,H4: loaded successfully
+0	14:39:48.336	Custom indicator Others\LotSize GBPNZD,H4: loaded successfully
+0	14:39:48.372	Custom indicator ForexprofitsupremeClockv1 GBPNZD,H4: loaded successfully
+0	14:39:48.386	Custom indicator SoeHoe.ID_Signal s2 GBPNZD,H4: loaded successfully
+0	14:39:48.405	Custom indicator AllHullMA_v3.1 600+ GBPNZD,H4: loaded successfully
+0	14:39:48.426	Custom indicator HOLY GRAIL 1.6 GBPNZD,H4: loaded successfully
+0	14:39:48.440	Custom indicator HalfTrend-1.02 GBPNZD,H4: loaded successfully
+0	14:39:48.451	Custom indicator BinaryComodo GBPNZD,H4: loaded successfully
+0	14:39:48.531	Custom indicator 1SSRC GBPNZD,H4: loaded successfully
+0	14:39:48.609	Custom indicator 1SSRC GBPNZD,H4: loaded successfully
+0	14:39:48.703	Custom indicator Dev\SoeHoe.ID_fxsecretsignal GBPNZD,H4: loaded successfully
+0	14:39:48.781	Custom indicator SEFC084 GBPNZD,H4: loaded successfully
+0	14:39:48.794	Custom indicator cracked_Mega_Fx GBPNZD,H4: loaded successfully
+0	14:39:48.803	Custom indicator Solar Winds joy GBPNZD,H4: loaded successfully
+0	14:39:48.815	Custom indicator myindic\xmaster-formula GBPNZD,H4: loaded successfully
+0	14:39:48.816	BBands Stop Alert GBPNZD,H4: initialized
+0	14:39:48.828	Super-Point-Signal GBPNZD,H4: initialized
+0	14:39:48.912	LotSize GBPNZD,H4: initialized
+0	14:39:48.925	ForexprofitsupremeClockv1 GBPNZD,H4: initialized
+0	14:39:48.959	SoeHoe.ID_Signal s2 GBPNZD,H4: initialized
+0	14:39:48.997	AllHullMA_v3.1 600+ GBPNZD,H4: initialized
+0	14:39:48.997	HOLY GRAIL 1.6 GBPNZD,H4: initialized
+0	14:39:49.013	HalfTrend-1.02 GBPNZD,H4: initialized
+0	14:39:49.026	BinaryComodo GBPNZD,H4: initialized
+0	14:39:49.026	1SSRC GBPNZD,H4: initialized
+0	14:39:49.026	1SSRC GBPNZD,H4: initialized
+0	14:39:49.026	SoeHoe.ID_fxsecretsignal GBPNZD,H4: initialized
+0	14:39:49.026	SEFC084 GBPNZD,H4: initialized
+0	14:39:49.040	cracked_Mega_Fx GBPNZD,H4: initialized
+0	14:39:49.050	Solar Winds joy GBPNZD,H4: initialized
+0	14:39:49.067	xmaster-formula GBPNZD,H4: initialized
+0	14:39:49.193	SEFC084 GBPNZD,H4: Calculation time is 0.2 seconds
+0	14:39:49.195	cracked_Mega_Fx GBPNZD,H4: Alert: GBPNZD, TF:H4, MEGAFXPROFIT SELL SIGNAL for Level: -0.08863421 @ 14:39:49
+0	14:41:09.876	BBands Stop Alert GBPNZD,H4: uninit reason 3
+0	14:41:09.876	Super-Point-Signal GBPNZD,H4: uninit reason 3
+0	14:41:09.876	LotSize GBPNZD,H4: uninit reason 3
+0	14:41:09.876	ForexprofitsupremeClockv1 GBPNZD,H4: uninit reason 3
+0	14:41:09.876	SoeHoe.ID_Signal s2 GBPNZD,H4: uninit reason 3
+0	14:41:09.876	AllHullMA_v3.1 600+ GBPNZD,H4: uninit reason 3
+0	14:41:09.876	HOLY GRAIL 1.6 GBPNZD,H4: deinitialized
+0	14:41:09.876	HOLY GRAIL 1.6 GBPNZD,H4: uninit reason 3
+0	14:41:09.876	HalfTrend-1.02 GBPNZD,H4: uninit reason 3
+0	14:41:09.876	BinaryComodo GBPNZD,H4: uninit reason 3
+0	14:41:09.876	1SSRC GBPNZD,H4: deinitialized
+0	14:41:09.876	1SSRC GBPNZD,H4: uninit reason 3
+0	14:41:09.876	1SSRC GBPNZD,H4: deinitialized
+0	14:41:09.876	1SSRC GBPNZD,H4: uninit reason 3
+0	14:41:09.876	SoeHoe.ID_fxsecretsignal GBPNZD,H4: uninit reason 3
+0	14:41:09.876	SEFC084 GBPNZD,H4: uninit reason 3
+0	14:41:09.876	cracked_Mega_Fx GBPNZD,H4: uninit reason 3
+0	14:41:09.876	Solar Winds joy GBPNZD,H4: uninit reason 3
+0	14:41:09.876	xmaster-formula GBPNZD,H4: uninit reason 3
+0	14:41:10.036	BBands Stop Alert GBPNZD,H1: initialized
+0	14:41:10.036	Super-Point-Signal GBPNZD,H1: initialized
+0	14:41:10.036	LotSize GBPNZD,H1: initialized
+0	14:41:10.036	ForexprofitsupremeClockv1 GBPNZD,H1: initialized
+0	14:41:10.036	SoeHoe.ID_Signal s2 GBPNZD,H1: initialized
+0	14:41:10.036	AllHullMA_v3.1 600+ GBPNZD,H1: initialized
+0	14:41:10.036	HOLY GRAIL 1.6 GBPNZD,H1: initialized
+0	14:41:10.036	HalfTrend-1.02 GBPNZD,H1: initialized
+0	14:41:10.036	BinaryComodo GBPNZD,H1: initialized
+0	14:41:10.036	1SSRC GBPNZD,H1: initialized
+0	14:41:10.036	1SSRC GBPNZD,H1: initialized
+0	14:41:10.036	SoeHoe.ID_fxsecretsignal GBPNZD,H1: initialized
+0	14:41:10.036	SEFC084 GBPNZD,H1: initialized
+0	14:41:10.036	cracked_Mega_Fx GBPNZD,H1: initialized
+0	14:41:10.036	Solar Winds joy GBPNZD,H1: initialized
+0	14:41:10.036	xmaster-formula GBPNZD,H1: initialized
+0	14:41:10.198	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds
+0	14:41:10.203	cracked_Mega_Fx GBPNZD,H1: Alert: GBPNZD, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.09556814 @ 14:41:10
+0	14:42:22.913	Custom indicator 2019_03_17\(T_S_R)-Big Trend GBPNZD,H1: loaded successfully
+0	14:42:24.213	(T_S_R)-Big Trend GBPNZD,H1: initialized
+0	15:03:52.537	HalfTrend MTF with alerts EURJPY,H1: uninit reason 7
+0	15:03:52.537	(T_S_R)-Big Trend EURJPY,H1: uninit reason 7
+0	15:03:52.537	PipValueCalculatorV1_02 EURJPY,H1: uninit reason 7
+0	15:03:52.537	PipValueCalculatorV1_02 EURJPY,H1: OnDeinit_UninitReason = New template was applied to chart
+0	15:03:52.537	TE v2.0 EURJPY,H1: uninit reason 7
+0	15:03:52.537	BBands Stop Alert EURJPY,H1: uninit reason 7
+0	15:03:52.537	BUTTONS EURJPY,H1: uninit reason 7
+0	15:03:52.537	AllHullMA Histo_v3.1 EURJPY,H1: uninit reason 7
+0	15:03:52.537	xmaster-formula EURJPY,H1: uninit reason 7
+0	15:03:52.539	Custom indicator HalfTrend MTF with alerts EURJPY,H1: removed
+0	15:03:52.541	Custom indicator (T_S_R)-Big Trend EURJPY,H1: removed
+0	15:03:52.543	Custom indicator PipValueCalculatorV1_02 EURJPY,H1: removed
+0	15:03:52.543	Custom indicator TE v2.0 EURJPY,H1: removed
+0	15:03:52.543	Custom indicator BBands Stop Alert EURJPY,H1: removed
+0	15:03:52.545	Custom indicator BUTTONS EURJPY,H1: removed
+0	15:03:52.547	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: removed
+0	15:03:52.549	Custom indicator xmaster-formula EURJPY,H1: removed
+0	15:03:52.564	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURJPY,H1: loaded successfully
+0	15:03:52.577	Custom indicator 2019_03_17\(T_S_R)-Big Trend EURJPY,H1: loaded successfully
+0	15:03:52.589	Custom indicator 2019_03_04\PipValueCalculatorV1_02 EURJPY,H1: loaded successfully
+0	15:03:52.662	Custom indicator 2019_03_18\TE v2.0 EURJPY,H1: loaded successfully
+0	15:03:52.741	Custom indicator BBands Stop Alert EURJPY,H1: loaded successfully
+0	15:03:52.751	Custom indicator 2019_03_17\BUTTONS EURJPY,H1: loaded successfully
+0	15:03:52.763	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: loaded successfully
+0	15:03:52.788	HalfTrend MTF with alerts EURJPY,H1: initialized
+0	15:03:52.805	(T_S_R)-Big Trend EURJPY,H1: initialized
+0	15:03:52.820	PipValueCalculatorV1_02 EURJPY,H1: initialized
+0	15:03:52.820	TE v2.0 EURJPY,H1: initialized
+0	15:03:52.820	BBands Stop Alert EURJPY,H1: initialized
+0	15:03:52.839	BUTTONS EURJPY,H1: initialized
+0	15:03:52.862	AllHullMA Histo_v3.1 EURJPY,H1: initialized
+0	15:03:57.951	HalfTrend MTF with alerts EURJPY,H1: uninit reason 7
+0	15:03:57.951	(T_S_R)-Big Trend EURJPY,H1: uninit reason 7
+0	15:03:57.951	PipValueCalculatorV1_02 EURJPY,H1: uninit reason 7
+0	15:03:57.952	PipValueCalculatorV1_02 EURJPY,H1: OnDeinit_UninitReason = New template was applied to chart
+0	15:03:57.952	TE v2.0 EURJPY,H1: uninit reason 7
+0	15:03:57.952	BBands Stop Alert EURJPY,H1: uninit reason 7
+0	15:03:57.952	BUTTONS EURJPY,H1: uninit reason 7
+0	15:03:57.952	AllHullMA Histo_v3.1 EURJPY,H1: uninit reason 7
+0	15:03:57.955	Custom indicator HalfTrend MTF with alerts EURJPY,H1: removed
+0	15:03:57.957	Custom indicator (T_S_R)-Big Trend EURJPY,H1: removed
+0	15:03:57.959	Custom indicator PipValueCalculatorV1_02 EURJPY,H1: removed
+0	15:03:57.959	Custom indicator TE v2.0 EURJPY,H1: removed
+0	15:03:57.959	Custom indicator BBands Stop Alert EURJPY,H1: removed
+0	15:03:57.961	Custom indicator BUTTONS EURJPY,H1: removed
+0	15:03:57.963	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: removed
+0	15:03:57.981	Custom indicator 2019_03_17\HalfTrend MTF with alerts EURJPY,H1: loaded successfully
+0	15:03:58.002	Custom indicator 2019_03_17\(T_S_R)-Big Trend EURJPY,H1: loaded successfully
+0	15:03:58.016	Custom indicator 2019_03_04\PipValueCalculatorV1_02 EURJPY,H1: loaded successfully
+0	15:03:58.102	Custom indicator 2019_03_18\TE v2.0 EURJPY,H1: loaded successfully
+0	15:03:58.178	Custom indicator BBands Stop Alert EURJPY,H1: loaded successfully
+0	15:03:58.190	Custom indicator 2019_03_17\BUTTONS EURJPY,H1: loaded successfully
+0	15:03:58.203	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: loaded successfully
+0	15:03:58.222	HalfTrend MTF with alerts EURJPY,H1: initialized
+0	15:03:58.237	(T_S_R)-Big Trend EURJPY,H1: initialized
+0	15:03:58.250	PipValueCalculatorV1_02 EURJPY,H1: initialized
+0	15:03:58.250	TE v2.0 EURJPY,H1: initialized
+0	15:03:58.250	BBands Stop Alert EURJPY,H1: initialized
+0	15:03:58.269	BUTTONS EURJPY,H1: initialized
+0	15:03:58.290	AllHullMA Histo_v3.1 EURJPY,H1: initialized
+0	15:04:03.979	HalfTrend MTF with alerts EURJPY,H1: uninit reason 7
+0	15:04:03.979	(T_S_R)-Big Trend EURJPY,H1: uninit reason 7
+0	15:04:03.979	PipValueCalculatorV1_02 EURJPY,H1: uninit reason 7
+0	15:04:03.979	PipValueCalculatorV1_02 EURJPY,H1: OnDeinit_UninitReason = New template was applied to chart
+0	15:04:03.979	TE v2.0 EURJPY,H1: uninit reason 7
+0	15:04:03.979	BBands Stop Alert EURJPY,H1: uninit reason 7
+0	15:04:03.979	BUTTONS EURJPY,H1: uninit reason 7
+0	15:04:03.979	AllHullMA Histo_v3.1 EURJPY,H1: uninit reason 7
+0	15:04:03.981	Custom indicator HalfTrend MTF with alerts EURJPY,H1: removed
+0	15:04:03.983	Custom indicator (T_S_R)-Big Trend EURJPY,H1: removed
+0	15:04:03.985	Custom indicator PipValueCalculatorV1_02 EURJPY,H1: removed
+0	15:04:03.985	Custom indicator TE v2.0 EURJPY,H1: removed
+0	15:04:03.985	Custom indicator BBands Stop Alert EURJPY,H1: removed
+0	15:04:03.987	Custom indicator BUTTONS EURJPY,H1: removed
+0	15:04:03.989	Custom indicator AllHullMA Histo_v3.1 EURJPY,H1: removed
+0	15:04:04.169	Custom indicator GWS_ZigPoint EURJPY,H1: loaded successfully
+0	15:04:04.178	Custom indicator ZigZag EURJPY,H1: loaded successfully
+0	15:04:04.266	Custom indicator super-signals_v2a[2] EURJPY,H1: loaded successfully
+0	15:04:04.342	Custom indicator BBSTOP EURJPY,H1: loaded successfully
+0	15:04:04.418	Custom indicator Heiken Ashi Smoothed_v2 EURJPY,H1: loaded successfully
+0	15:04:04.500	Custom indicator AnggrekJingga EURJPY,H1: loaded successfully
+0	15:04:04.578	Custom indicator BBSTOP EURJPY,H1: loaded successfully
+0	15:04:04.654	Custom indicator BBSTOP EURJPY,H1: loaded successfully
+0	15:04:04.742	Custom indicator 2019_03_18\TE v2.0 EURJPY,H1: loaded successfully
+0	15:04:04.756	Custom indicator bstrend-indicator EURJPY,H1: loaded successfully
+0	15:04:04.756	GWS_ZigPoint EURJPY,H1: initialized
+0	15:04:04.772	ZigZag EURJPY,H1: initialized
+0	15:04:04.772	super-signals_v2a[2] EURJPY,H1: initialized
+0	15:04:04.772	BBSTOP EURJPY,H1: initialized
+0	15:04:04.772	Heiken Ashi Smoothed_v2 EURJPY,H1: initialized
+0	15:04:04.772	AnggrekJingga EURJPY,H1: initialized
+0	15:04:04.772	BBSTOP EURJPY,H1: initialized
+0	15:04:04.772	BBSTOP EURJPY,H1: initialized
+0	15:04:04.772	TE v2.0 EURJPY,H1: initialized
+0	15:04:04.788	bstrend-indicator EURJPY,H1: initialized
+0	15:04:04.815	BBSTOP EURJPY,H1: Alert: Trend Naik, BUY MODE - EURJPY-60
+0	15:04:04.818	bstrend-indicator EURJPY,H1: Calculation time is 0.2 seconds
+0	15:04:11.251	GWS_ZigPoint EURJPY,H1: uninit reason 7
+0	15:04:11.251	ZigZag EURJPY,H1: uninit reason 7
+0	15:04:11.251	super-signals_v2a[2] EURJPY,H1: uninit reason 7
+0	15:04:11.251	BBSTOP EURJPY,H1: deinitialized
+0	15:04:11.251	BBSTOP EURJPY,H1: uninit reason 7
+0	15:04:11.251	Heiken Ashi Smoothed_v2 EURJPY,H1: deinitialized
+0	15:04:11.251	Heiken Ashi Smoothed_v2 EURJPY,H1: uninit reason 7
+0	15:04:11.251	AnggrekJingga EURJPY,H1: deinitialized
+0	15:04:11.251	AnggrekJingga EURJPY,H1: uninit reason 7
+0	15:04:11.251	BBSTOP EURJPY,H1: deinitialized
+0	15:04:11.251	BBSTOP EURJPY,H1: uninit reason 7
+0	15:04:11.251	BBSTOP EURJPY,H1: deinitialized
+0	15:04:11.251	BBSTOP EURJPY,H1: uninit reason 7
+0	15:04:11.251	TE v2.0 EURJPY,H1: uninit reason 7
+0	15:04:11.251	bstrend-indicator EURJPY,H1: uninit reason 7
+0	15:04:11.251	Custom indicator GWS_ZigPoint EURJPY,H1: removed
+0	15:04:11.253	Custom indicator ZigZag EURJPY,H1: removed
+0	15:04:11.253	Custom indicator super-signals_v2a[2] EURJPY,H1: removed
+0	15:04:11.253	Custom indicator BBSTOP EURJPY,H1: removed
+0	15:04:11.253	Custom indicator Heiken Ashi Smoothed_v2 EURJPY,H1: removed
+0	15:04:11.253	Custom indicator AnggrekJingga EURJPY,H1: removed
+0	15:04:11.253	Custom indicator BBSTOP EURJPY,H1: removed
+0	15:04:11.253	Custom indicator BBSTOP EURJPY,H1: removed
+0	15:04:11.255	Custom indicator TE v2.0 EURJPY,H1: removed
+0	15:04:11.256	Custom indicator bstrend-indicator EURJPY,H1: removed
+0	15:04:11.340	Custom indicator BBands Stop Alert EURJPY,H1: loaded successfully
+0	15:04:11.356	Custom indicator AllHullMA_v3.1 600+ EURJPY,H1: loaded successfully
+0	15:04:11.372	Custom indicator SoeHoe.ID_Signal s2 EURJPY,H1: loaded successfully
+0	15:04:11.385	Custom indicator cracked_Mega_Fx EURJPY,H1: loaded successfully
+0	15:04:11.386	BBands Stop Alert EURJPY,H1: initialized
+0	15:04:11.413	AllHullMA_v3.1 600+ EURJPY,H1: initialized
+0	15:04:11.453	SoeHoe.ID_Signal s2 EURJPY,H1: initialized
+0	15:04:11.468	cracked_Mega_Fx EURJPY,H1: initialized
+0	15:04:11.484	cracked_Mega_Fx EURJPY,H1: Alert: EURJPY, TF:H1, MEGAFXPROFIT BUY SIGNAL for Level: 0.00948877 @ 15:04:11
+0	15:27:35.210	Expert SosCode\TrendSignalsEA AUDCAD,H1: loaded successfully
+0	15:27:36.546	Expert TrendSignalsEA AUDCAD,H1: removed
+0	20:26:22.415	SEFC084 GBPNZD,H1: Calculation time is 0.2 seconds

@@ -1,0 +1,12 @@
+0	21:33:21.883	Custom indicator myindic\BBands Stop Alert AUDCAD,H1: loaded successfully
+0	21:33:24.042	BBands Stop Alert AUDCAD,H1: initialized
+0	21:35:43.606	HalfTrend MTF with alerts AUDCAD,H1: uninit reason 3
+0	21:35:43.606	AllHullMA_v3.1 AUDCAD,H1: uninit reason 3
+0	21:35:43.606	(T_S_R)-Big Trend AUDCAD,H1: uninit reason 3
+0	21:35:43.606	BBands Stop Alert AUDCAD,H1: uninit reason 3
+0	21:35:43.606	xmaster-formula AUDCAD,H1: uninit reason 3
+0	21:35:43.641	HalfTrend MTF with alerts GBPAUD,H1: initialized
+0	21:35:43.641	AllHullMA_v3.1 GBPAUD,H1: initialized
+0	21:35:43.641	(T_S_R)-Big Trend GBPAUD,H1: initialized
+0	21:35:43.641	BBands Stop Alert GBPAUD,H1: initialized
+0	21:35:43.641	xmaster-formula GBPAUD,H1: initialized

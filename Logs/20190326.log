@@ -1,0 +1,217 @@
+0	16:34:42.918	Custom indicator 2019_03_17\HalfTrend MTF with alerts AUDCAD,M15: loaded successfully
+0	16:34:42.943	Custom indicator AllHullMA_v3.1 AUDCAD,M15: loaded successfully
+0	16:34:43.091	HalfTrend MTF with alerts AUDCAD,M15: initialized
+0	16:34:43.111	AllHullMA_v3.1 AUDCAD,M15: initialized
+0	16:34:43.262	Custom indicator 2019_03_17\HalfTrend MTF with alerts AUDCAD,H1: loaded successfully
+0	16:34:43.277	Custom indicator AllHullMA_v3.1 AUDCAD,H1: loaded successfully
+0	16:34:43.297	Custom indicator 2019_03_17\(T_S_R)-Big Trend AUDCAD,H1: loaded successfully
+0	16:34:43.362	Custom indicator myindic\BBands Stop Alert AUDCAD,H1: loaded successfully
+0	16:34:43.387	Custom indicator xmaster-formula AUDCAD,H1: loaded successfully
+0	16:34:43.557	HalfTrend MTF with alerts AUDCAD,H1: initialized
+0	16:34:43.577	AllHullMA_v3.1 AUDCAD,H1: initialized
+0	16:34:43.592	(T_S_R)-Big Trend AUDCAD,H1: initialized
+0	16:34:43.592	BBands Stop Alert AUDCAD,H1: initialized
+0	16:34:43.608	xmaster-formula AUDCAD,H1: initialized
+0	16:59:21.333	BBands Stop Alert AUDCAD,H1: Alert: Bbands Stop Alert Sell --> AUDCAD@TF60
+0	16:59:27.067	HalfTrend MTF with alerts AUDCAD,M15: Alert: HalfTrend: SELL AUDCAD TF 15 min at 0.95363
+0	17:44:15.071	BBands Stop Alert AUDCAD,H1: Alert: BBands Stop Alert Buy --> AUDCAD@TF60
+0	18:14:26.298	HalfTrend MTF with alerts AUDCAD,M15: Alert: HalfTrend: BUY AUDCAD TF 15 min at 0.95563
+0	18:29:30.631	Expert Holy Grail Scalper AUDCAD,H1: loaded successfully
+0	18:29:34.039	Holy Grail Scalper AUDCAD,H1 inputs: Lots=0.01; MoneyManagement=false; Risk=0.1; SafeMode=false; TakeProfit=2; PipStep=10; TradingSensitivity=1; Range=10; ScalperMode=false; Stoploss=10; TrailingStart=1; TrailingStop=1; Slippage=3; MagicNumber=1; 
+0	18:29:34.092	Holy Grail Scalper AUDCAD,H1: initialized
+0	18:29:36.089	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:36.153	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:38.740	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:38.793	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:39.105	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:39.223	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:39.480	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:39.639	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:40.279	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:40.917	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:40.991	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:41.648	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:42.337	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:42.428	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:42.540	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:42.618	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:42.705	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:45.627	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:45.720	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:45.945	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:46.163	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:47.975	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:48.154	Holy Grail Scalper AUDCAD,H1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:29:48.353	Holy Grail Scalper AUDCAD,H1: uninit reason 1
+0	18:29:48.357	Expert Holy Grail Scalper AUDCAD,H1: removed
+0	18:35:37.649	Expert Holy Grail Scalper AUDJPY,M1: loaded successfully
+0	18:35:42.148	Holy Grail Scalper AUDJPY,M1 inputs: Lots=0.01; MoneyManagement=false; Risk=0.1; SafeMode=false; TakeProfit=2; PipStep=10; TradingSensitivity=1; Range=10; ScalperMode=false; Stoploss=10; TrailingStart=1; TrailingStop=1; Slippage=3; MagicNumber=1; 
+0	18:35:42.186	Holy Grail Scalper AUDJPY,M1: initialized
+0	18:35:42.383	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:42.479	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:43.303	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:43.663	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:43.790	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:45.628	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:46.550	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:47.939	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:48.361	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:48.636	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:49.573	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:49.904	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:50.538	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:50.748	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:51.303	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:52.136	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:52.578	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:52.717	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:58.563	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:58.898	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:59.560	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:35:59.967	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:01.109	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:01.662	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:01.919	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:04.391	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:04.501	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:05.159	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:07.365	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:08.367	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:09.700	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:09.792	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:10.029	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:10.143	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:10.277	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:10.417	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:11.074	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:11.317	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:11.823	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:11.939	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:12.317	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:12.664	Automated trading enabled
+0	18:36:13.487	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:13.609	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:14.143	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:14.426	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:14.853	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:15.421	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:15.573	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:15.901	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:16.246	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:16.535	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:16.635	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:20.885	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:21.273	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:21.999	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:25.347	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:25.465	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:25.573	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:25.863	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:26.248	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:27.649	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:28.073	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:28.747	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:32.669	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:33.943	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:34.171	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:34.192	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:34.302	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:34.863	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:35.363	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:35.683	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:36.364	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:36.514	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:36.707	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:38.997	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:40.946	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:40.964	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:42.086	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:44.717	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:44.825	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:45.447	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:46.117	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:47.354	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:49.520	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:49.660	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:51.018	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:51.342	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:51.536	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:52.235	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:52.421	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:54.041	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:36:56.489	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:04.263	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:04.302	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:04.578	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:04.779	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:05.229	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:05.293	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:05.468	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:06.109	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:06.651	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:06.846	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:06.922	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:08.090	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:10.497	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:10.641	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:10.740	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:10.772	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:10.925	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:11.081	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:11.243	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:11.753	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:11.813	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:12.855	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:12.928	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:13.024	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:14.019	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:15.857	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:15.985	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:22.009	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:23.550	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:24.289	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:27.718	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:27.950	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:28.167	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:28.399	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:29.285	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:29.357	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:30.573	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:31.659	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:31.957	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:32.251	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:32.385	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:33.260	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:34.761	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:35.598	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:35.767	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:36.078	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:36.621	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:36.667	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:38.989	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:39.189	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:39.225	Holy Grail Scalper AUDJPY,M1: uninit reason 5
+0	18:37:39.229	Holy Grail Scalper AUDJPY,M1: initialized
+0	18:37:39.261	Holy Grail Scalper AUDJPY,M1 inputs: Lots=0.01; MoneyManagement=false; Risk=0.1; SafeMode=false; TakeProfit=2; PipStep=10; TradingSensitivity=1; Range=10; ScalperMode=false; Stoploss=10; TrailingStart=1; TrailingStop=1; Slippage=3; MagicNumber=1; 
+0	18:37:39.457	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:39.960	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:44.958	Automated trading disabled
+0	18:37:47.651	Holy Grail Scalper AUDJPY,M1: Alert: This EA Has Been Expired, Please Contact Seller: invisible_trader@yahoo.com
+0	18:37:47.676	Holy Grail Scalper AUDJPY,M1: uninit reason 1
+0	18:37:47.686	Expert Holy Grail Scalper AUDJPY,M1: removed
+0	19:56:35.065	Custom indicator BBands Stop Alert GBPJPY,H1: loaded successfully
+0	19:56:35.162	Custom indicator Others\Super-Point-Signal GBPJPY,H1: loaded successfully
+0	19:56:35.192	Custom indicator Others\LotSize GBPJPY,H1: loaded successfully
+0	19:56:35.221	Custom indicator ForexprofitsupremeClockv1 GBPJPY,H1: loaded successfully
+0	19:56:35.266	Custom indicator SoeHoe.ID_Signal s2 GBPJPY,H1: loaded successfully
+0	19:56:35.311	Custom indicator AllHullMA_v3.1 600+ GBPJPY,H1: loaded successfully
+0	19:56:35.392	Custom indicator HOLY GRAIL 1.6 GBPJPY,H1: loaded successfully
+0	19:56:35.470	Custom indicator HalfTrend-1.02 GBPJPY,H1: loaded successfully
+0	19:56:35.506	Custom indicator BinaryComodo GBPJPY,H1: loaded successfully
+0	19:56:35.602	Custom indicator 1SSRC GBPJPY,H1: loaded successfully
+0	19:56:35.672	Custom indicator 1SSRC GBPJPY,H1: loaded successfully
+0	19:56:35.869	Custom indicator Dev\SoeHoe.ID_fxsecretsignal GBPJPY,H1: loaded successfully
+0	19:56:35.961	Custom indicator SEFC084 GBPJPY,H1: loaded successfully
+0	19:56:35.997	Custom indicator cracked_Mega_Fx GBPJPY,H1: loaded successfully
+0	19:56:36.032	Custom indicator Solar Winds joy GBPJPY,H1: loaded successfully
+0	19:56:36.073	Custom indicator myindic\xmaster-formula GBPJPY,H1: loaded successfully
